@@ -1,0 +1,76 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-forest_v3.png" .center}
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+```
+
+<br>
+
+**Section 3: Current Challenges in American Environmentalism**
+
+::: {.r-fit-text}
+
+**3.1 Environmental Justice**
+
+- Missouri Coalition for the Environment (MCE)?
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2025)
+:::
+
+::: notes
+Prep for Class
+
+1. ...
+
+<br>
+
+**SLIDE**: ...
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+
+TBD
+
+:::
+
+::: notes
+
+<br>
+
+**SLIDE**: ...
+
+:::
+
+
+
+
+
+
+## For Next Class {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+
+::: notes
+
+<br>
+
+**Questions on the assignment?**
+
+:::
