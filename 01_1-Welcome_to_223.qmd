@@ -14,7 +14,9 @@ library(kableExtra)
 
 ::: {.r-fit-text}
 
-**Welcome to The Individual, Society and the Environment!**
+**PLSC 223**
+
+- **The Individual, Society and the Environment**
 
 :::
 
@@ -29,7 +31,7 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Update attendance list
 
 <br>
 
@@ -41,44 +43,25 @@ Welcome to The Individual, Society and the Environment
 
 <br>
 
-**SLIDE**: Warm up exercise
+**SLIDE**: Warm-up current events
 
 :::
 
 
 
-## {background-image="Images/background-forest_v3.png" .center}
+## Current Events Check-in {background-image="Images/background-forest_v3.png" .center}
 
-::: {.r-fit-text}
-**The Most Important Environmental Problems**
+<br>
 
-- Local?
-
-- National?
-
-- Global?
-:::
+### What's going on in the world of environmental problems or policy?
 
 ::: notes
 
-*Split class into three parts based on where they are sitting*
+Everybody pull out your phone or internet device and go find me current events or news stories that give us a sense of what's going on in the world of environmental policy right now.
 
 <br>
 
-Groups, introduce yourselves to each other and start making three lists on the board
-
-- What are currently the most important environmental problems we face at the global, national and local levels?
-
-- By the way, "climate change" is not a specific enough answer for these lists
-    - Climate change is a magnifier of other problems, list the specific problems
-
-<br>
-
-*Share lists and discuss*
-
-- How are you defining "important"?
-
-- "Who" matters most according to your list?
+*PRESENT and DISCUSS each*
 
 <br>
 
@@ -97,14 +80,16 @@ Groups, introduce yourselves to each other and start making three lists on the b
 
 3. Major
 
-4. Enrolled in the Environment Certificate?
+4. PLSC, Certificate or Explorations?
 :::
 
 ::: notes
 
 This class is almost always a quirky collection of backgrounds and interests!
 
-- Some of you are here for the environment Fusion certificate, and
+- Some of you are here for the environment Fusion certificate, 
+
+- Some are here to meet a Fusion Exploration requirement, and
 
 - Some are poli sci or environmental biology majors
 
@@ -119,362 +104,96 @@ I'll go first.
 1. I'm Dr. Justin Leinaweaver.
 
 2. FSU undergrad, masters in IR at UCD and PhD at Trinity.
-    - My thirteenth year at Drury
+    - My fourteenth year at Drury
 
 3. I'm a political scientist
     - Research interests: international policymaking, environmental politics and bargaining / negotiations.
   
-4. I'm the director of the certificate
+4. I'm the director of the Solving Environmental Problems certificate
 
 <br>
 
 **Your turn**
 
+<br>
+
+**SLIDE**: For those of you not here for the certificate, let me quickly pitch you on it
+
 :::
 
 
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
+::: {.r-fit-text}
 **Designing Solutions for Environmental Problems**
+:::
 
 <br>
 
+::: {.r-fit-text}
 **Required Courses**
+
+- PLSC 223 The Individual, Society and the Environment
 
 - BIOL 163 Science of the Environment
 
 - ECON 225 Introduction to Environmental Economics
-
-- PHIL 320 Environmental Ethics
 
 - PLSC 323 Issues in Environmental Policy
 
-::: notes
-
-As I mentioned, this class is the capstone for the "Designing Solutions for Environmental Problems" Fusion Certificate.
-
-<br>
-
-**SLIDE**: For those who haven't had the pleasure of the pre-reqs, let's ask the certificate students to tell us what they learned!
-:::
-
-
-
-## {background-image="Images/01_1-Environmental-Scientist.webp"}
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-::: {.r-fit-text}
-<p style="color: white;">**BIOL 163 Science of the Environment**</p>
 :::
 
 ::: notes
 
-The "Science of the Environment" class was designed to enable you to identify the scientific basis of environmental problems (see certificate LOs).
+So, this class is the intro for the "Designing Solutions for Environmental Problems" Fusion Certificate.
 
-### How did Dr. Jansen help you do this? 
-
-<br>
-
-### What kinds of assignments did you complete?
-:::
-
-
-
-## {background-image="Images/01_1-env_econ3.jpg"}
+- This is a "professional" certificate means to help you quickly develop the background and skills needed to make a concrete difference in your community
 
 <br>
 
-<br>
+Our argument to you is that successfully solving environmental problems requires an understanding of:
+
+- the community that faces the problem,
+
+- the science of the problem,
+
+- the economics of the problem, and
+
+- the tools of good policy design.
 
 <br>
 
-<br>
+If anybody has questions on the certificate I'm happy to meet and discuss.
 
 <br>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-::: {.r-fit-text}
-**ECON 225 Introduction to Environmental Economics**
-:::
-
-::: notes
-
-The "Environmental Economics" class was designed to enable you to evaluate the business conditions that contribute to these problems (see certificate LOs).
-
-### How did this class help you do this? 
-
-<br>
-
-### What kinds of assignments did you complete?
-
-:::
-
-
-
-## {background-image="Images/01_1-env_ethics_2.png"}
-
-::: {.r-fit-text}
-<p style="color: white;">**PHIL 320 Environmental Ethics**</p>
-:::
-
-::: notes
-
-The "Environmental Ethics" class was designed to enable you to compare and contrast alternative ethical perspectives of an environmental problem and its potential solutions (see certificate LOs).
-
-### How did Dr. Browning help you do this? 
-
-<br>
-
-### What kinds of assignments did you complete?
-
-:::
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-**Designing Solutions for Environmental Problems**
-
-<br>
-
-**Required Courses**
-
-- BIOL 163 Science of the Environment
-
-- ECON 225 Introduction to Environmental Economics
-
-- PHIL 320 Environmental Ethics
-
-- **PLSC 323 Issues in Environmental Policy**
-
-::: notes
-
-That brings us to the capstone experience, e.g. this class!
-
-- In here we bring the politics and policy to the table.
-
-<br>
-
-In other words, given the science, the economics and the ethics of a given environmental problem, what can we feasibly do to address it?
-:::
-
-
-
-
-## {background-image="Images/01_1-politics1.png"}
-
-::: notes
-
-Given our large number of non-majors we should take a moment to define a key concept in our class: Politics
-
-**Non-majors, when you think of the word "politics" what do you think of?**
-
-- **Is it compromise, good faith and teamwork?**
-
-<br>
-
-**When we describe someone as "political" what are we saying about them?**
-
-- **Is it a flattering description?**
-
-<br>
-
-The word politics these days is often attached to awful behavior by self-serving morons.
-
-- That is decidedly not what we study in political science
-
-- Or, that is not the only thing we study in political science
-
-<br>
-
-**SLIDE**: Rather than start with a technical definition, let's simulate a political problem related to the environment and see if that clears things up
-
-:::
-
-
-
-## {background-image="Images/01_1-politics1_v1.png"}
-
-::: {.r-fit-text}
-**What explains the outcome of our game?**
-:::
-
-::: notes
-
-Everybody take a moment to reflect on our game.
-
-- Get ready to explain, from your perspective, what just happened?
-
-<br>
-
-**Bottom line, why did we end up with the outcome of the game that we did?**
-
-- **Biggest reason(s) in your mind?**
-
-<br>
-
-1. **Did everyone in class have the same goals?**
-
-2. **Did making rules as a community help? Why or why not?**
-
-3. **Did you worry much about compliance with the rules? Why or why not?**
-
-4. **Did you care about the survival of the fishery? Why or why not?**
-
-<br>
-
-Games and simulations are often a useful tool for exploring politics.
-
-- What we just played was a fairly basic resource distribution game.
-
-- It highlights a ton of important stuff, but let me know draw out a few important ideas
-
-<br>
-
-**SLIDE**: Standard definitions of politics...
-:::
-
-
-
-## {background-image="Images/01_1-politics1_v1.png"}
-
-::: {.r-fit-text}
-**1. Decision-making in a community**
-:::
-
-::: notes
-
-One way that we study "politics" is by focusing on **how groups make decisions**.
-
-- Group decision-making is complex and multi-layered
-
-- It is also one of the **fundamental building blocks** of our society 
-
-<br>
-
-I set a fairly simple rule in your game, a majority vote.
-
-- But that is FAR from the only way we could have done it! 
-:::
-
-
-
-
-## {background-image="Images/01_1-politics1_v1.png"}
-
-::: {.r-fit-text}
-**2. How we make and enforce "the rules"**
-:::
-
-::: notes
-
-A second way that we study "politics" is by focusing on **the rules**.
-
-- Once a society has established rules, many political scientists study how those rules are interpreted, revised and enforced
-
-- **The decision to punish a rule-breaker is a huge decision** that often sends ripples out through a community
-
-<br>
-
-**Out of curiosity, what would happen if today SGF police started pulling over EVERY car that exceeded the speed limit by even 1 mph?**
-
-- **Seriously, walk me through how our community changes and reacts to that change in policy.**
-
-<br>
-
-**And what would happen if they completely stopped enforcing speed limits?**
-
-- **Again, walk me through how our community changes and reacts to that change in policy.**
-
-:::
-
-
-## {background-image="Images/01_1-politics1_v1.png"}
-
-::: {.r-fit-text}
-**3. Who gets what, when and how?**
-:::
-
-::: notes
-
-A third way that we study "politics" is by focusing on **the distribution of costs and benefits**.
-
-<br>
-
-Why do groups form? 
-
-- Often it is **to produce greater resources** than any individual could do on their own
-
-    - This could be money, food, a division of labor, or collective security
-
-- HOWEVER, producing that good means **someone has to pay** and someone has to benefit
-
-<br>
-
-Who pays and who benefits is **a constant tension** in any society.
-
-<br>
-
-Bottom line, anytime a group of people have to come together to make a decision, a political scientist can be found who is interested in the process.
-
-- **Any questions on this broad definition of the concept "politics"?**
+**SLIDE**: Let's go to Canvas!
 :::
 
 
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
-::: {.r-fit-text}
-**Solving Environmental Problems in a Political World**
-:::
-
-```{r, echo = FALSE, fig.align = 'center'}
-knitr::include_graphics("Images/01_1-environmental-issues.png")
-```
+![](Images/01_1-Canvas_Homepage.png){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-And that brings us to our primary aim in this class: 
-
-- Our big goal this semester is to find a local environmental problem, learn a ton about it and then try to make a difference in it
+Everybody log on to our class canvas page and let's talk about our semester 
 
 <br>
 
-I mean this. 
+Home page
 
-- My ambition is that we get out into the world and get something done.
+- Catalog description
 
-- Will we succeed? Who knows! But let's give it a shot!
+- LOs
+
+- Instructor info and my contact info
 
 <br>
 
-**SLIDE**: Let's wrap up today by touching base on my expectations for the course
+**SLIDE**: Go to the syllabus page
 
 :::
 
@@ -482,90 +201,171 @@ I mean this.
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
-```{r}
-tibble(
-  col1 = c("Attendance & Participation", "Outcome Reports", "1. Baseline Argument Report", "2. Problem Framing Report", "3. The Policy Evaluation Report"),
-  col2 = c("", "", "(Feb 28)", "(Apr 11)", "(Final)"),
-  col3 = c("50%", "50%", "", "", "")
-) |>
-  kableExtra::kbl(align = c("l", "c", "c"), col.names = c("", "", "")) |>
-  kableExtra::kable_styling(font_size = 40) |>
-  kableExtra::column_spec(1, width = "20em") |>
-  kableExtra::column_spec(2, width = "7em") |>
-  kableExtra::row_spec(0, background = "lightblue") |>
-  kableExtra::row_spec(1:5, background = "white")
-```
+![](Images/01_1-Canvas_Syllabus.png){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-Everyone should download and read the syllabus.
+Syllabus is our contract for the class
 
-- Tons of important course policies in there and by taking this class you are agreeing to all of them
-
-<br>
-
-Since this capstone class has ambitions of getting out into the world and making a difference, I need you all to come to class and be engaged
-
-- We're only going to get as far as you're willing to push.
-
-- The attendance and participation policies are meant to help motivate you!
+- All the key details are in it
 
 <br>
 
-Half your course grade this semester is about showing up, being prepared and engaging in the work of our class.
+Grades breakdown
 
-- You'll see on the Modules page of Canvas that most of our class sessions have a reading plus an assignment
+- Participation is 55% of the grade (daily assignments)
 
-- To get credit you must submit these assignments BEFORE class begins.
+- Three papers are 45%
 
 <br>
 
-There is an attendance cliff in this class
+- Attendance Policy
 
-- Anyone with more than three unexcused absences in the semester cannot earn higher than a ‘C’ in the course (regardless of grades earned on other assignments).
-
-- IFF you have an excused absence coming up **YOU** are required to contact me by email for excused absences
+    - Attendance cliff after three unexcused absences ("C")
     
-    - Coach emails alone DO NOT COUNT
+    - If you will be missing class for an excusable reason (e.g. documented medical issues, school mandated absences) **YOU** must email me before the absence in order to receive a make-up assignment.
+    
+    - Coach emails do not replace YOUR responsibility to contact me
+    
+    - Participation: You earn participation points by being on time to class, being engaged during class (e.g., having all needed materials, not distracting others, etc.), and submitting all required daily assignments on Canvas BEFORE class begins.
+    
+<br>
+
+Syllabus also has
+
+- Paper submission requirements
+
+- Argument paper rubric I use for grading
+
+- Provisional semester outline, and
+
+- Drury University policies on plagiarism, Title IX and Disability Support services
 
 <br>
 
-The other half of your grade will consist of reports presenting your analyses and action plans for our selected environmental problem
+We will be getting out of the classroom at times this semester. 
 
-- More to come on that soon.
+- **Does everyone have a car?**
+
+- If not please let me know and we will figure out carpooling for those trips.
 
 <br>
 
-**Any questions on these grades or policies?**
+**SLIDE**: The AI policy
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
+## {background-image="Images/background-forest_v3.png" .center}
 
-<br>
-
-### Check Canvas: What is due before next class?
+![](Images/01_1-No_AI_Tools.jpg){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-1. Cronon 1996, "The Trouble with Wilderness or, Getting Back to the Wrong Nature"
+You may not use any AI tools in this class
 
-2. Canvas Assignment
-    
-    1. According to Cronon (1996), why is "the wilderness" a serious problem for environmental problem-solving? Explain the thesis of the article (2+ sentences)
-    
-    2. What is the strongest piece of evidence provided by Cronon in the article? (2+ sentences)
-    
-    3. If Cronon (1996) is correct, what do we need to do in order to engage productively in environmental problem-solving in our community? (2+ sentences)
+- No AI search
 
-<br>
+- No AI summaries of articles or books
 
-**Questions on the assignment?**
+- No AI for outlining or writing
+
+- No AI for data analysis
+
+- No AI to simply clean up your grammar (e.g. Grammarly).
 
 <br>
 
-See you Thursday!
+The purpose of this class is to help you become a better thinker, writer and problem-solver
+
+- AI represents the antithesis of these skills. 
+
+- Therefore, the use of AI on any assignment will be treated as plagiarism
+
+<br>
+
+**Questions on this policy?**
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_1-Canvas_Modules.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Finally, everybody go to the modules page.
+
+<br>
+
+This has almost everything you need to succeed in this class this semester!
+
+- All readings posted (or linked)
+
+- All Canvas daily assignments
+
+    - REMEMBER you must complete these BEFORE class to earn credit!
+
+<br>
+
+**Any questions on the Modules page or what is listed here?**
+
+<br>
+
+**SLIDE**: Everybody click on the pre-class assignment listed for Thursday and let's get to work!
+
+:::
+
+
+
+
+## {background-image="Images/01_1-Drury_Campus.jpeg" .center}
+
+::: notes
+
+To help kick off our class we need to see what your prior understandings of the environment look like.
+
+- I'm asking for you to explore our campus a bit and to report back on what you find.
+
+- Three photos each in response to a specific prompt alongside an explanation of your reasoning.
+
+<br>
+
+**Any questions on the prompts themselves?**
+
+<br>
+
+IMPORTANT NOTE: This is NOT a reviewing the research exercise (yet).
+
+- Don't google the concepts first. 
+
+- I want your work to reflect your current understanding of the concepts.
+
+- This is not an attempt to represent or illustrate some common, external definition.
+
+<br>
+
+**Does that make sense?**
+
+- Your intuition + life experience will have led you to this moment and your current understanding of the world
+
+- I want your photos to reflect THAT understanding.
+
+<br>
+
+Go to work and I'll see you Thursday
+
+<br>
+
+Canvas Assignment: Reflecting on our Backyard
+
+1. Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form. Include the photo and 2+ sentences explaining your selection.
+
+2. Take a photo of something on campus that represents wilderness or nature in a slightly lesser form (e.g. still natural, but being managed or controlled). Include the photo and 2+ sentences explaining your selection.
+
+3. Take a photo of something on campus that is clearly NOT an example of the wilderness or nature in any form. Include the photo and 2+ sentences explaining your selection.
 
 :::
