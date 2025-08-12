@@ -29,11 +29,103 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Copy all submissions to Google Doc and publish on Canvas Modules
+
+3. Stay logged into Canvas for publishing the shared docs
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Questions on the course or plan?
+
+:::
+
+
+
+## Course Outline {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_2-Syllabus_Topics.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Any questions on the course policies in the syllabus or anything else on Canvas related to the course?**
+
+<br>
+
+**SLIDE**: Getting organized for the field trip
+
+:::
+
+
+
+## Next Thursday (Aug 28) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+![](Images/01_2-SGF_Nature_Center.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Next Thursday our first field trip of the semester
+
+- We're meeting at the Springfield Conservation Nature Center
+
+- We'll gather there at 9:35a and spend an hour (time to travel back to campus)
+
+<br>
+
+**Does everybody have a car?**
+
+- **Anybody willing to car pool?**
+
+<br>
+
+**SLIDE**: Today we use our backyard to define the key concept: "nature"
+
+:::
+
+
+
+## {background-image="Images/01_1-Drury_Campus.jpeg" .center}
+
+::: notes
+
+For today I asked each of you to explore our campus and submit photo evidence of your findings
+
+<br>
+
+**How did this go?**
+
+- **Was this a simple enough task or not? Why?**
+
+<br>
+
+*Split class into small groups (4 each?)*
+
+- *PUBLISH: Pure nature document on Canvas*
+
+- Go sit with your group
+
+<br>
+
+On the Canvas Modules page I have added a document link that includes all of the class submissions to the first prompt.
+
+- Open it up!
+
+<br>
+
+**SLIDE**: Prompt 1
+
+<br>
+
+Canvas Assignment: Reflecting on our Backyard
+
+1. Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form. Include the photo and 2+ sentences explaining your selection.
+
+2. Take a photo of something on campus that represents wilderness or nature in a slightly lesser form (e.g. still natural, but being managed or controlled). Include the photo and 2+ sentences explaining your selection.
+
+3. Take a photo of something on campus that is clearly NOT an example of the wilderness or nature in any form. Include the photo and 2+ sentences explaining your selection.
 
 :::
 
@@ -42,20 +134,176 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
+**"Wilderness" / "nature" in its "purest" form**
 
-TBD
+1. Review the cases, and
 
+2. Make a list of shared qualities
 :::
 
 ::: notes
 
+1. Groups review and discuss the submissions, and 
+
+2. Develop a list of the qualities you argue are common to all of these examples (or most of them)
+
 <br>
 
-**SLIDE**: ...
+Let's build a big list of qualities of "pure" nature!
+
+- *ON BOARD*
+
+<br>
+
+**SLIDE**: Definition time
 
 :::
 
 
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Define "wilderness" / "nature" in "purest" form**
+
+- Aim for one complete sentence
+:::
+
+::: notes
+
+Ok, groups, if these are the qualities we are interested in I want you to write me a concise definition of the concept
+
+- Aim for one complete sentence
+
+- Go!
+
+<br>
+
+PRESENT and DISCUSS each
+
+<br>
+
+*PUBLISH the "not nature" cases*
+
+- Ok, switch to the document I posted focused on your third cases (e.g. the examples of things that are NOT nature)
+
+<br>
+
+**SLIDE**: Next prompt
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The absence of "wilderness" / "nature"**
+
+1. Review the cases, and
+
+2. Make a list of shared qualities
+:::
+
+::: notes
+
+Let's once again build a big list of qualities
+
+- Groups, review the cases and make a list of shared qualities
+
+- *ON BOARD*
+
+<br>
+
+**SLIDE**: Definition time
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Define the absence of "wilderness" / "nature"**
+
+- Aim for one complete sentence
+:::
+
+::: notes
+
+Ok, groups, if these are the qualities we are interested in I want you to write me a concise definition of the concept
+
+- Aim for one complete sentence
+
+- Go!
+
+<br>
+
+PRESENT and DISCUSS each
+
+<br>
+
+*PUBLISH middle cases document*
+
+- **SLIDE**: Developing your scale
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The Wilderness / Nature Scale**
+
+- Ten point scale
+
+- 1 ("Not Nature") to 10 ("Pure Nature")
+:::
+
+::: notes
+
+Imagine a 10 point scale bounded by these two definitions (e.g. scale from not nature to pure nature)
+
+<br>
+
+Everybody open our final shared document that holds all our in-between cases
+
+- Let's step through the cases
+
+- Groups, you tell us where you would put this example on your version of the ten point scale and why
+
+- *PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: In sum
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**What is "the environment"?**
+
+- e.g. "nature" or "wilderness"
+:::
+
+::: notes
+
+**Ok, where do we end up?**
+
+- **What is "nature" or the "wilderness"?**
+
+- **Do we have one single definition or a few competing ones?**
+
+<br>
+
+**SLIDE**: Next class
+
+:::
 
 
 
@@ -64,11 +312,25 @@ TBD
 
 <br>
 
+::: {.r-fit-text}
+
+1. Read Nash (2014) Prologue
+
+2. Submit and reflect upon a wilderness experience
+
+:::
 
 ::: notes
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+T - (Nash 2014 p1-7 (prologue) and ASSIGNMENT)
+Canvas DISCUSSION: Share a Wilderness Experience
+What is a meaningful experience you have had in the "wilderness" or in "nature"? Describe the experience and what made it meaningful to you. Also, share a picture of the place so we can see some version of what you saw during the experience (personal or just from the internet). 
+
 
 :::
