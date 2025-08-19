@@ -257,7 +257,7 @@ We will be getting out of the classroom at times this semester.
 
 
 
-## {background-image="Images/background-worldmap4.png" .center}
+## {background-image="Images/background-forest_v3.png" .center}
 
 ![](Images/01_1-No_AI_Tools.jpg){style="display: block; margin: 0 auto"}
 
