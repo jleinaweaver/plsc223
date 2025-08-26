@@ -33,6 +33,8 @@ Prep for Class
 
 1. Check Canvas submissions
 
+2. Have all three google docs from last class open for yourself to refer to
+
 <br>
 
 **SLIDE**: Final details on field trip
@@ -46,21 +48,19 @@ Prep for Class
 :::: {.columns}
 ::: {.column width="40%"}
 
+<br>
+
 ::: {.r-fit-text}
-**Thursday (Aug 28)**
+**Springfield Conservation Nature Center**
+
+- Thursday (Aug 28)
+
+- 9:35a - 10:35a
 :::
 
 <br>
 
-**Springfield**
-
-**Conservation**
-
-**Nature Center**
-
-<br>
-
-![](Images/01_2-SGF_Nature_Center.png){style="display: block; margin: 0 auto"}
+![](Images/02_1-Nature-Center.jpg){style="display: block; margin: 0 auto"}
 :::
 
 ::: {.column width="60%"}
@@ -78,9 +78,9 @@ Thursday our first field trip of the semester
 
 <br>
 
-**Does everybody have a car?**
+**Does everybody have a plan for how to get there?**
 
-- **Anybody willing to car pool?**
+- **Any questions on the trip?**
 
 <br>
 
@@ -101,19 +101,35 @@ Thursday our first field trip of the semester
 
 ::: notes
 
-**Where did we end up with our work defining the key concepts last week?**
+Let's kick off our work today with a refresher from last week
+
+- Everybody open up our "pure nature" document on Canvas
 
 <br>
 
-**What were the "best" examples of pure wilderness on Drury's campus?**
+**What are the "best" examples of pure wilderness on Drury's campus on this document? Why?**
 
 <br>
 
-**And what were our most amusing examples of NOT nature from our campus?**
+Open up the "not" nature document
+
+- **What are the "most" not nature of the photos that were submitted? why?**
 
 <br>
 
-**SLIDE**: Segue into the Nash reading
+**On balance, where would you classify Drury's campus in terms of "pure nature," "managed nature" and "not nature"? Make your case!**
+
+<br>
+
+**Would it be "better" if Drury were closer to "pure nature"? Why or why not?**
+
+- **Better for who?**
+
+- **Better for what?**
+
+<br>
+
+**SLIDE**: For today I gave you the prologoue from Roderick Frazier Nash's book
 
 :::
 
@@ -126,9 +142,7 @@ Thursday our first field trip of the semester
 
 ::: notes
 
-As I told you last class, the Nash book is a phenomenal exploration of the American relationship with wilderness across time
-
-- And I really appreciate the clarity, depth and conciseness of the prologue you read for class today
+Nash's book is a phenomenal exploration of the American relationship with wilderness across time
 
 - I was super tempted to assign this book as a throughline for our class, but it gets pretty wonky pretty darn fast
 
@@ -136,7 +150,11 @@ As I told you last class, the Nash book is a phenomenal exploration of the Ameri
 
 <br>
 
-**SLIDE**: Let's dig into the reading as an academic argument.
+So, we stick with the prologue!
+
+- I really appreciate the clarity, depth and conciseness of the prologue as a deep dive into our key concept, wilderness
+
+- **SLIDE**: Let's dig into the reading as an academic argument.
 
 :::
 
@@ -152,7 +170,15 @@ As I told you last class, the Nash book is a phenomenal exploration of the Ameri
 
 ::: notes
 
-If this is an academic argument then it must have a thesis!
+*Split class into small groups (3 per)*
+
+- Go sit with your group!
+
+<br>
+
+The Nash book is definitely an academic argument and that means it should have a clear thesis.
+
+- Groups, reflect on the prologue and get ready to tell me what the central argument of this chapter is.
 
 <br>
 
@@ -168,7 +194,7 @@ If this is an academic argument then it must have a thesis!
 
 There are a lot of big important ideas in this seven pages (so concise!), but I think the argument comes early in the reading
 
-- **SLIDE**: on next slide - Wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+- **SLIDE**: on next slide is your version, e.g. "Wilderness is an evolving, subjective 'quality' NOT an object we can simply identify"
 
 :::
 
@@ -212,11 +238,11 @@ Groups, report back!
 
 <br>
 
-All of this leads to Nash's proposal for moving forward with this concept
-
-- **SLIDE**: If wilderness or nature is a quality, then our best bet is to evaluate it on a spectrum
+**SLIDE**: Your version (3 premises)
 
 <br>
+
+*Chapter notes: Prologue*
 
 **NOTES**
 
@@ -268,6 +294,128 @@ A Spectrum of Environments (p6-7)
 
 
 
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+2. The meaning of wilderness has evolved over time 
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
+I want to highlight these three premises (big ideas)
+
+<br>
+
+If the intuition held by so many is wilderness is a concrete thing we can identify and agree on, then these are serious problems!
+
+<br>
+
+**SLIDE**: Expand on P1
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+    - Lost, unruly, disordered (Old Swedish describe boiling water)
+    
+    - Creatures not controlled by man ("wild-deor-ness")
+    
+    - Places that make us wild ("bewilder")
+
+2. The meaning of wilderness has evolved over time 
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
+Different cultures and places came to the concept in different ways
+
+- For some wilderness is a state of disorder
+
+- Others focused on the places dominated by the beasts of the wild and their dangers
+
+- Still others proposed wilderness as a place where the constraint of society are removed and man becomes like a wild animal
+
+<br>
+
+These are all discrete and SEPARATE definitions of wilderness.
+
+- If you want to argue wilderness is a thing you have to grapple with the fact that different cultures looked at "it" and focused on very different elements of it
+
+<br>
+
+**SLIDE**: P2
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+    - Lost, unruly, disordered (Old Swedish describe boiling water)
+    
+    - Creatures not controlled by man ("wild-deor-ness")
+    
+    - Places that make us wild ("bewilder")
+    
+2. The meaning of wilderness has evolved over time 
+
+    - Bible: A treeless wasteland; a desert
+    
+    - Dictionaries Today: Undeveloped lands
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+
+::: notes
+
+Expanding on P2
+
+- Through use words evolve and that has been true of wilderness
+
+- If the wilderness is a fixed thing, then we need a word for it that points to the essential and unchanging quality of it
+
+- Wilderness ain't it
+
+<br>
+
+Expanding on P3
+
+- Again, we are confronted by the fact that even today, and despite many attempts, we do not have a single, widely adopted consensus definition for wilderness as a "thing"
+
+<br>
+
+**Ok, bottom line, are you convinced by Nash's argument? Why or why not?**
+
+- **Is wilderness a quality rather than a thing?**
+
+<br>
+
+All of this leads to Nash's proposal for moving forward with this concept
+
+- **SLIDE**: If wilderness or nature is a quality, then our best bet is to evaluate it on a spectrum
+
+:::
+
+
 ## A Spectrum of Environments {background-image="Images/background-forest_v3.png" .center}
 
 <br>
@@ -308,27 +456,105 @@ Talk me through this a bit:
 
 **How does this approach compare to our work last class evaluating our examples from the Drury campus**
 
-<br>
-
-**Does this work as an answer to the question, what is the environment? Why or why not?**
-
-- *Force this discussion: BOTH pro and con*
+- (Similar in approach, possibly different in precise terms)
 
 <br>
 
-Ok, this wider exploration of the environment leads us straight into our first paper assignment
+I want to make sure that this conceptual step Nash is making is clear to you
 
-- **SLIDE**
+- At this moment in the chapter he is no longer tracking wilderness, he is now defining "the environment"
+
+- **If we adopt Nash's perspective, then what is our definition of the environment?**
+
+- (**SLIDE**)
 
 <br>
 
-A Spectrum of Environments (p6-7)  
+*NOTES: A Spectrum of Environments (p6-7)*
 
 - Ranging from the “purely wild” to the “purely civilized”  
 - The middle are the rural or pastoral environment (the ploughed) that represents a balance of the forces of nature and man  
 - Moving from the middle to the wilderness pole means human influence appears less frequently; think man as an outpost in the wilderness  
 - The opposite direction for increasing levels of human interference; think man shaping nature  
 - Implies a shading or blending between two poles; Puts a premium on “variations of intensity rather than on absolutes”
+
+:::
+
+
+
+## A Spectrum of Environments {background-image="Images/background-forest_v3.png" .center}
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nWild", "Purely\nCivilized")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](Images/02_1-wilderness.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/02_1-city_street.jpg)
+:::
+
+::::
+
+::: notes
+
+From this perspective the environment is everything around us.
+
+- There are no distinctions to be raised about how far "environmental" concerns can reach
+
+- The question becomes what is the quality of the environments we live in and how should we balance the wild with the civilized in all of them
+
+- **Does that make sense?**
+
+<br>
+
+**What are the implications for our society if we agree to stop thinking of wilderness as a "thing" and instead think of the environment as a spectrum?**
+
+1. (Environmental defenses may be challenged)
+
+    - (Might be harder to preserve wild lands in the form we want if we open this can of worms!)
+    
+    - (Since there is no wilderness developers may argue they are just moving an area a small way along the spectrum, not destroying perfection)
+    
+2. (Contra that, might open up MORE places to environmental protection!)
+
+    - (If wildness is a quality then it can exist EVERYWHERE!)
+    
+    - And it it exists everywhere then we can seek to protect it everywhere
+    
+<br>
+
+Everybody open the "not nature" examples we shared on Drury's campus
+
+- All of these are opportunities to reintroduce some wildness into our environment
+
+- **Give me some ideas using the spectrum! What could we do with all of these to push back on the "not nature" around us?**
+
+<br>
+
+**How are we doing? Everybody with me so far?**
+
+<br>
+
+Ok, this wider exploration of the environment leads us straight into our first paper assignment
+
+- **SLIDE**
 
 :::
 
@@ -435,11 +661,29 @@ This is the structure for a simple five paragraph essay.
 
 - This the old "tell them what you are going to tell them, tell them, then tell them what you told them" thing you've been doing since grade school
 
-- Your intro grabs the reader's attention and should establish that they want to read your paper AND that they know what you want them to take away from it
+<br>
 
-- Each body paragraph gives a reason supporting your conclusion, explains the reason and provides evidence for it
+Your intro:
 
-- Then the conclusion wraps it up
+- grabs the reader's attention,
+
+- Convinces the audience they want to read your paper, and 
+
+- Makes clear exactly what you want them to take away from reading it
+
+<br>
+
+Each body paragraph gives:
+
+- A reason supporting your conclusion, 
+
+- Explains the reason in detail, and 
+
+- Provides evidence to show this reason is consistent with reality!
+
+<br>
+
+Then the conclusion wraps it all up
 
 <br>
 
@@ -518,7 +762,7 @@ We're going to keep moving in this class so you'll be expected to take care of t
 
 <br>
 
-That means we need ideas for why the wilderness is important...
+**ALL OF THIS** means we need ideas for why the wilderness is important!
 
 - **SLIDE**: And that brings us to what you submitted to Canvas today!
 
@@ -551,11 +795,15 @@ Everybody open up the discussion board of wilderness experiences
 
 <br>
 
-For each:
+*ON BOARD: Three headers (purely wild, perfectly balanced, purely civilized)*
 
-1. How close to "pure wilderness" is this?
+<br>
 
-2. What possible reasons does this give us that the wilderness is important to society?
+As we hear each of these I want us to do two things:
+
+1. Place this experience on the spectrum of environments
+
+2. List the broader reasons revealed by this experience for why wilderness is important to society
 
 <br>
 
