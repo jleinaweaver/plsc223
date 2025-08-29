@@ -16,9 +16,9 @@ library(kableExtra)
 
 **Section 2: Historical Perspectives on Wilderness**
 
-- Argument: The Value of the Wilderness Is Maximized Through Productive Use
-
 :::
+
+- Reflecting on the Edenic narratives in our markets and politics
 
 <br>
 
@@ -29,11 +29,36 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Paper 1 due tomorrow
+
+:::
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Paper 1: The Importance of Wilderness**
+:::
+
+<br>
+
+Make an argument that the wilderness is important to our community
+
+- Due Friday (Sep 5th)
+
+::: notes
+
+Your first paper is due tomorrow
+
+- **Any questions on the assignment?**
+
+<br>
+
+**SLIDE**: I only see you guys twice a week, so let's speed through how we've gotten to this point
 
 :::
 
@@ -42,21 +67,385 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
+**A Spectrum of Environments (Nash 2014)**
+:::
 
-TBD
+<br>
 
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+::: notes
+
+Talk to me about Nash's "spectrum of environments".
+
+- **How is this an answer to the question, what is the wilderness or nature?**
+
+- **In other words, what is this visualization trying to get us to consider?**
+
+<br>
+
+The wilderness is not a "thing," it is a quality.
+
+- All environments can be placed on a scale from complete human control to the absence of direct human control
+
+<br>
+
+**Why have I been arguing to you that shifting your focus in this way is a big deal?**
+
+- (**SLIDE**: Cronon's argument)
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="40%"}
+
+![](Images/03_2-Cronon.jpg)
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="50%"}
+
+![](Images/02_1-cronon_uncommonground2.jpg)
+
+:::
+::::
+
+::: notes
+
+William Cronon is a distinguished historian who has long studied humanity's relationship to nature across time.
+
+- His book *Uncommon Ground* is quite brilliant and we'll read some parts from it later this semester
+
+<br>
+
+I bring him up simply to note an extension of Nash's spectrum
+
+- Cronon very much agrees with Nash that "wilderness” is a social construct, and he argues that recognizing that fact compels us to act!
+
+<br>
+
+**SLIDE**: Act how? We must stop putting wilderness on a pedestal
+
+:::
+
+
+
+## {background-image="Images/03_2-tree_lined_street_v2.png" .center}
+
+### [We must abandon "the dualism that sees the tree in the garden as artificial...and the tree in the wilderness as natural... Both trees in some ultimate sense are wild; both in a practical sense now depend on our management and care" (Cronon 1996, 24).]{style="color:white;"}
+
+::: notes
+
+As someone deeply invested in solving problems in our community I REALLY love this idea
+
+- Fighting about what is or isn't wilderness is a waste of time
+
+<br>
+
+FIRST, that fight has no end
+
+- As we saw, "wilderness" has no fixed definition across cultures, places, government agencies or times
+
+<br>
+
+SECOND, it implies that ONLY the wild lands deserve our protection
+
+- Don't give up your agency before getting to work!
+
+- ALL environments have wild elements and our world is better off when we plan for them
+
+<br>
+
+Bottom line from the Nash perspective, protecting and promoting wilderness is a valuable activity no matter what your current environment looks like!
+
+- We have responsibilities to resource management BOTH in the "wild places" AND where humans live too!
+
+<br>
+
+**Kind of cool, right?**
+
+- I like when the broadly philosophical or historical material lends itself this directly to practical advice for policy-making
+
+<br>
+
+**SLIDE**: Last week we moved from conceptualizing wilderness in broad terms and began exploring our first historical perspective on wilderness
+
+:::
+
+
+
+## {background-image="Images/03_1-Garden_Eden.jpg" .center}
+
+::: notes
+
+Talk to me about the Edenic narrative of wilderness.
+
+- **What were your takeaways about this perspective?**
+
+<br>
+
+- **What was Eden and how did it relate to wilderness?**
+
+- **If the wilderness is the absence of God, per the Bible and the Bradford diary, then what is our duty when we encounter wilderness?**
+
+<br>
+
+Wernick (1965) takes this even further!
+
+- **What was Wernick's argument?**
+
+    - (Spoil the wilderness)
+    
+- **Strengths and weaknesses of this argument?**
+
+    - (Weaknesses: Too many straw men)
+    - (Strengths: Inconsistency in behavior of the wilderness defenders, societal needs are equally important to natural ones)
+
+<br>
+
+**And what was White's (1967) argument?**
+
+- (Modern science and culture in the West dramatically shaped by Christian perspectives on the environment (nature created for man's exploitation) and that has led us to ecological catastrophe)
+
+- **Strengths and weaknesses of this argument?**
+
+    - (Huge generalizations BUT well sourced, well written and plausible)
+
+<br>
+
+**SLIDE**: Leads us to your assignment for today
+
+:::
+
+
+
+## For Today {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Edenic Narratives of Wilderness**
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/03_2-Car_ad_Wilderness.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/03_2-Oil_Ad.jpg){.absolute width="350"}
+:::
+::::
+
+::: notes
+
+Your assignment for today was to find us examples of this Edenic narrative in the world around us
+
+1. Arguments for Consumers: Find a product or service
+
+2. Arguments for Citizens: Find an argument or call to action
+
+<br>
+
+**In essence, this exercise is meant to both reinforce our understanding of the first perspective AND to see how far White's argument extends to the modern day!**
+
+<br>
+
+**How did this go?**
+
+<br>
+
+*Split class into groups of four*
+
+- *Five groups of four are what 300 can handle in separate clusters*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Let's start by talking about our lives as consumers!
+
+<br>
+
+Canvas DISCUSSION: The Value of the Wilderness Is Maximized Through Productive Use
+
+Find us two examples of this week's perspective, whether implicitly suggested or explicitly stated, being deployed in our community today (e.g. local, state, national or global). No overlapping cases (first-come, first-served).
+
+1. Arguments for Consumers: Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature. Submit: 1) A web link to the product/service/experience, and 2) An explanation of HOW the marketing for this item connects it to the Edenic narratives we explored last class (3+ sentences).
+
+2. Arguments for Citizens: Find an example of someone arguing that we should "open up" or increase our use of a specific wilderness or natural area in order to extract more value from it. Submit: 1) A link to the argument, 2) a brief summary of the argument (2+ sentences), and 3) An explanation of HOW this argument connects it to the Edenic narratives we explored last class (3+ sentences).
+
+:::
+
+
+
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature
+
+::: {.fragment}
+- How pervasive is the Edenic narrative in our consumer lives?
 :::
 
 ::: notes
 
+Groups, start by focusing on the consumer side of our lives (e.g. Canvas Assignment Q1)
+
+- Take some time to review all the submitted cases and get ready to report back your experience of doing this assignment
+
+- **REVEAL: Specifically, I want you to tell me, how pervasive is the Edenic narrative in the marketing of products and services to American consumers?**
+
 <br>
 
-**SLIDE**: ...
+*REPORT back and DISCUSS*
+
+<br>
+
+**SLIDE**: Review 2
 
 :::
 
 
 
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature
+
+- Which specific messages were most effective on you? Why?
+
+::: notes
+
+Groups, dig back into the cases and get ready to report back
+
+- **Which specific messages work most effectively on you?**
+
+- **In other words, what makes you want to spend some money? Why?**
+
+<br>
+
+*REPORT back and DISCUSS*
+
+- *ON BOARD*
+
+<br>
+
+**SLIDE**: Reflect on this as a class
+
+:::
+
+
+
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Why is the Edenic narrative so pervasive in our marketplace?
+
+- American consumers are moved by these arguments?
+
+- Companies are motivated to spread these arguments?
+
+::: notes
+
+**CLASS: What do we think explains the pervasiveness of this narrative in our marketing?**
+
+- **Is it that these messages work well on American consumers OR that companies want to push it on us? Or both?**
+
+<br>
+
+*DISCUSS*
+
+<br>
+
+**SLIDE**: Let's shift to political arguments
+
+:::
+
+
+
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Find an example of someone arguing that we should "open up" or increase our use of a specific wilderness or natural area in order to extract more value from it
+
+- List 1: Reasons you find compelling
+
+- List 2: Reasons that do not work on you at all
+
+::: notes
+
+Groups, take a few minutes to review the political arguments submitted on Canvas (Q2)
+
+- Reflect on the arguments and build two lists to share with us
+
+- Flag the specific messages that you find most compelling and those that don't work on you at all
+
+- Importantly, you don't have to agree with the conclusion of the argument!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+- *ON BOARD*
+
+<br>
+
+**SLIDE**: Wrapping up
+
+:::
+
+
+
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Does our evidence today reinforce or conflict with White's (1967) argument?
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/03_2-Car_ad_Wilderness.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/03_2-Oil_Ad.jpg){.absolute width="350"}
+:::
+::::
+
+::: notes
+
+**Based on our work today are you more or less convinced by White's argument that our shared historical, religious roots are leading us to ecological catastrophe? Why or why not?**
+
+<br>
+
+**SLIDE**: Next class
+
+:::
 
 
 
@@ -64,11 +453,27 @@ TBD
 
 <br>
 
+### Sublime Narratives of Wilderness
+
+1. Read the excerpts from Thoreau, Muir, Cole and Denevan
+
+2. Submit your reflection on the divide between history and perspective in these writings
+
 
 ::: notes
+
+Next week we shift to our next historical perspective on wilderness
+
+- Some hugely influential writers teed up for us here
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+IFF time remaining in class:
+
+- **Any last questions on the paper?**
 
 :::

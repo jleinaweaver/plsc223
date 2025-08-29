@@ -425,7 +425,7 @@ All of this leads to Nash's proposal for moving forward with this concept
 d1 <- tibble(
   x = c(-3, 3),
   y = c(1, 1),
-  labels = c("Purely\nWild", "Purely\nCivilized")
+  labels = c("Purely\nCivilized", "Purely\nWild")
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
@@ -489,7 +489,7 @@ I want to make sure that this conceptual step Nash is making is clear to you
 d1 <- tibble(
   x = c(-3, 3),
   y = c(1, 1),
-  labels = c("Purely\nWild", "Purely\nCivilized")
+  labels = c("Purely\nCivilized", "Purely\nWild")
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
@@ -503,11 +503,11 @@ ggplot(data = d1, aes(x = x, y = y)) +
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](Images/02_1-wilderness.jpg)
+![](Images/02_1-city_street.jpg)
 :::
 
 ::: {.column width="50%"}
-![](Images/02_1-city_street.jpg)
+![](Images/02_1-wilderness.jpg)
 :::
 
 ::::
