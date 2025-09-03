@@ -194,7 +194,54 @@ IMPORTANT, don't write your score on the board!
 
 <br>
 
-**At this point, are we all operating on essentially the same definition of the concepts or not?**
+**SLIDE**: Humor me for a second...
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+### Argument: The Springfield Conservation Nature Center is a zero (purely civilized)
+
+![](Images/03_1-Nature_Center_civilized.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Make this argument for me**
+
+- **What are the premises that support a conclusion that the Nature Center is completely civilized?**
+
+<br>
+
+**SLIDE**: And the counter-argument?
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+### Argument: The Springfield Conservation Nature Center is a 10 (purely wild)
+
+![](Images/03_1-Nature_Center_wild.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+
+**Make this argument for me**
+
+- **What are the premises that support a conclusion that the Nature Center is completely wild?**
+
+<br>
+
+**Which argument was easier to make? Why?**
+
+- **Does that tell us something about the Nature Center?**
+
+<br>
+
+**Bottom line, at this point, are we all operating on essentially the same definition of the concepts or not?**
 
 <br>
 

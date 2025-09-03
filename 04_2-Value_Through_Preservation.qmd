@@ -16,9 +16,9 @@ library(kableExtra)
 
 **Section 2: Historical Perspectives on Wilderness**
 
-- Argument: The Value of the Wilderness Is Maximized Through Preservation
-
 :::
+
+- Reflecting on the sublime narratives in our markets and politics
 
 <br>
 
@@ -33,7 +33,7 @@ Prep for Class
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: I only see you guys twice a week, so let's speed through how we've gotten to this point
 
 :::
 
@@ -42,18 +42,60 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-
-TBD
-
+**A Spectrum of Environments (Nash 2014)**
 :::
-
-::: notes
 
 <br>
 
-**SLIDE**: ...
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+::: notes
+
+**Refresh my memory, what is the big picture Nash wants us to accept about wilderness?**
+
+<br>
+
+The wilderness is not a "thing," it is a quality.
+
+- All environments can be placed on a scale from complete human control to the absence of direct human control
+
+<br>
+
+**SLIDE**: We took that argument to 
+
 
 :::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
