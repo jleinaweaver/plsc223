@@ -29,11 +29,43 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Update refresher slide with notes from last class
 
 <br>
 
-**SLIDE**: I only see you guys twice a week, so let's speed through how we've gotten to this point
+**SLIDE**: Let's warm up with a refresher on the sublime perspective
+
+:::
+
+
+
+## {background-image="Images/04_2-Albert_Bierstadt_-_Valley_of_the_Yosemite_-_Google_Art_Project.jpg"}
+
+::: {.r-fit-text}
+[**Sublime Narratives of Wilderness**]{style="color:white;"}
+:::
+
+::: notes
+
+Painting: *Valley of the Yosemite* by Albert Bierstadt completed in 1864
+
+- Bierstadt is one hell of a landscape artist!
+
+- Let's use this to jump off into the sublime narrative
+
+<br>
+
+**Catch me up on our work from last class, how do the artists and writers we discussed in the sublime narrative view the wilderness?**
+
+<br>
+
+**And, from this perspective, when is the wilderness most valuable?**
+
+<br>
+
+**SLIDE**: Applying the perspective
 
 :::
 
@@ -41,11 +73,7 @@ Prep for Class
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
-::: {.r-fit-text}
-**A Spectrum of Environments (Nash 2014)**
-:::
-
-<br>
+### From the sublime perspective, where is the SGF Conservation Nature Center on a scale from 0 (purely civilized) to 10 (purely wild)?
 
 ```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
 ## Manual DAG
@@ -65,40 +93,183 @@ ggplot(data = d1, aes(x = x, y = y)) +
 
 ::: notes
 
-**Refresh my memory, what is the big picture Nash wants us to accept about wilderness?**
+**What is your rating of the SGF Conservation Nature Center if you adopt the sublime perspective on wilderness?**
+
+- (The Edenic narrative sees the Center as a wilder place)
+
+- (The sublime narrative sees a Lowes garden center)
+
+    - A nature completely dominated by our hand
+    
+    - A nature made completely "safe"
 
 <br>
 
-The wilderness is not a "thing," it is a quality.
+**From the sublime perspective, is the Springfield Conservation Nature Center a good use of wilderness? Why or why not?**
 
-- All environments can be placed on a scale from complete human control to the absence of direct human control
+- (Maybe. It is better than nothing)
+
+- (BUT, this ain't the wilderness and visiting it will not do for us what these writers believed we need to have happen to open our minds, hearts and souls)
 
 <br>
 
-**SLIDE**: We took that argument to 
+**SLIDE**: Let's take this perspective into the real world using the cases you found for today!
+
+:::
+
+
+
+## For Today {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Sublime Narratives of Wilderness**
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/04_2-Hiking_Guidance.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/04_2-protect-anwr-sign.webp)
+:::
+::::
+
+::: notes
+
+Your assignment for today was to find us examples of this Edenic narrative in the world around us
+
+1. Arguments for Consumers: Find a product or service
+
+2. Arguments for Citizens: Find an argument or call to action
+
+<br>
+
+*Split class into four groups*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Let's start by talking about our lives as consumers!
+
+<br>
+
+Canvas DISCUSSION: Reflecting on the Sublime Narratives Around Us 
+
+Find us two examples of this week's perspective, whether implicitly suggested or explicitly stated, being deployed in our community today (e.g. local, state, national or global). No overlapping cases (first-come, first-served).
+
+1. Arguments for Consumers: Find a product, service or experience for sale that is designed to help us enjoy the wilderness or nature in its most "pristine" condition. Submit: 1) A web link to the product/service/experience, and 2) An explanation of HOW the marketing for this item connects it to the sublime narratives we explored last class (3+ sentences).
+
+2. Arguments for Citizens: Find an example of someone arguing that we should preserve some specific piece of wilderness or nature in order to maximize its value. Submit: 1) A link to the argument, 2) a brief summary of the argument (2+ sentences), and 3) An explanation of HOW this argument connects it to the sublime narratives we explored last class (3+ sentences).
 
 
 :::
 
 
 
+## Sublime Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Find a product, service or experience for sale that is designed to help us enjoy the wilderness or nature in its most "pristine" condition
+
+::: {.fragment}
+- How pervasive is the sublime narrative in our consumer lives?
+:::
+
+::: notes
+
+Groups, start by focusing on the consumer side of our lives (e.g. Canvas Assignment Q1)
+
+- Take some time to review all the submitted cases and get ready to report back your experience of doing this assignment
+
+- **REVEAL: Specifically, I want you to tell me, how pervasive is the sublime narrative in the marketing of products and services to American consumers?**
+
+<br>
+
+*REPORT back and DISCUSS*
+
+<br>
+
+Let's take a second to compare the sublime-type marketing with the Edenic-type marketing.
+
+- **Based on your lives as consumers in this society, which set of wilderness messages do you hear more often?**
+
+- **In other words, do you see more sales pitches designed to help you exploit or celebrate the wilderness?**
+
+<br>
+
+**SLIDE**: Review 2
+
+:::
 
 
 
 
+## Sublime Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Find a product, service or experience for sale that is designed to help us enjoy the wilderness or nature in its most "pristine" condition
+
+- Make two lists on the board: "Sincere" vs "Pure Marketing"
+
+::: notes
+
+Groups, evaluate the claims attached to each product or service and then make two lists on the board
+
+- **Which products/services are "more authentically in line with sublime views of the wilderness" and which are "more transparent attempts to get your money"?**
+
+- **In other words, which are walking the walk and which are just talking the talk?**
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**Which specific sublime marketing messages work best on you?**
+
+- **Give me examples**
+
+<br>
+
+**SLIDE**: Jump to the political arguments
+
+:::
 
 
 
+## Sublime Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
 
+<br>
 
+### Find an example of someone arguing that we should preserve some specific piece of wilderness or nature in order to maximize its value
 
+- What are the strongest reasons to preserve the wilderness?
 
+::: notes
 
+GROUPS, skim through ALL of the arguments and pull out what you think are the strongest reasons offered to protect any wild environment
 
+- Build a list on the board!
 
+<br>
 
+**Questions?**
 
+- Go!
 
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: For next class
+
+:::
 
 
 
@@ -106,8 +277,19 @@ The wilderness is not a "thing," it is a quality.
 
 <br>
 
+### Utility Narratives of Wilderness
+
+1. Read the excerpts from Pinchot, Spirn, and the USDA team
+
+2. Submit your reflection on these ideas and how they apply to the world around us
+
 
 ::: notes
+
+Next week we shift to our next historical perspective on wilderness
+
+- These writers dramatically altered the course of the US in terms of our wildlife and wilderness management policies
+
 
 <br>
 

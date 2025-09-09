@@ -29,11 +29,97 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Let's run through our big ideas so far!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**A Spectrum of Environments (Nash 2014)**
+:::
+
+<br>
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+::: notes
+
+**Big picture, what is our takeaway about the "wilderness" concept from Nash's historical analysis?**
+
+- (The wilderness is a quality of something, not a concrete thing to be identified)
+
+<br>
+
+**And what does that mean for us as community problem-solvers interested in environmental issues?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**We have a duty to foster and protect wildness all around us (Cronon 1996)**
+:::
+
+![](Images/05_1-Lancaster Boulevard Before-After.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+We have an important role to play in ALL of our environments
+
+- Not just the ones far from civilization!
+
+<br>
+
+Here we see a before-and-after transformation of Main Street in Lancaster, CA [LINK](https://www.pps.org/article/road-diet-reinvigorating-downtown-lancaster-one-lane-at-a-time)
+
+- In policy terms this is often referred to as "putting your road on a diet"
+
+- Before: 2009
+
+- After: 2011
+
+<br>
+
+Supporting the speed limit with street design transformed Main Street into Lancaster Boulevard, a safer public space, bursting with economic, social, and civic vitality.
+
+- Pedestrian involved collisions have decreased by 78%
+
+- Motor vehicle collisions decreased by 38%
+
+- 57 new businesses have opened on Lancaster BLVD
+
+- Retail sales of increased by 57%
+
+- Revenue from the downtown area has increased 119% from 2007 to 2012
+
+<br>
+
+**SLIDE**: The next part of our class has focused on exploring competing historical perspectives on wilderness
 
 :::
 
@@ -43,19 +129,623 @@ Prep for Class
 
 ::: {.r-fit-text}
 
-TBD
+**Section 2: Historical Perspectives on Wilderness**
+
+- Edenic Narratives
+
+- Sublime Narratives
+
+- Utility Narratives
+
+- Holistic Narratives
 
 :::
 
 ::: notes
 
+Two weeks ago we began with the Edenic narratives found in the Bible and in the descriptions of wild lands written by early American colonists and explorers.
+
 <br>
 
-**SLIDE**: ...
+Last week we shifted to the romantics like Thoreau, Muir and Cole who see in nature a reflection of the awesome spiritual forces in our world
+
+<br>
+
+As I hope I've made clear enough to you, these are not toy exercises meant to read some old books
+
+- These competing perspectives exist in our world and can be a key to helping you solve real problems in our community.
+
+<br>
+
+**Can anybody tell us what a CAFO is and why they are environmental problems?**
+
+- (**SLIDE**)
 
 :::
 
 
+
+## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="60%"}
+
+<br>
+
+![](Images/05_1-CAFO_pigs.jpg)
+:::
+
+::: {.column width="40%"}
+![](Images/05_1-cows_cafo.jpg)
+
+![](Images/05_1-CAFO_chicks.webp)
+:::
+::::
+
+::: notes
+
+A Concentrated Animal Feeding Operation (CAFO), also known as a factory farm
+
+- Huge efficiencies to farming at huge numbers and denying those animals much ability to move
+
+<br>
+
+These are why meat at the grocery store has tended to get cheaper and cheaper over time
+
+- Huge benefits to families trying to buy groceries on fixed incomes
+
+<br>
+
+**SLIDE**: The problem
+
+:::
+
+
+
+## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/05_1-McVan-hog-cafo-manure-lagoons.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+CAFOS generate millions of tons of manure every year. 
+
+- The most common type of facility to deal with this wase is an anaerobic lagoon e.g. a giant lake of poop
+
+<br>
+
+When properly managed these lagoons represent a substantial risk to the environment and public health
+
+- They threaten groundwater, local ecosystems and damage the air quality above them
+
+<br>
+
+**SLIDE**: And when things go wrong...
+
+:::
+
+
+
+
+## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="60%"}
+![](Images/05_1-lagoon_overflow.png)
+:::
+
+::: {.column width="40%"}
+![](Images/05_1-lagoon_overflow2.jpg)
+
+![](Images/05_1-waterkeeper_matthew_hog_farm.jpg)
+:::
+::::
+
+::: notes
+
+When not maintained well OR when flooding rains hit they do INCREDIBLE damage to our ecosystems!
+
+<br>
+
+Does anybody think flooding rain is an unusual event in rural farm communities?
+
+<br>
+
+**SLIDE**: Anybody heard of Missouri Guardrails?
+
+:::
+
+
+
+## Missouri Guardrails {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/05_1-MO_Guardrails.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Missouri Guardrails is a local nonprofit focused on protecting our water and land against uncontrolled waste releases by CAFOS
+
+<br>
+
+The Missouri legislature has passed laws to make regulating CAFO operations almost impossible for local communities
+
+- Missouri Guardrails is trying to push back on this
+
+<br>
+
+Let's say you are trying to convince the owner of a local CAFO to spend more money on their waste storage technologies OR to stop releasing waste into a nearby river.
+
+- In talking to them you come to realize they hold an Edenic view of the wilderness
+
+<br>
+
+**FIRST, what kinds of arguments or explanations might they give you that suggest they hold an Edenic view?**
+
+<br>
+
+**Given this view, what kinds of arguments can you be confident will NOT work to change this person's behavior?**
+
+<br>
+
+**More importantly, what kinds of arguments might have a chance to change their behavior?**
+
+- **In other words, how do you frame a water protection argument consistent with an Edenic view of wilderness?**
+
+<br>
+
+**SLIDE**: The "about us" page on Missouri Guardrails is pretty good!
+
+:::
+
+
+
+##  {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/05_1-guardrails_MO_1.png)
+:::
+
+::: {.column width="50%"}
+![](Images/05_1-guardrails_MO_2.png)
+:::
+::::
+
+::: notes
+
+So, what do you think?
+
+- **Is this a clever framing strategy for changing the minds or behavior of our hypothetical landowner? Why or why not?**
+
+<br>
+
+This is probably targeted more at landowners near CAFOs and not the CAFOs themselves...
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+
+[**The narratives can help you unlock problem-solving!**]{style="color:blue;"}
+
+- Edenic Narratives
+
+- Sublime Narratives
+
+- Utility Narratives
+
+- Holistic Narratives
+
+:::
+
+::: notes
+
+The takeaway here is that the narrative perspectives can help you cut to the heart of an argument
+
+<br>
+
+**SLIDE**: Let's not pretend our only challenge are the Edenists!
+
+:::
+
+
+
+##  {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/05_1-Windmill3.png){style="display: block; margin: 0 auto"}
+
+![](Images/05_1-Windmill2.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Imagine you have been working to move your local community to replace its coal fired power plants with wind energy
+
+- And yet every step of the way you are being fought, not by oil or mining intererests, but by homeowners who don't want you messing with their view of the wilderness!
+
+<br>
+
+**Assuming their view of the wilderness is sublime or romantic, what kinds of arguments can you be confident will NOT work to change this person's behavior?**
+
+<br>
+
+**More importantly, what kinds of arguments might have a chance to change their behavior?**
+
+- **In other words, how do you frame a pro-wind turbine argument consistent with a sublime view of wilderness?**
+
+<br>
+
+**Any questions on what we've done so far or why it might be useful in the future?**
+
+<br>
+
+Today we shift to our next historical perspective on wilderness
+
+- **SLIDE**: Utility narratives of the wilderness
+
+:::
+
+
+
+##  Gifford Pinchot (1865-1946) {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/05_1-pinchot_writing){style="display: block; margin: 0 auto"}
+
+::: notes
+
+[National Park Service Page](https://www.nps.gov/articles/gifford-pinchot.htm)
+
+[Forest History Society Page](https://foresthistory.org/research-explore/us-forest-service-history/people/chiefs/gifford-pinchot-1865-1946/)
+
+<br>
+
+Gifford Pinchot, born in 1865 and died in 1946, is one of the most important early voices in American environmentalism
+
+- Family fortune built, at least in part, on forest resources and so his lifelong interest in forests was fostered from a young age.
+
+- His dad sent him to France to study forestry because the US had no schools of forestry at the time
+
+<br>
+
+Long list of accomplishments
+
+- Helps start the Yale School of Forestry (money, money, money)
+
+- Founds the American Society of Foresters in 1900 "to increase awareness of forestry and provide professional development opportunities for those interested in making a career of protecting woodlands."
+
+- Was appointed the first chief of the US Forest Service in 1905 by Teddy Roosevelt
+
+- Briefly led the National Conservation Commission (1910) performing studies on the resources of the US
+
+- Elected governor of Pennsylvania in 1922
+
+<br>
+
+Also, a long list of clashes with other environmental activists of the time
+
+- He and Muir butted heads A LOT
+
+<br>
+
+And why was that?
+
+- Let's discuss the reading and see if we can guess!
+
+- *Split class into small groups (3 per group)*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Prompt
+
+:::
+
+
+
+## {background-image="Images/05_1-Gifford-Pinchot-NF_Mt.-Adams_Tom-Hilton.jpg" .center}
+
+::: notes
+
+Gifford Pinchot National Forest is a National Forest located in southern Washington
+
+- 1.32 million acres
+
+- Formerly part of the Mount Rainier Forest Reserve set aside in 1897
+
+- Rededicated to Pinchot three years after his death
+
+<br>
+
+**SLIDE**: Prompts
+
+:::
+
+
+
+## {background-image="Images/05_1-Pinchot_National_Forest2.png" .center}
+
+::: {.r-fit-text}
+Pinchot, G. (1910). *The Fight for Conservation*.
+
+1. What is the wilderness?
+
+2. What is the value of wilderness?
+:::
+
+::: notes
+
+Groups take a few minutes to discuss the excerpts from Pinchot's book
+
+- The aim is to get a sense of how Thoreau defines wilderness AND how he conceives of its value
+
+- Be ready to report back on your conclusions and where in the text you find evidence for them
+
+<br>
+
+*PRESENT and DISCUSS key elements*
+
+- *Keep this open and encourage everyone to get involved in the discussion*
+
+<br>
+
+**What do we make of the arguments in Chapter IX?**
+
+- **Do these speak to you in a profound way?**
+
+- (Note for the class the glorious sexism in Chapter IX)
+
+<br>
+
+**Other than the weird family stuff, do Pinchot's writings feel outdated to you? Why or why not?**
+
+- **Examples of parts that feel like he could be writing about our politics today?**
+
+- (Chapter XII sounds to me like it was written about today! Special interests, a loss of faith in Congress, tariffs, wowsa!)
+
+<br>
+
+**So, based on these writings why do we think Pinchot and Muir fought over environmental protection?**
+
+<br>
+
+**SLIDE**: Let's jump forward in time!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+<br>
+
+<br>
+
+
+Hendee, J., Stankey, G. & Lucas, R. (1978). *Wilderness Management*. US Department of Agriculture.
+:::
+
+::: {.column width="40%"}
+![](Images/05_1-Hendee_book_cover.png)
+:::
+
+::::
+
+::: notes
+
+I really appreciate the USDA book tries diligently to translate the broad principles advocated by Pinchot and others into more concrete guidance for decision-making.
+
+<br>
+
+Let's begin by treating this like the other sources we have considered.
+
+- **How do these authors define the wilderness?**
+
+- (**SLIDE**: They work for the USDA so the law takes care of this for them!)
+
+:::
+
+
+
+## Wilderness Act (1964) 2(c){background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+![](Images/05_1-Wilderness_Defined_Wilderness_Act_2c.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Given everything we've read and discussed so far this semester, I'd like your reflections on this definition.
+
+- GROUPS, take a moment to discuss this definition and get ready to report back:
+
+- **What do you like about this definition?**
+
+- **What problems do you have with it?**
+
+<br>
+
+Before we dig into the principles, I want your thoughts on the paradox they discuss on p6
+
+- **FIRST, what is the paradox?**
+
+- (If a wilderness is an area with minimal human interference, then how can wilderness management be a thing? The minute you manage "it" you destroy "it", right?)
+
+<br>
+
+**And how do they sidestep the paradox?**
+
+- ("Wilderness management is essentially the management of human use and influence to preserve naturalness and solitude" (6).)
+
+- "Wilderness management does not need to be heavy handed. Wilderness managers are, in effect, guardians and not gardeners" (7).
+
+- "Managers should do only what is necessary to meet wilderness objectives, and only use the minimum tools, force, and regulation required to achieve those objectives" (7).
+
+<br>
+
+Do we buy this?
+
+- **SLIDE**: Let's evaluate the principles of management to see what happens when the proverbial rubber meets the road!
+
+:::
+
+
+
+
+
+## {background-image="Images/05_1-Pinchot_National_Forest2.png" .center}
+
+Hendee, J., Stankey, G. & Lucas, R. (1978). *Wilderness Management*. US Department of Agriculture.
+
+- "Some Principles of Wilderness Management" (137-147)
+
+![](Images/05_1-USDA_Principles.png)
+
+::: notes
+
+Groups, take some time to discuss the principles amongst yourselves.
+
+- Make sure everyone in your group understands what the principles suggest and have thought about what it would mean to follow or implement these as rules
+
+<br>
+
+Ok, groups, let's talk!
+
+<br>
+
+**Do these principles live up to the authors' earlier claims about wilderness management being a minimalist exercise? Why or why not?**
+
+<br>
+
+**Which of the principles are the clearest / easiest to adopt and follow in our comunities? Why?**
+
+<br>
+
+**Which of the principles would be the hardest to follow or would inspire the most opposition? Why?**
+
+<br>
+
+- **How would advocates of the Edenic perspective react to these principles?**
+
+- **How would advocates of the sublime perspective react to these principles?**
+
+<br>
+
+**Bottom line, do we think this list of principles represents a useful set of criteria for managing wild spaces in our communities? Why or why not?**
+
+<br>
+
+**SLIDE**: Back to the nature center!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+### Using the utility perspective on wilderness rate the SGF Conservation Nature Center on a scale from 0 (purely civilized) to 10 (purely wild)?
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+::: notes
+
+Alright, let's report back on your answers to Canvas Q1!
+
+- **Per the utility narrative on wilderness is the Springfield Conservation Nature Center an example of the wild, civilization or somewhere in between?**
+
+<br>
+
+**Per the utility narrative on wilderness, is the Springfield Conservation Nature Center a "good" use of our environment?**
+
+<br>
+
+**SLIDE**: Let's end by discussing the very cool work of Spirn
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+Spirn, A. (1996). "Constructing Nature: The Legacy of Frederick Law Olmstead." *Uncommon Ground*.
+
+<br>
+
+![](Images/05_1-niagara_falls.jpg)
+
+:::
+
+::: {.column width="50%"}
+
+![](Images/05_1-boston_fens.jpg)
+
+![](Images/05_1-biltmore.jpg)
+
+:::
+::::
+
+::: notes
+
+*Images: Niagara Falls, Boston Fens, Biltmore Estate*
+
+<br>
+
+**Ok, how does this Spirn article fit in our work today?**
+
+- **In other words, what is Spirn trying to show us in the work of Frederick Law Olmsted?**
+
+<br>
+
+Explores the legacy of Olmstead's masterful "parks" and the unforseen implications of creating the wilderness so expertly that people fail to realize they are constructed!
+
+- Olmstead presented as the halfway point on wilderness between Muir's preservation and Pinchot's workshop. An attempt to "reconcile reverence and use" (112)
+
+- Olmstead was very much working during the early conservation movement and trying hard to implement the ideas in practical and useful ways
+
+- Cool case studies: Yosemite, Niagara Falls, Biltmore, the fens in Boston
+
+- His work was double-edged. He was so good at making his work look natural that he'd run into objections from people when he tried to continue working on it (e.g. don't you dare sully that pristine wilderness that you just built for us...)
+
+<br>
+
+Importantly, this reinforces our key idea!
+
+- Seeing some landscapes as natural and others as artificial is a serious problem
+
+- Let go of the natural vs artifical distinction and instead celebrate the wild in all its forms!
+
+<br>
+
+**Any questions on our readings or discussions of the utility narratives today?**
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+:::
 
 
 
@@ -64,11 +754,34 @@ TBD
 
 <br>
 
+Let's evaluate the products or services that market themselves as "good" for the environment and us!
+
+- Choose something you are interested in and then spend time evaluating the claims
+
+- Is there any evidence this is actually "good" for both us and the environment?
+
 
 ::: notes
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+Canvas DISCUSSION: Reflecting on the Utility Narratives Around Us
+
+Find a product or service that markets itself as "good" for the environment in line with the conservation and management arguments we explored last class. 
+
+By "good" I mean something that improves our ability to extract value from the environment, or its resources, without causing serious harm or jeopardizing the long-term survival of that system.
+
+Submit:
+
+1) A link to the product or service,
+
+2) an explanation of how this product claims to be "good" for the environment (2+ sentences), and
+
+3) AT LEAST TWO pieces of external evidence evaluating these claims (can be either in support or opposition to them, 2+ sentences each). In other words, does this product or service "work" as promised?
+
 
 :::
