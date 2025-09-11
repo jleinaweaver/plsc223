@@ -752,36 +752,39 @@ Importantly, this reinforces our key idea!
 
 ## For Next Class {background-image="Images/background-forest_v3.png" .center}
 
-<br>
+:::: {.columns}
 
-Let's evaluate the products or services that market themselves as "good" for the environment and us!
+::: {.column width="50%"}
+![](Images/05_1-Bass_Pro_Exterior.jpg)
+:::
 
-- Choose something you are interested in and then spend time evaluating the claims
+::: {.column width="50%"}
+![](Images/05_1-Bass_Pro_Directions.png)
+:::
 
-- Is there any evidence this is actually "good" for both us and the environment?
-
+::::
 
 ::: notes
 
+Alright class, let's get back out into the world!
+
+- Thursday we will meet at Bass Pro inside the front entrance at 9:30a
+
 <br>
 
-**Questions on the assignment?**
+I want us to explore Bass Pro using our three narratives
+
+- Is Bass Pro selling and celebrating a wilderness best described as Edenic, sublime or utilitarian?
 
 <br>
 
-Canvas DISCUSSION: Reflecting on the Utility Narratives Around Us
+**Does anybody need a ride to get there?**
 
-Find a product or service that markets itself as "good" for the environment in line with the conservation and management arguments we explored last class. 
+- Let's be environmental, I will give EC to carpoolers!
 
-By "good" I mean something that improves our ability to extract value from the environment, or its resources, without causing serious harm or jeopardizing the long-term survival of that system.
+<br>
 
-Submit:
-
-1) A link to the product or service,
-
-2) an explanation of how this product claims to be "good" for the environment (2+ sentences), and
-
-3) AT LEAST TWO pieces of external evidence evaluating these claims (can be either in support or opposition to them, 2+ sentences each). In other words, does this product or service "work" as promised?
+See you Thursday inside the front entrance!
 
 
 :::

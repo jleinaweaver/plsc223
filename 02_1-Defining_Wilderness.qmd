@@ -642,7 +642,7 @@ EACH premise must be supported by multiple examples of high quality evidence
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Five Paragraph Argument Paper**
+**Six Paragraph Argument Paper**
 
 1. Introduction Paragraph
 
@@ -652,14 +652,16 @@ EACH premise must be supported by multiple examples of high quality evidence
 
 4. Body Paragraph: Reason 3 (premise)
 
-5. Conclusion Paragraph
+5. Counter-argument
+
+6. Conclusion Paragraph
 :::
 
 ::: notes
 
-This is the structure for a simple five paragraph essay.
+This is the structure for a simple six paragraph essay.
 
-- This the old "tell them what you are going to tell them, tell them, then tell them what you told them" thing you've been doing since grade school
+- Essentially, this is the old "tell them what you are going to tell them, tell them, then tell them what you told them" thing you've been doing since grade school
 
 <br>
 
@@ -680,6 +682,12 @@ Each body paragraph gives:
 - Explains the reason in detail, and 
 
 - Provides evidence to show this reason is consistent with reality!
+
+<br>
+
+The counter-argument paragraph is where you present a reason your argument could be wrong AND why you are not dissuaded by it
+
+- The counter-argument MUST be presented in its strongest form (e.g. not a straw man) and supported by high quality evidence.
 
 <br>
 
