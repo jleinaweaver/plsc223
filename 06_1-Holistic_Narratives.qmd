@@ -80,15 +80,13 @@ Last class we turned our analytical focus on the Bass Pro Shops
 
 <br>
 
-**What stood out as your favorite pieces of evidence for the Edenic narrative at Bass Pro**
+*Highlight class picks from Canvas for the following prompts:*
 
-<br>
+- **What stood out as your favorite pieces of evidence for the Edenic narrative at Bass Pro?**
 
-**What stood out as your favorite pieces of evidence for the sublime narrative at Bass Pro**
+- **What stood out as your favorite pieces of evidence for the sublime narrative at Bass Pro?**
 
-<br>
-
-**What stood out as your favorite pieces of evidence for the utility narrative at Bass Pro**
+- **What stood out as your favorite pieces of evidence for the utility narrative at Bass Pro?**
 
 <br>
 
@@ -96,7 +94,7 @@ Last class we turned our analytical focus on the Bass Pro Shops
 
 <br>
 
-**SLIDE**: Today we turn to our final historical perspective on wilderness - deep ecology
+**SLIDE**: Today we turn to our final historical perspective on wilderness, what I am labeling holisitic narratives
 
 :::
 
@@ -114,31 +112,37 @@ Last class we turned our analytical focus on the Bass Pro Shops
 
 :::
 
+:::: {.r-fit-text}
 ::: {.fragment}
 
-### Do these lead to a [better environmentalism]{style="color:green;"} or [eco-fascism]{style="color:red;"}?
+**[Better environmentalism]{style="color:green;"} or [eco-fascism]{style="color:red;"}?**
 
 :::
+::::
 
 ::: notes
 
 For our purposes I am treating deep ecology and ecocentrism as both advancing "holistic" narratives of wilderness
 
-- In short, these "holistic narratives" encourage us to replace a human-focused orientation with an environmental-focused orientation to decision-making
+- In short, these "holistic narratives" encourage us to stop filtering environmentalism through an anthropocentric lens
+
+- Anthropocentrism: "regarding humankind as the central or most important element of existence" (Oxford Languages)
 
 <br>
 
-**Had anybody encountered deep ecology or ecocentrism concepts before now? Where?**
+Advocates of these narratives argue that centering the experience of wilderness and the biosphere in our decision-making is the only sustainable path forward for our society
+
+- **Has anybody encountered deep ecology or ecocentrism concepts before now? Where and in what ways?**
 
 <br>
 
-Advocates of these holistic narratives will argue that only by releasing our anthropocentric view of the world can we hope to reach a healthy relationship with nature and with ourselves
+I have always found these ideas incredibly compelling
 
-- It has always made sense to me that an ecocentric view would lead to a healthier environment, but at what cost?
-
-<br>
+- It makes perfect sense to me that centering the biosphere in our policy-making would lead to a healthier environment
 
 - **REVEAL**
+
+- The problem is, at what cost?
 
 - Today's big picture aim is to ask: Is ecocentrism the next step towards a more productive environmentalism or a step on the road to eco-fascism?
 
@@ -171,23 +175,126 @@ Aldo Leopold was a writer, philosopher and naturalist working at the start of th
 
 *Split class into small groups*
 
-- GROUPS, get ready to report back, what are the key arguments in the chapter from the Leopold book.
+- GROUPS, take a few minutes to discuss the chapter on your own
 
-- *ON BOARD: Present and Discuss each*
+- What stood out to you as important? What resonated with you?
 
-<br>
+- Was there anything you found problematic?
 
-Let's do a partial discussion of Q1 from the Canvas assignment
-
-- **How would Leopold evaluate the Edenic perspective on wilderness? Quotes to support your inference?**
-
-- **How would Leopold evaluate the sublime perspective on wilderness? Quotes to support your inference?**
-
-- **How would Leopold evaluate the utility perspective on wilderness? Quotes to support your inference?**
+- Go!
 
 <br>
 
-**SLIDE**: Let's take this even deeper into the philosophy
+Ok, I want to hear all this good stuff, but I also want to direct our conversation to the key arguments as best I can.
+
+- **SLIDE**: Let's begin by contrasting Leopold's views to the other perspectives on wilderness
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+<br>
+
+::: {.r-fit-text}
+
+**Chapter Sections**
+
+- The Ethical Sequence
+
+- The Ecological Conscience
+
+- Substitutes for a Land Ethic
+
+- The Land Pyramid
+
+- Land Health and the A-B Cleavage
+
+- The Outlook
+
+:::
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="40%"}
+![](Images/06_1-Sand_County_Almanac.jpg){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+**Ok, easy case first, what does Leopold think of the Edenic perspective on wilderness?**
+
+- **Groups, dig into the reading find us quotes that most directly address this question!**
+
+<br>
+
+Imagining we exist separate from our "resources" is insane, and inconsistent with basic evolutionary science
+
+- “Land, then, is not merely soil; it is a fountain of energy flowing through a circuit of soils, plants, and animals. Food chains are the living channels which conduct energy upward; death and decay return it to the soil. The circuit is not closed; some energy is dissipated in decay, some is added by absorption from the air, some is stored in soils, peats, and long-lived forests; but it is a sustained circuit, like a slowly augmented revolving fund of life” (216).
+
+- 205-207: Argues human history is shaped entirely by how the land reacted to our presence and use. Kentucky bluegrass allowed human development and expansion in ways that southern states couldn’t replicate with their shruberry and erosion problems.
+
+<br>
+
+**Ok, shift to the next easiest case, what does Leopold think of the utility perspective on wilderness?**
+
+- **Groups, dig into the reading find us quotes that most directly address this question!**
+
+<br>
+
+He's HIGHLY critical of it!
+
+- “One basic weakness in a conservation system based wholly on economic motives is that most members of the land community have no economic value” (210).
+
+- "It tends to relegate to government many functions eventually too large, too complex, or too widely dispersed to be performed by government” (214).
+
+- “Conservation is paved with good intentions which prove to be futile, or even dangerous, because they are devoid of critical understanding either of the land, or of economic land-use” (225).
+
+- Why is conservation such an uphill battle? The absence of an ecological conscience: “The District is a beautiful piece of social machinery, but it is coughing along on two cylinders because we have been too timid, and too anxious for quick success, to tell the farmer the true magnitude of his obligations. Obligations have no meaning without conscience, and the problem we face is the extension of the social conscience from people to land” (209).
+
+<br>
+
+**Ok, toughest case time, how would Leopold evaluate the sublime perspective on wilderness?**
+
+- **Groups, dig into the reading find us quotes that most directly address this question!**
+
+<br>
+
+My guess is that he would be sympathetic to it, BUT he doesn't see us as fundamentally separate from nature
+
+- “In short, a land ethic changes the role of Homo sapiens from conqueror of the land-community to plain member and citizen of it” (204).
+
+Plus, figuring out what is "pristine" is probably beyond our science
+
+- “The ordinary citizen today assumes that science knows what makes the community clock tick; the scientist is equally sure that he does not. He knows that the biotic mechanism is so complex that its workings may never be fully understood” (205).
+
+The Land Ethic as a proposed solution
+
+- “A land ethic, then, reflects the existence of an ecological conscience, and this in turn reflects a conviction of individual responsibility for the health of the land. Health is the capacity of the land for self-renewal. Conservation is our effort to understand and preserve this capacity” (221).
+
+- “The ‘key-log’ which must be moved to release the evolutionary process for an ethic is simply this: quit thinking about decent land-use as solely an economic problem. Examine each question in terms of what is ethically and esthetically right, as well as what is economically expedient. A thing is right when it tends to preserve the integdty, stability, and beauty of the biotic community. It is wrong when it tends otherwise” (224-225).
+
+<br>
+
+Big picture for me:
+
+- I have always appreciated how good Leopold is at explaining a complex set of ideas in simple and engaging ways
+
+- And his critiques of modern conservation policy have always hit me very hard
+
+<br>
+
+**SLIDE**: Let's now take this even deeper into the ecocentric philosophy
 
 <br>
 
@@ -230,16 +337,21 @@ Section: The Land Pyramid (214-220)
 - "Land, then, is not merely soil; it is a fountain of energy flowing through a circuit of soils, plants, and animals. Food chains are the living channels which conduct energy upward; death and decay return it to the soil. The circuit is not closed; some energy is dissipated in decay, some is added by absorption from the air, some is stored in soils, peats, and long-lived forests; but it is a sustained circuit, like a slowly augmented revolving fund of life" (216).
 - "Evolutionary changes, however, are usually slow and local. Man's invention of tools has enabled / him to make changes of unprecedented violence, rapidity, and scope" (217).
 - "The combined evidence of history and ecology seems to support one general deduction: the less violent the man-made changes, the greater the probability of successful readjustment in the pyramid" (220).
+
 Section: Land Health and the A-B Cleavage (221-223)
+
 - "A land ethic, then, reflects the existence of an ecological conscience, and this in turn reflects a conviction of individual responsibility for the health of the land. Health is the capacity of the land for self-renewal. Conservation is our effort to understand and preserve this capacity" (221).
 - "...a more careful scrutiny reveals a single plane of cleavage common to many specialized fields. In each field one group (A) regards the land as soil, and its function as commodity-production; another group ( B) regards the land as a biota, and its function as something broader" (221).
 - "In all of these cleavages, we see repeated the same basic paradoxes: man the conqueror versus man the biotic citizen; / science the sharpener of his sword versus science the search-light on his universe; land the slave and servant versus land the collective organism" (223).
+
 Section: The Outlook (223-226)
+
 - "The 'key-log' which must be moved to release the evolutionary process for an ethic is simply this: quit thinking about decent land-use as solely an economic problem. Examine each question in terms of what is ethically and esthetically right, as well as what is economically expedient. A thing is right when it tends to preserve the integdty, stability, and beauty of the biotic community. It is wrong when it tends otherwise" (224-225).
 - Super critical of conservation: "Conservation is paved with good intentions which prove to be futile, or even dangerous, because they are devoid of critical understanding either of the land,
 or of economic land-use" (225).
 
 :::
+
 
 
 
@@ -249,13 +361,51 @@ or of economic land-use" (225).
 
 ::: notes
 
-Naess: Diagram and discuss the philosophy of Deep Ecology
+GROUPS, take a few minutes to discuss the chapter on your own
 
-- Discuss the eight principles: Are we clear on each AND do they combine to make a coherent whole viewpoint? Why or why not?
+- What stood out to you as important? What resonated with you? Was there anything you found problematic?
 
-- What does this mean in real-world terms? Evaluate each of his examples of shallow vs deep approaches to environmental problems
+- Go!
 
-- Partial Q1 discussion: How would Naess evaluate the three perspectives on wilderness we have studied? Find specific quotes that help us infer his evaluations
+<br>
+
+**SLIDE**: Let's compare and contrast this with Leopold
+
+:::
+
+
+
+
+## {.smaller}
+
+1. The well-being and flourishing of human and nonhuman life on Earth have value in themselves... These values are independent of the usefulness of the nonhuman world for human purposes.
+2. Richness and diversity of life-forms contribute to the relation of these values and are also values in themselves.
+3. Human beings have no right to reduce this richness and diversity except to satisfy vital needs.
+4. The flourishing of human life and cultures is compatible with a substantial decrease of the human population. The flourishing of nonhuman life requires such a decrease.
+5. Current human interference with the nonhuman world is excessive, and the situation is rapidly worsening.
+6. Policies must therefore be changed. ... The resulting state of affairs will be deeply different from the present state of affairs.
+7. The ideological change is mainly that of appreciating life quality ... rather than adhering to an increasingly higher standard of living. 
+8. Those who subscribe to the foregoing points have an obligation directly or indirectly to try to implement the necessary changes. 
+
+::: notes
+
+**Groups, get ready to report back: How different is this from Leopold's Land Ethic?**
+
+- **Would Naess classify Leopold as a shallow environmentalist? Why or why not?**
+
+<br>
+
+**Anything specific stand out for you in your group discussions about Naess and Deep Ecology?**
+
+- **Anything that might help us figure out how to use this perspective in the real-world?**
+
+<br>
+
+I've always kind of considered Deep Ecology as Leopold on steroids.
+
+- They build from very similar roots but reach somewhat different outcomes in terms of how aggressively to change society
+
+- **SLIDE**: Let's now take that logic and amp it up 1000 more times...
 
 <br>
 
@@ -291,7 +441,117 @@ The Eight Principles of Deep Ecology
 
 
 
-## Deep Ecology: Extremism or Not? {background-image="Images/background-forest_v3.png" .center}
+## Ecodefense and Monkeywrenching {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+"John Muir said that if it ever came to a war between the races, he would side with the bears. That day has arrived."
+
+-- Dave Foreman (1993)
+
+::: notes
+
+**Ok, big picture first, what were your reactions to reading the intro and chapter 1 of the Ecodefense book?**
+
+- **Had anybody been introduced to the monkeywrenching concept before this reading?**
+
+<br>
+
+**What did you think of Abbey's argument that violence to defend the wilderness is the same thing as violence to protect your home from attack?**
+
+<br>
+
+**SLIDE**: The principles of monkeywrenching
+
+<br>
+
+*Notes - Abbey up to p3, Foreman for Ch1*
+
+- You have every right to defend your family and home from attack ("universally
+recognized, justified and even praised by all civilized human communities"), and what little remains of the American wilderness "is now undergoing exactly such an assault" (Abbey p2)
+- "Representative government in the USA represents money not people and therefore has forfeited our allegiance and moral support."
+- "That wilderness is our ancestral home, the primordial homeland of all living creatures including the human, and the present final dwelling place of such noble beings as the grizzly bear, the mountain lion, the eagle and the condor, the moose and the elk and the pronghorn antelope, the redwood tree, the yellowpine, the bristlecone pine, even the aspen, and yes, why not say it?, the streams, waterfalls, rivers, the very bedrock itself of our hills, canyons, deserts, mountains" (Abbey 3).
+- "No good American should ever go into the woods again without this book and, for example, a hammer and a few pounds of 60-penny nails. Spike a few trees now and then whenever you enter an area condemned to chainsaw massacre by Louisiana Pacific and its affiliated subsidiary the U.S. Forest Service. You won’t hurt the trees; they’ll be grateful for the protection; and you may save the forest" (Abbey 3).
+
+- "In the space of a few generations we have laid waste to paradise" (Foreman 5).
+- "Nonetheless, wildness and natural diversity remain. ... These are the places that hold North America together, that contain the genetic information of life, that represent sanity in a whirlwind of madness" (Foreman 5).
+- "It is time for women and men, individually and in small groups, to act heroically in defense of the wild, to put a monkeywrench into the gears of the machine that is destroying natural diversity. Though illegal, this strategic monkeywrenching can be safe, easy, fun, and — most important — effective in stopping timber cutting, road building, overgrazing, oil and gas exploration, mining, dam building, powerline construction, off-road-vehicle use, trapping, ski area development, and other forms of destruction of the wilderness, as well as cancerous suburban sprawl. But it must be strategic, it must be thoughtful, it must be deliberate in order to succeed" (Foreman 6).
+- "John Muir said that if it ever came to a war between the races, he would side with the bears. That day has arrived" (Foreman 8).
+
+The principles of monkeywrenching
+
+- Monkeywrenching is nonviolent
+- Monkeywrenching is not organized
+- Monkeywrenching is individual
+- Monkeywrenching is targeted
+- Monkeywrenching is timely
+- Monkeywrenching is dispersed
+- Monkeywrenching is diverse
+- Monkeywrenching is fun
+- Monkeywrenching is not revolutionary
+- Monkeywrenching is simple
+- Monkeywrenching is deliberate and ethical 
+
+
+:::
+
+
+
+
+## The Principles of Monkeywrenching {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="25%"}
+
+- Nonviolent
+- Not organized
+- Individual
+- Targeted
+- Timely
+- Dispersed
+
+:::
+
+::: {.column width="25%"}
+
+- Diverse
+- Fun
+- Not revolutionary
+- Simple
+- Deliberate and ethical 
+
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="40%"}
+
+![](Images/06_1-ecodefense.jpg){style="display: block; margin: 0 auto"}
+
+:::
+::::
+
+::: notes
+
+**What do you think of the princples proposed by Foreman for "defending" the wilderness?**
+
+- **Am I insane or is he trying to frame this violence as somehow not dangerous?**
+
+<br>
+
+**SLIDE**: Bookchin's argument
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Holistic Narratives: [Better environmentalism]{style="color:green;"} or [eco-fascism]{style="color:red;"}?**
+:::
 
 :::: {.columns}
 
@@ -311,18 +571,27 @@ The Eight Principles of Deep Ecology
 
 ::: notes
 
-Foreman's Ecodefense vs Bookchin's critiques: Is Deep Ecology an inherently extremist philosophy or something extremists can adopt, like any other view, to justify their violence?
+For the last part of class today I want us to reflect on the big debate that follows ecocentrism almost wherever it goes
 
-- ID the key arguments of Foreman
+- **Are eco-fascism and extremist tactics the inevitable result of adopting an ecocentric viewpoint or not?**
 
-- ID the key arguments of Bookchin
+- **What was Bookchin's argument and did you find it convincing or not?**
 
-- Discuss: Does Deep Ecology lead to extremism or not? 
+<br>
 
+- "Deep ecology, formulated largely by privileged male white academics..."
+- Equates the "eco-brutalism" of some deep ecology proponents to the arguments Hitler made to justify his acts of genocide and "population control" (3).
+- "Deep ecology is so much of a black hole of half-digested, ill-formed, and half-baked ideas that one can easily express utterly vicious notions like Foreman’s and still sound like a fiery radical who challenges everything that is anti-ecological in the present realm of ideas" (3)
+- "To parody the words shallow and deep ecology is to show not only the absurdity of this vocabulary but to reveal the superficiality of its inventors. Is there perhaps a deeper ecology than deep ecology?" (3)
+- "...it legitimates extremely regressive, primitivistic, and even highly reactionary notions that gain respectability because they areburied in the company of authentically radical contexts and traditions" (5-6).
+- "Instead, what deep ecology gives us, apart from what it plagiarizes from radically different ideological contexts, is a deluge of Eco-la-la. Humanity surfaces in a vague and unearthly form to embrace everyone in a realm of universal guilt" (7).
+- "One does not leave the muck of deep ecology without having mud all over one’s feet. Exactly who is to decide the nature of human “interference” in first nature and the extent to which it can be done? What are “some” of the ecosystems we can modify, and which ones are not subject to human “interference”?" (8)
+
+<br>
+
+**SLIDE**: Assignment for next class
 
 :::
-
-
 
 
 
@@ -330,11 +599,32 @@ Foreman's Ecodefense vs Bookchin's critiques: Is Deep Ecology an inherently extr
 
 <br>
 
+Which **ONE** of the four historical perspectives comes the closest to your personal view of wilderness and its value to society? 
+
+Submit and explain **three reasons** for your selection and make sure to connect your reasons to the readings (e.g. provide **evidence** for your claims).
 
 ::: notes
+
+*Read assignment*
+
+<br>
+
+My plan is for this reflections exercise to set us up for working on the next paper
+
+- Details on Canvas
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Reflecting on the Historical Perspectives of Wilderness
+
+Which ONE of the four historical perspectives comes the closest to your personal view of wilderness and its value to society? 
+
+Submit and explain three reasons for your selection and make sure to connect your reasons to the readings (e.g. provide evidence for your claims).
+
+
 
 :::

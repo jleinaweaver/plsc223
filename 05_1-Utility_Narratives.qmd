@@ -217,13 +217,15 @@ These are why meat at the grocery store has tended to get cheaper and cheaper ov
 
 ::: notes
 
-CAFOS generate millions of tons of manure every year. 
+FIRST, you may object to the treatment of animals like this on ethical terms
 
-- The most common type of facility to deal with this wase is an anaerobic lagoon e.g. a giant lake of poop
+SECOND, massive animal populations in close quarters require extensive antibiotics to stay healthy which raises the risks of antibiotic resistance spreading
 
-<br>
+THIRD, CAFOS generate millions of tons of manure every year. 
 
-When properly managed these lagoons represent a substantial risk to the environment and public health
+- The most common type of facility to deal with this waste is an anaerobic lagoon e.g. a giant lake of poop
+
+- When properly managed these lagoons represent a substantial risk to the environment and public health
 
 - They threaten groundwater, local ecosystems and damage the air quality above them
 
@@ -282,13 +284,11 @@ The Missouri legislature has passed laws to make regulating CAFO operations almo
 
 <br>
 
-Let's say you are trying to convince the owner of a local CAFO to spend more money on their waste storage technologies OR to stop releasing waste into a nearby river.
-
-- In talking to them you come to realize they hold an Edenic view of the wilderness
+Let's say you are trying to convince the owner of a local CAFO to spend money to reduce the harms of their CAFO on the environment
 
 <br>
 
-**FIRST, what kinds of arguments or explanations might they give you that suggest they hold an Edenic view?**
+**What kinds of arguments or explanations might they give you that suggest they hold an Edenic view of the environment?**
 
 <br>
 
@@ -373,6 +373,8 @@ The takeaway here is that the narrative perspectives can help you cut to the hea
 Imagine you have been working to move your local community to replace its coal fired power plants with wind energy
 
 - And yet every step of the way you are being fought, not by oil or mining intererests, but by homeowners who don't want you messing with their view of the wilderness!
+
+- These homeowners want renewable resources just not in their backyards!
 
 <br>
 
@@ -486,9 +488,9 @@ Pinchot, G. (1910). *The Fight for Conservation*.
 
 ::: notes
 
-Groups take a few minutes to discuss the excerpts from Pinchot's book
+Groups take a few minutes to discuss the excerpts from Pinchot's book that I assigned you
 
-- The aim is to get a sense of how Thoreau defines wilderness AND how he conceives of its value
+- The aim is to get a sense of how Pinchot defines wilderness AND how he conceives of its value
 
 - Be ready to report back on your conclusions and where in the text you find evidence for them
 
@@ -500,19 +502,35 @@ Groups take a few minutes to discuss the excerpts from Pinchot's book
 
 <br>
 
-**What do we make of the arguments in Chapter IX?**
+What is wilderness? 
 
-- **Do these speak to you in a profound way?**
+- It is a natural resource
 
-- (Note for the class the glorious sexism in Chapter IX)
+- **Then how is this different from the Edenic perspective?** 
+
+    1. Longer time horizons
+    2. A concern for the greatest good for the greatest number
+    3. A recognition that our "resources" are limited!
+    
+<br>
+
+When is wilderness valuable?
+
+- He's obsessed with the idea that we not waste our resources
+
+- "The first principle of conservation is development, the use of the natural resources now existing on this continent for the benefit of the people who live here now" (p10) e.g. don't extend that time horizon too far
+
+- "In the second place conservation stands for the prevention of waste."
+
+- "...a third principle. It is this: The natural resources must be developed and preserved for the benefit of the many, and not merely for the profit of a few" (10).
+
+- "The central thing for which Conservation stands is to make this country the best possible place to live in, both for us and for our descendants. It stands against the waste of the natural resources which cannot be renewed, such as coal and iron; it stands for the perpetuation of the resources which can be renewed, such as the food-producing soils and the forests; and most of all it stands for an equal opportunity for every American citizen to get his fair share of benefit from these resources, both now and hereafter" (17).
 
 <br>
 
-**Other than the weird family stuff, do Pinchot's writings feel outdated to you? Why or why not?**
+Ok, groups, talk to me about Chapter 10 "An Equal Chance".
 
-- **Examples of parts that feel like he could be writing about our politics today?**
-
-- (Chapter XII sounds to me like it was written about today! Special interests, a loss of faith in Congress, tariffs, wowsa!)
+- **Does this feel like he's writing about our politics today? Any examples stand out?**
 
 <br>
 

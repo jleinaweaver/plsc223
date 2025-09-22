@@ -16,9 +16,9 @@ library(kableExtra)
 
 **Section 2: Historical Perspectives on Wilderness**
 
-- What is the "correct" perspective on wilderness?
-
 :::
+
+- Reflecting on the historical perspectives in personal and community terms
 
 <br>
 
@@ -29,11 +29,55 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Head's up on our next field trip!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The Watershed Committee of the Ozarks**
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](Images/06_2-Watershed Center.jpg)
+
+![](Images/06_1-Watershed_Center.jpg)
+:::
+
+::: {.column width="70%"}
+![](Images/06_1-Watershed_Directions.png)
+:::
+::::
+
+::: notes
+
+Next Thursday we will meet at Valley Water Mill Park which is the home of the Watershed Committee of the Ozarks
+
+- It's only a ten minute or so drive northeast from campus
+
+<br>
+
+**Has anybody been up there yet to walk the trails or meet with the team to discuss the watershed?**
+
+- They have a beautiful hiking trail in addition to all the great material on our local watershed
+
+<br>
+
+Once again, make sure to let me know if you have trouble arranging a ride to the site
+
+- And I will offer EC to anybody who carpools!
+
+<br>
+
+**SLIDE**: Ok, back to our work in Section 2 of the class
 
 :::
 
@@ -43,32 +87,232 @@ Prep for Class
 
 ::: {.r-fit-text}
 
-TBD
+**Section 2: Historical Perspectives on Wilderness**
+
+- Edenic Narratives
+
+- Sublime Narratives
+
+- Utility Narratives
+
+- Holistic Narratives
 
 :::
 
 ::: notes
 
+Section 2 of our class has been an exploration of some of the dominant narratives in the history of the human relationship to the wilderness.
+
 <br>
 
-**SLIDE**: ...
+During our time together I've been trying to show you how these are more than just historical artifacts
+
+- While I always enjoy reading Thoreau, Muir, Cronon and the rest, that really wasn't the point
+
+<br>
+
+These narratives underpin the environmental policy debates we are having in our community today
+
+- **What kinds of arguments do you hear in the world around us that mirror the Edenic narrative?**
+
+- (**SLIDE**)
 
 :::
 
 
 
+## The Historical Perspectives Today {background-image="Images/background-forest_v3.png" .center}
 
+::: {.incremental}
+- Wilderness is a resource meant to improve our lives through its productive use (*Edenic*)
 
+- Wilderness is a holy place meant to be appreciated and kept wild (*Sublime*)
 
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
+- Wilderness is a valuable resource that must be managed so we don't run out (*Utility*)
+
+- Wilderness is NOT a resource, it is our community and we depend upon it to live (*Holistic*)
+
+:::
+
+::: notes
+
+**What kinds of arguments do you hear in the world around us that mirror the sublime narrative?**
+
+- (**REVEAL**: Wilderness is a holy place meant to be appreciated and kept wild)
 
 <br>
 
+**And the utility narrative?**
+
+- (**REVEAL**: Wilderness is a valuable resource that must be managed so we don't run out)
+
+<br>
+
+**And the holistic narrative?**
+
+- (**REVEAL**: Wilderness is NOT a resource, it is our community and we depend upon it to live)
+
+<br>
+
+The key here as you well know is that NONE of these are right or wrong
+
+- They are value judgements and ALL of them can be made in ways that I suspect each of you would be convinced by
+
+- Edenic also means using wilderness resources to relieve human suffering
+
+- Sublime also means finding times to appreciate the grandeur of the natural world
+
+- Utility also means trying to find balance
+
+- Holistic also means striving to better understand our place in the biosphere
+
+<br>
+
+My argument to you has been that you will be a more effective problem-solver in our community IF you better understand:
+
+1. Our current debates have long historical roots,
+
+2. Our relationship to the environment has been evolving over time, 
+
+3. Solving real-world problems means understanding how your stakeholders view the world
+
+<br>
+
+**Make sense?**
+
+<br>
+
+**SLIDE**: Let's use your pre-class work as a way to examine where we are as a class at this point
+
+:::
+
+
+## For Today {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+Which **ONE** of the four historical perspectives comes the closest to your personal view of wilderness and its value to society? 
+
+Submit and explain **three reasons** for your selection and make sure to connect your reasons to the readings (e.g. provide **evidence** for your claims).
 
 ::: notes
+
+What I'd like each of you to do is present us your pre-class argument
+
+- Let's see where you guys are at this point. 
+
+- e.g. your personal perspective, the reasons for it and the evidence to support them
+
+- No right or wrong, just a statement of the assumptions that speak to you the most
+
+<br>
+
+*Seminar Style: Circle up the class, put away computers and let's all talk!*
+
+- *Go around the circle, look for chances to discuss things*
+
+<br>
+
+*Reflections on the Exercise*
+
+**Does everyone define their personal "good" in the same way?**
+
+<br>
+
+**Did any of the evidence or reasons given by your classmates hit you particularly hard? Something you hadn't thought about? Or something they phrased really well?**
+
+<br>
+
+**How serious is our selection bias problem in this class? By that I mean, did we hear arguments in favor of all four perspectives today? Why or why not?**
+
+<br>
+
+**Do all of these versions of the personal "good" add up to a shared understanding of the public good?**
+
+<br>
+
+**SLIDE**: I'd like us to take all this good work into a second paper
+
+:::
+
+
+
+## Paper 2 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+Make an argument that **ONE** of the historical perspectives on wilderness is the "best" approach to managing the **resources and needs of our community** going forward
+
+- Argument paper with three premises and high quality evidence
+
+- Must include a strong counter-argument paragraph
+
+::: notes
+
+The assignment prompt is on Canvas now
+
+- My expectations are essentially the same as the first paper
+
+- You are going to write me a focused argument paper with three clear premises, a counter-argument paragraph before the end and high quality evidence
+
+- Due Oct 10th
+
+<br>
+
+BIG NOTE HERE: This is a different formulation than the Canvas assignment for today
+
+- For that pre-class assignment I wanted the test of "goodness" to be personal to you 
+
+- For the paper I want the test to be your conception of the "resources and needs of our community"
+
+- Could these be the same thing? Sure, but it's not a certainty!
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+Let's get to work on this.
+
+- **Everybody take five minutes to reflect on our work for today and to select the perspective they want to choose for this paper**
+
+- Sit with what you wrote before class and what you heard from the class and see where that takes you.
+
+<br>
+
+**Ok, does everybody have their perspective chosen?**
+
+- **Now, 10 minutes to brainstorm a list of reasons why you chose this perspective**
+
+- Don't edit yourself, this is brainstorming! Just write!
+
+- Make sure these are complete sentences!
+
+<br>
+
+Now, share your lists with others in class. 
+
+- Which premises on other people's lists do you like the best?
+
+- Go see a bunch of different lists!
+
+<br>
+
+**Does everybody have their list narrowed down to three or four?**
+
+- **Last task, take some time to reflect on the OTHER arguments you just heard. Pick one as your counter-argument!**
+
+- REMEMBER, a valuable counter must be a strong argument. Your paper only gets weaker if you attack a straw man. Make a compelling case for a different perspective and then address it. 
+
+<br>
+
+Ok, you now have a rough outline for the paper
+
+- **Any questions on the assignment?**
+
+<br>
+
+Time remaining: Writing workshop
 
 :::
