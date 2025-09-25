@@ -14,11 +14,13 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.1 Environmental Justice**
 
-- How did we get here? Racism, redlining and NIMBY
+- How did we get here? Racism, bad history, redlining and NIMBY
 
 :::
 
@@ -31,31 +33,108 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Don't forget, Paper 2 is due tomorrow
 
 :::
 
 
 
-## {background-image="Images/background-forest_v3.png" .center}
+## Paper 2 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+Make an argument that **ONE** of the historical perspectives on wilderness is the "best" approach to managing the **resources and needs of our community** going forward
+
+- Argument paper with three premises and high quality evidence
+
+- Must include a strong counter-argument paragraph
+
+::: notes
+
+**Questions on the prompt?**
+
+<br>
+
+**SLIDE**: Last class we explored the evidence on the nature and scope of the environmental justice problem
+
+:::
+
+
+
+## {background-image="Images/08_2-clean-air-protest-sign.jpg"}
 
 ::: {.r-fit-text}
-
-TBD
-
+<p style="color: white;">**Environmental Racism: Cause or Correlation?**</p>
 :::
 
 ::: notes
 
+While I argued to you that the evidence for unequal harms is quite overwhelming, that does not settle the causal question
+
 <br>
 
-**SLIDE**: ...
+As a refresher and warm-up, I'd like to ask for your takeaways from our discussions last class on this question
+
+- To be clear, I am asking for your reflections on the evidence and not whether the outcomes we are observing are unjust or unpleasant.
+
+- They are and in either case represent a failure of our community to protect the vulnerable amongst us
+
+<br>
+
+**So, where did you end up on this?**
+
+- **Were you persuaded that this is a problem of environmental racism or something else? Why?**
+
+<br>
+
+**SLIDE**: Plan for today
 
 :::
+
+
+
+## For Today {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**Environmental Justice Issues: How did we get here?**
+:::
+
+- Kashwan (2020) on Muir and Audubon
+
+- Mildenberger (2019) on Hardin
+
+- Diem (2024) on NIMBY
+
+- Pittman (2024) on redlining
+
+::: notes
+
+Today I want us to explore some of the mechanisms that may explain how we reached these unequal environmental outcomes
+
+<br>
+
+Some of these are absolutely issues of racism, but each story tends to be somewhat more complicated than that
+
+<br>
+
+**SLIDE**: Let's start with the Kashwan (2020) argument
+
+:::
+
+
+
+
+
+
+
+The legacy of racism in the American environmental movement
+
 
 
 

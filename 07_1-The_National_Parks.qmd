@@ -16,7 +16,7 @@ library(kableExtra)
 
 **Section 2: Historical Perspectives on Wilderness**
 
-- Ken Burns documentary on the National Parks
+- Examining the personalities behind the perspectives
 
 :::
 
@@ -29,11 +29,11 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Set up Amazon Prime access for the Ken Burns documentary on the National Parks
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Reminder, Thursday is our next field trip!
 
 :::
 
@@ -42,33 +42,128 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-
-TBD
-
+**The Watershed Committee of the Ozarks**
 :::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](Images/06_2-Watershed Center.jpg)
+
+![](Images/06_1-Watershed_Center.jpg)
+:::
+
+::: {.column width="70%"}
+![](Images/06_1-Watershed_Directions.png)
+:::
+::::
 
 ::: notes
 
+Thursday we will meet at Valley Water Mill Park which is the home of the Watershed Committee of the Ozarks
+
+- It's only a ten minute or so drive northeast from campus
+
 <br>
 
-**SLIDE**: ...
+Once again, make sure to let me know if you have trouble arranging a ride to the site
+
+- And I will offer EC to anybody who carpools!
+
+<br>
+
+**SLIDE**: The paper
 
 :::
 
 
 
-
-
-
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
+## Paper 2 {background-image="Images/background-forest_v3.png" .center}
 
 <br>
+
+Make an argument that **ONE** of the historical perspectives on wilderness is the "best" approach to managing the **resources and needs of our community** going forward
+
+- Argument paper with three premises and high quality evidence
+
+- Must include a strong counter-argument paragraph
+
+::: notes
+
+**How's your work on the second paper going?**
+
+- **Any questions?**
+
+<br>
+
+**SLIDE**: Today, the personalities underpinning the perspectives
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/07_1-Ken_Burns_doc.png){style="display: block; margin: 0 auto"}
 
 
 ::: notes
 
+**Has anybody watched the Ken Burns documentary on the national parks?**
+
 <br>
 
-**Questions on the assignment?**
+It's a 12 hour documentary split across six episodes
+
+- Thoroughly enjoyable, and very gentle
+
+- An excellent watch, especially if you're a little tired... :)
+
+<br>
+
+Today I want to show you clips from the first two episodes that cover the early years of our national parks development
+
+- Let's add some historical color to our thinking about the battle between conservationists and preservationists
+
+<br>
+
+1. Yosemite
+
+    - **Episode 1, 13:46 - 29:00 (15 mins)**
+    
+    - Yosemite found, presence of god, here comes the people, Lincoln preserves Yosemite to protect this Garden of Eden!
+
+2. Yellowstone
+
+    - **Episode 1, 1:08:28 - 1:30:39 (22 mins)**
+    
+    - "Discovery" and creation of Yellowstone (including expulsion of the natives) and the ensuing fight over who would manage/control the first national park in the world. These are the same debates we are having today.
+
+3. Muir (preservation)
+
+    - **Episode 2, 28:19 - 32:47 (5 mins)**
+    
+    - The wilds are being overrun, Muir forms Sierra Club, wilderness redeems man NOT vice versa, 
+
+4. Pinchot (conservation)
+
+    - **Episode 2, 46:35 - 52:58 (6 mins)**
+
+    - Gifford Pinchot introduced and contrasted with Muir. Pinchot: The greatest good for the greatest number. Two sides of the same coin. Government sides with Pinchot.
+
+5. Battle over the flooding the Hetch Hetchy Valley
+
+    - **Episode 2, 1:49:49 - 2:07:15 (18 mins)**
+
+
+
+
+
 
 :::
+
+
+
+
+
+
+

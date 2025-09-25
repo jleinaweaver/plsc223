@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.1 Environmental Justice**
@@ -31,11 +33,63 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Bring lots of markers!
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Paper 2 is due this Friday
+
+:::
+
+
+
+## Paper 2 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+Make an argument that **ONE** of the historical perspectives on wilderness is the "best" approach to managing the **resources and needs of our community** going forward
+
+- Argument paper with three premises and high quality evidence
+
+- Must include a strong counter-argument paragraph
+
+::: notes
+
+**Questions on the prompt?**
+
+<br>
+
+**SLIDE**: Course outline
+
+:::
+
+
+
+## Course Outline {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_2-Syllabus_Topics.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Today we kick off Section 3 of the class
+
+- Section 3: Current Challenges in American Environmentalism
+
+<br>
+
+Specifically, we'll be focusing on environmental justice over the next three weeks
+
+- This week we define the problem and the scope
+
+- Next week we look into our Springfield backyard to measure the problem
+
+- Then we'll engage with some of the activism working in our community
+
+<br>
+
+**SLIDE**: Today we begin exploring the material on environmental justice
 
 :::
 
@@ -45,19 +99,125 @@ Prep for Class
 
 ::: {.r-fit-text}
 
-TBD
+**Human Rights Watch**
+
+- Report on Louisiana's 'Cancer Alley'
+
+- [YouTube Link](https://www.youtube.com/watch?v=-IAoNhl2mtU&t)
 
 :::
 
 ::: notes
 
+Let's set up our work by first watching this short documentary produced by HRW on their work documenting the harms in Louisiana's 'Cancer Alley'
+
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Assignment for today
 
 :::
 
 
+
+## For Today {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Environmental Racism: Cause or Correlation?**
+
+- Do polluters and/or governments intentionally direct environmental harms onto minority communities?
+
+::: notes
+
+For today, everybody submitted three reasons the answer to this question is yes, and three reasons the answer is no.
+
+<br>
+
+**Everybody ready to go with these?**
+
+<br>
+
+**Quick tangent, why does this debate matter?**
+
+- **Isn't it enough to establish that the harms are unequally distributed?**
+
+<br>
+
+I just want us all to be clear, this isn't just an academic debate.
+
+- The policy fixes to address the "accident" version of this problem look VERY different from those needed to correct a targeting problem.
+
+<br>
+
+**SLIDE**: Let's now build and evaluate the competing arguments
+
+<br>
+
+Canvas Assignment: Environmental Racism as Causation or Correlation?
+
+It appears clear from the evidence that environmental harms are not equally distributed across racial and ethnic groups in our society. However, what is not certain is whether this outcome is an accident or intentional. Effectively addressing this problem in our communities requires an answer to this fundamental question of causation. The kinds of policies we would use to minimize accidental harms will almost certainly look different from those we would need if the harms are being explicitly targeted at disfavored groups.
+
+For our next class I would like you to reflect on the assigned readings, and any other material you feel is relevant from your other studies, in order to help us outline the arguments on this question. 
+
+1. Submit the outline of an argument (thesis and three premises) that polluters and/or governments are intentionally directing environmental harms onto minority communities.
+2. Submit the outline of an argument (thesis and three premises) that polluters and/or governments are NOT intentionally directing environmental harms onto minority communities (e.g. the observed harms are correlational, not evidence of causation).
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Environmental Racism: Cause or Correlation?**
+:::
+
+<br>
+
+- Therefore, polluters and/or governments are intentionally directing environmental harms onto minority communities
+
+- Therefore, polluters and/or governments are NOT intentionally directing environmental harms onto minority communities
+
+
+::: notes
+
+*Split the board in half*
+
+- *Left Side: "Causation"; Right side: "Correlation"*
+
+<br>
+
+Ok, everybody take some time to write your premises on the board
+
+- Let's make big lists of all the possible reasons you proposed on Canvas today
+
+- Complete sentences!
+
+<br>
+
+*Split class in half, assign one argument to each group*
+
+- Groups: Tighten this diagram up, consolidate down to the strongest ideas
+
+<br>
+
+*Present and discuss each*
+
+<br>
+
+Ok, bottom line questions
+
+- **How convinced are you that we have an environmental racism problem?**
+
+- **Are you convinced this is correlation or causation? Why?**
+
+- **Given all of this, and your conclusions to the earlier arguments, what should we as a society do about this?**
+
+<br>
+
+**SLIDE**: For next class
+
+:::
 
 
 
@@ -66,11 +226,36 @@ TBD
 
 <br>
 
+::: {.r-fit-text}
+**Environmental Justice Issues: How did we get here?**
+:::
+
+- Kashwan (2020) on Muir and Audubon
+
+- Mildenberger (2019) on Hardin
+
+- Diem (2024) on NIMBY
+
+- Pittman (2024) on redlining
 
 ::: notes
+
+For next class I've given you a series of short readings that will set us up to discuss the racism at the historical roots of American environmentalism
+
+- Read these and then submit a reflection on Canvas
+
+- Prompt details are on the assignment for Thursday
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+Canvas Assignment: What do we do with the flawed actors or our past?
+
+The readings for today make compelling arguments that key figures in American environmentalism like John Muir, John James Audubon and Garrett Hardin were motivated, at least in part, by discriminatory worldviews. 
+
+Are you persuaded that American environmentalism must stop honoring these figures if we hope to build an inclusive movement going forward? In other words, is it time to stop reading and debating the arguments of these authors? Why or why not?
 
 :::
