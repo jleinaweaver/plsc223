@@ -35,11 +35,11 @@ Prep for Class
 
 1. Review Canvas submissions
 
-2. Bring lots of markers!
+2. Save 15 minutes at end for documentary (11 mins) and setting up next assignment
 
 <br>
 
-**SLIDE**: Paper 2 is due this Friday
+**SLIDE**: Don't forget, paper 2 is due this Friday
 
 :::
 
@@ -59,9 +59,13 @@ Make an argument that **ONE** of the historical perspectives on wilderness is th
 
 **Questions on the prompt?**
 
+- Paper must define the community you are focusing on and how you conceive of what they need
+
+- All claims must be supported by high quality evidence!
+
 <br>
 
-**SLIDE**: Course outline
+**SLIDE**: Let's kick off Section 3 of the class
 
 :::
 
@@ -85,13 +89,225 @@ Specifically, we'll be focusing on environmental justice over the next three wee
 
 - Next week we look into our Springfield backyard to measure the problem
 
-- Then we'll engage with some of the activism working in our community
+- Then we'll engage with some of the activism being done in our community to address these problems
 
 <br>
 
-**SLIDE**: Today we begin exploring the material on environmental justice
+**SLIDE**: Today we begin exploring the material on environmental justice beginning the the Bullard, Mohai, Saha & Wright report from 2007
 
 :::
+
+
+
+## Bullard, Mohai, Saha & Wright (2007) {background-image="Images/background-forest_v3.png"}
+
+![](Images/08_1-UCC_Protest.avif){style="display: block; margin: 0 auto"}
+
+::: notes
+
+In 1982, North Carolina "chose a poor predominantly African American community for the placement of a toxic waste landfill to dispose of PCBs illegally dumped along the roadway of fourteen counties" (viii).
+
+- Members of that community reached out to the United Church of Christ Commission for Racial Justice (CRJ) for help
+
+<br>
+
+The United Church of Christ (UCC) is a church that has long taken its role in the community very seriously
+
+- This report coming out of North Carolina was not the first they had received and they were growing concerned
+
+<br>
+
+In response, the UCC commissioned a "study to examine what was perceived at the time to be the intentional placement of hazardous waste sites, landfills, incinerators, and polluting industries in communities inhabited mainly by African Americans, Hispanics, Native Americans, Asians and Pacific Islanders, farm workers and the working poor" (viii).
+
+- This report helped launch a movement across the country meant to help us document these damages and then to serve as a demand for protection of these communities
+
+<br>
+
+**SLIDE**: 20 years later
+
+:::
+
+
+
+
+## Bullard, Mohai, Saha & Wright (2007) {background-image="Images/background-forest_v3.png"}
+
+![](Images/08_1-Bullard_Map_Cover.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Twenty years later the UCC once again commissioned a group of experts to analyze the problem and see what progress had been made.
+
+- For today I asked each of you to read chapters 3 and 4 from that updated report.
+
+<br>
+
+**What is the key takeaway of reading these chapters?**
+
+- **Are hazardous waste facilities in the US more likely to be near people of color and the poor?**
+
+<br>
+
+Main Conclusion: Preponderance of the research since 1987 shows "environmental hazards of a wide variety are distributed inequitably by race and socioeconomic status" (38).
+
+- **SLIDE**: Let's look at some of the data
+:::
+
+
+
+## Bullard, Mohai, Saha & Wright (2007) {background-image="Images/background-forest_v3.png"}
+
+![](Images/08_1-Bullard_Table_3_1.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Here we see a tabular summary of the average data in 1990.
+
+- Each column represents the average value for people living within set distances from a hazardous waste facility.
+:::
+
+
+## Bullard, Mohai, Saha & Wright (2007) {background-image="Images/background-forest_v3.png"}
+
+![](Images/08_1-Bullard_Table_3_1_2.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Focus first on just the difference between those super close and those far away.
+
+- **What do we see in the data?**
+
+<br>
+
+These results are consistent even when including up to 3km away as "close".
+
+<br>
+
+**Why do the authors adopt 3km as their definition of closeness?**
+
+- Focusing on 3km (1.8mi) radius which "corresponds to the distance within which empirical studies have noted adverse health, property value and quality of life impacts associated with hazardous waste sites, including hazardous waste facilities (see Methods Appendix)."
+
+<br>
+
+**SLIDE**: Let's jump forward in time
+:::
+
+
+## Bullard, Mohai, Saha & Wright (2007) {background-image="Images/background-forest_v3.png"}
+
+![](Images/08_1-Bullard_Table_4_1_v2.png){style="display: block; margin: 0 auto"}
+
+
+::: notes
+
+**What do we learn from their updated data in 2000? Are things getting better?**
+
+- "Overall, Table 4.1 shows that the magnitude of racial and socioeconomic disparities did not change appreciably between 1990 and 2000. It is notable, however, that during the 1990s the percentages of people of color increased in the United States such that people of color now comprise a majority of the population living near the nation’s commercial hazardous waste facilities" (54).
+
+<br>
+
+**What else stood out for you in reading these two chapters of the report?**
+
+- **Per this evidence, do we have a problem and how serious is it?**
+
+<br>
+
+I like to kick off our work today with this report as our touchstone
+
+- It is a powerful call for political change,
+
+- It was generated through a partnership of religious and academic institutions working together for common cause, and
+
+- It is a high quality piece of scientific evidence 
+
+<br>
+
+**SLIDE**: Ok, let's use your submissions to bring us forward in time on this
+
+<br>
+
+**Notes**
+
+Bullard et al 2007 ch 4
+
+- Updates analysis in chapter 3 using more up-to-date data (2007 EPA and 2000 census)
+- Five questions on p49
+1. What is the current extent of racial and socioeconomic disparities in the location of the nation’s commercial hazardous waste facilities?
+2. Did disparities increase during the 1990s?
+3. Are disparities greater for host neighborhoods with clustered facilities?
+4. How are racial and socioeconomic disparities distributed in different regions of the country?
+5. How important is race in predicting facility location in comparison to socioeconomic status and other non­racial factors?
+- Focusing on 3km (1.8mi) radius which "corresponds to the distance within which empirical studies have noted adverse health, property value and quality of life impacts associated with hazardous waste sites, including hazardous waste facilities (see Methods Appendix)."
+- More than nine million people (9,222,000) are estimated to live within 3 kilometers (1.8 miles) of the nation’s 413 commercial hazardous waste facilities (52).
+- Table 4.1 is the updated Table 3.1
+- "Overall, Table 4.1 shows that the magnitude of racial and socioeconomic disparities did not change appreciably between 1990 and 2000. It is notable, however, that during the 1990s the percentages of people of color increased in the United States such that people of color now comprise a majority of the population living near the nation’s commercial hazardous waste facilities" (54).
+- 2000: Host neighborhood 55.9% people of color vs non-host 30% (26% difference or saying people of color are 1.86x more likely to live within 3km of TSDF)
+- 2000: Host neighborhood 18% poverty rate vs non-host 12% (6.1% difference or saying people in poverty 1.5x more likely to live within 3km of TSDF)
+- Some evidence that this is worse in certain EPA regions than others. 
+- Region 5 (Great Lake states) is real bad! 52.6% PoC vs 18.8% PoC in non-host areas. 33.8% higher!
+- Region 9 real bad too (CA, AZ, NV). 80.5% PoC vs 49.4% PoC in non-host areas. 31.1% higher!
+- Figure 4.3 shows states with biggest discrepancies by race
+- "This analysis shows that statistically significant racial and socioeconomic disparities in the location of commercial hazardous waste facilities are very prevalent among the states and thus throughout the country" (60).
+- "This analysis of the states also shows that racial disparities are more prevalent and extensive than socioeconomic disparities, suggesting that race has more to do with the current distribution of the nation’s hazardous waste facilities than poverty" (60).
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The Environmental Justice Problem: Cases**
+
+1. What is the specific problem?
+
+2. What groups are suffering disproportionate harm?
+
+3. How serious or substantial is the problem?
+
+:::
+    
+::: notes
+
+*ON BOARD: Three Columns*
+
+- Environmental Justice Problem
+- Groups Impacted
+- Size of the Problem
+
+<br>
+
+Let's go around the room to hear each of your pieces of evidence
+
+- We'll track it all on the board using these three categories (or more if we need)
+
+<br>
+
+**Questions?**
+
+- Let's go!
+
+<br>
+
+**Ok, takeaways from all our cases?**
+
+<br>
+
+- **Do we currently have an environmental justice problem?**
+
+- **What groups are being targeted most frequently?**
+
+- **How substantial or sizable are these problems?**
+
+- **At this point would you argue that environmentalism needs to take the justice problem as seriously as it does the desire to protect "nature"? Why or why not?**
+
+<br>
+
+We next have to take this conversation into some SUPER uncomfortable places for me
+
+- **SLIDE**: Does our country have an environmental justice problem or an environmental racism problem?
+
+:::
+
 
 
 
@@ -109,116 +325,15 @@ Specifically, we'll be focusing on environmental justice over the next three wee
 
 ::: notes
 
-Let's set up our work by first watching this short documentary produced by HRW on their work documenting the harms in Louisiana's 'Cancer Alley'
+*Documentary clip on the work of Human Rights Watch in Louisiana*
+
+- https://www.youtube.com/watch?v=-IAoNhl2mtU&t
 
 <br>
 
-**SLIDE**: Assignment for today
+**SLIDE**: Assignment for next class
 
 :::
-
-
-
-## For Today {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
-**Environmental Racism: Cause or Correlation?**
-
-- Do polluters and/or governments intentionally direct environmental harms onto minority communities?
-
-::: notes
-
-For today, everybody submitted three reasons the answer to this question is yes, and three reasons the answer is no.
-
-<br>
-
-**Everybody ready to go with these?**
-
-<br>
-
-**Quick tangent, why does this debate matter?**
-
-- **Isn't it enough to establish that the harms are unequally distributed?**
-
-<br>
-
-I just want us all to be clear, this isn't just an academic debate.
-
-- The policy fixes to address the "accident" version of this problem look VERY different from those needed to correct a targeting problem.
-
-<br>
-
-**SLIDE**: Let's now build and evaluate the competing arguments
-
-<br>
-
-Canvas Assignment: Environmental Racism as Causation or Correlation?
-
-It appears clear from the evidence that environmental harms are not equally distributed across racial and ethnic groups in our society. However, what is not certain is whether this outcome is an accident or intentional. Effectively addressing this problem in our communities requires an answer to this fundamental question of causation. The kinds of policies we would use to minimize accidental harms will almost certainly look different from those we would need if the harms are being explicitly targeted at disfavored groups.
-
-For our next class I would like you to reflect on the assigned readings, and any other material you feel is relevant from your other studies, in order to help us outline the arguments on this question. 
-
-1. Submit the outline of an argument (thesis and three premises) that polluters and/or governments are intentionally directing environmental harms onto minority communities.
-2. Submit the outline of an argument (thesis and three premises) that polluters and/or governments are NOT intentionally directing environmental harms onto minority communities (e.g. the observed harms are correlational, not evidence of causation).
-
-:::
-
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-::: {.r-fit-text}
-**Environmental Racism: Cause or Correlation?**
-:::
-
-<br>
-
-- Therefore, polluters and/or governments are intentionally directing environmental harms onto minority communities
-
-- Therefore, polluters and/or governments are NOT intentionally directing environmental harms onto minority communities
-
-
-::: notes
-
-*Split the board in half*
-
-- *Left Side: "Causation"; Right side: "Correlation"*
-
-<br>
-
-Ok, everybody take some time to write your premises on the board
-
-- Let's make big lists of all the possible reasons you proposed on Canvas today
-
-- Complete sentences!
-
-<br>
-
-*Split class in half, assign one argument to each group*
-
-- Groups: Tighten this diagram up, consolidate down to the strongest ideas
-
-<br>
-
-*Present and discuss each*
-
-<br>
-
-Ok, bottom line questions
-
-- **How convinced are you that we have an environmental racism problem?**
-
-- **Are you convinced this is correlation or causation? Why?**
-
-- **Given all of this, and your conclusions to the earlier arguments, what should we as a society do about this?**
-
-<br>
-
-**SLIDE**: For next class
-
-:::
-
 
 
 
@@ -240,7 +355,7 @@ Ok, bottom line questions
 
 ::: notes
 
-For next class I've given you a series of short readings that will set us up to discuss the racism at the historical roots of American environmentalism
+For next class I've given you a series of short readings that will set us up to discuss the WHY behind some of the environmental justice problems we currently face
 
 - Read these and then submit a reflection on Canvas
 
@@ -259,3 +374,6 @@ The readings for today make compelling arguments that key figures in American en
 Are you persuaded that American environmentalism must stop honoring these figures if we hope to build an inclusive movement going forward? In other words, is it time to stop reading and debating the arguments of these authors? Why or why not?
 
 :::
+
+
+

@@ -68,26 +68,26 @@ Make an argument that **ONE** of the historical perspectives on wilderness is th
 ## {background-image="Images/08_2-clean-air-protest-sign.jpg"}
 
 ::: {.r-fit-text}
-<p style="color: white;">**Environmental Racism: Cause or Correlation?**</p>
+<p style="color: white;">**The Environmental Justice Problem**</p>
 :::
 
 ::: notes
 
-While I argued to you that the evidence for unequal harms is quite overwhelming, that does not settle the causal question
+**Big picture, what is the problem we are talking about here?**
+
+- (It appears clear from the evidence that environmental harms are not equally distributed across racial and ethnic groups in our society.)
 
 <br>
 
-As a refresher and warm-up, I'd like to ask for your takeaways from our discussions last class on this question
+**Examples from your Canvas submissions last class?**
 
-- To be clear, I am asking for your reflections on the evidence and not whether the outcomes we are observing are unjust or unpleasant.
-
-- They are and in either case represent a failure of our community to protect the vulnerable amongst us
+- *Gather a bunch*
 
 <br>
 
-**So, where did you end up on this?**
+**In sum, how big is this problem?**
 
-- **Were you persuaded that this is a problem of environmental racism or something else? Why?**
+- **In other words, are you convinced that our society has shifted its worst pollution problems onto vulnerable communities? Why or why not?**
 
 <br>
 
@@ -109,34 +109,837 @@ As a refresher and warm-up, I'd like to ask for your takeaways from our discussi
 
 - Mildenberger (2019) on Hardin
 
+- Pittman (2024) on redlining
+
 - Diem (2024) on NIMBY
 
-- Pittman (2024) on redlining
 
 ::: notes
 
-Today I want us to explore some of the mechanisms that may explain how we reached these unequal environmental outcomes
+Today I want us to shift from establishing that we have a problem towards identifying:
+
+1. The causes of the problem, and 
+
+2. Concrete ideas for addressing it
 
 <br>
 
-Some of these are absolutely issues of racism, but each story tends to be somewhat more complicated than that
+We clearly have a problem, but solving that problem with policy is nearly impossible if we don't figure out the mechanisms creating it.
 
 <br>
 
-**SLIDE**: Let's start with the Kashwan (2020) argument
+Let's start with the Kashwan (2020) argument
+
+- **What is the conclusion of Kashwan's argument?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+**Therefore, "American environmentalism’s racist roots have negatively impacted global conservation practices."**
+
+![](Images/08_2-kashwan.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The big idea here is twofold:
+
+1. The roots of American environmentalism were explicitly racist, and
+
+2. Failing to acknowledge and address this is harming the entire world!
+
+<br>
+
+*Split class into small groups (3 per)*
+
+- BEFORE we get into your Canvas submissions I want to evaluate this argument itself
+
+- GROUPS, get ready to report back, what are the key premises and evidence Kashwan uses to make this argument?
+
+- Go!
+
+<br>
+
+**SLIDE**: Groups report back
 
 :::
 
 
 
 
+## {background-image="Images/background-forest_v3.png"}
+
+::: {.r-fit-text}
+**Does American environmentalism have racist roots?**
+:::
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/08_2-sierra-club-logo.jpg)
+
+![](Images/08_2-Audubon_logo_v2.png){width="400"}
+:::
+
+::: {.column width="50%"}
+![](Images/08_2-teddy_roosevelt_elephant_v2.png){width="400"}
+
+![](Images/08_2-leopold-lede_v2.png)
+:::
+::::
+
+::: notes
+
+*Groups report back and highlight what stood out to them*
+
+<br>
+
+- Sierra Club grappling with racist views of founder John Muir
+
+- Audubon Society grappling with racist views of founder John James Audubon
+
+- President Teddy Roosevelt launched and bolstered America's efforts to develop and protect national parks BUT his actions perpetuate a racist myth that trophy hunting protects wildlife
+
+    - Trophy hunting "reinforce exploitative models of conservation by removing local communities from lands set aside as hunting reserves."
+
+- Aldo Leopold, considered by many to be the father of wildlife ecology and modern conservation, argued that "overpopulation is the root cause of environmental problems" primarily overpopulation by "less-developed nations with large populations"
+
+<br>
+
+According to Kashwan these aren't just outdated views held by long dead people
+
+- **How have these "racist roots" actually "impacted global conservation practices"?**
+
+<br>
+
+"Most notably, they are embedded in longstanding prejudices against local communities and a focus on protecting pristine wildernesses. This dominant narrative pays little thought to indigenous and other poor people who rely on these lands – even when they are its most effective stewards"
+
+- BUT, it's the lifestyles of the rich with a disproportionate negative impact on the environment!
+
+- Too much modern conservation focuses on building fortresses (national parks) to the exclusion of native/indigenous peoples
+
+<br>
+
+**And, according to Kashwan, what would a "socially just nature conservation" look like?**
+
+- Condition 1: Indigenous and rural communities have concrete stakes in protecting those resources, and 
+
+- Condition 2: They can participate in policy decisions.
+
+<br>
+
+Ok, let's dig into your Canvas arguments about what we should do next
+
+- **Should the Sierra Club diasavow John Muir? Should the Audubon Society change its name?**
+
+- **Bigger than that, should we stop teaching these figures and their ideas? Why or why not?**
+
+<br>
+
+**SLIDE**: Ok, let's shift from fights about old ideas and into what, to me, is far more dangerous
+
+:::
 
 
 
-The legacy of racism in the American environmental movement
+## Hardin, G. (1968). The Tragedy of the Commons. *Science*. 162(3859), 1243–1248. {background-image="Images/background-forest_v3.png" .center}
+
+::: notes
+
+**Has anybody read "The Tragedy of the Commons" or heard of Garrett Hardin before this Mildenberger piece savaged him?**
+
+<br>
+
+**SLIDE**: The heart of the article focuses on a fairly simple and widely explained metaphor
+
+:::
 
 
 
+## {background-image="Images/08_2-pasture.jpg" .center}
+
+::: notes
+
+The tragedy of the commons is typically explained using a story about a pasture.
+
+- Imagine some grassy area outside a village
+
+- This pasture is not owned by anyone, it is a "commons"
+
+<br>
+
+For the sake of the metaphor, all of you are ranchers who own herds of cattle.
+
+- On this commons you all choose to graze your cattle.
+
+<br>
+
+**Why would you choose to graze your cattle on the commons pasture and not your own land?**
+
+- (maximize benefits by not having to pay to feed them!)
+
+<br>
+
+**So, when you graze your cattle on the commons, who is paying these costs?**
+
+- (The environment, and)
+
+- (All of us, e.g. the public)
+
+<br>
+
+**SLIDE**: Let's now talk about the incentives facing each of you
+
+:::
+
+
+
+## Cost-Benefit Analysis: Add a Cow {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+![](Images/08_2-Cow.webp)
+
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+<br>
+
+**To Your Farm**
+
++ Benefits = ?
+
++ Costs = ?
+:::
+::::
+
+::: notes
+Let's put this in the language of simple cost-benefit analysis.
+
+- We will expect each rancher to add a cow to their herd when the benefits outweigh the costs.
+
+<br>
+
+**What are the benefits of adding a cow to your herd?**
+
+- (Milk or meat, reproduction, friendship...)
+
+<br>
+
+**What are the costs?**
+
+- (Feed, care, housing)
+:::
+
+
+## Cost-Benefit Analysis: Add a Cow {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/08_2-Cow.webp)
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+<br>
+
+**To Your Farm**
+
++ Benefits = +1
+
++ Costs = -1
+:::
+::::
+
+::: notes
+To keep things simple, let's say each of you currently face the following decision.
+
+<br>
+
+The hypothetical costs and benefits of adding a cow to your herd is almost perfectly off-setting. 
+
+- Add a cow to gain 1 but you also have to pay 1.
+
+<br>
+
+**In this instance, should you add a cow to your herd?**
+
+- (Probably not in this case)
+
+- (Maybe if as your scale increases the costs of adding each additional cow falls?)
+
+<br>
+
+Now, what happens to the CBA when we add a cow to the commons?
+
+- **How does using the commons to feed your new cow alter your CBA?**
+
+- (**SLIDE**)
+:::
+
+
+
+## Cost-Benefit Analysis: Add a Cow {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="50%"}
+![](Images/08_2-Cow.webp)
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+<br>
+
+**To the Commons**
+
++ Benefits = +1
+
++ Costs = -1/x
+:::
+::::
+
+::: notes
+**First, why doesn't using the commons change the benefits?**
+
+- (Still your cow!)
+
+<br>
+
+The key difference is in the costs
+
+- X is the population size
+
+- This says that the costs of feeding your cow is shared amongst everyone
+
+- The commons loses 1, but that cost is divided amongst the owners of the commons e.g. everybody.
+
+<br>
+
+**Does that make sense?**
+
+<br>
+
+Important distinction here: Society pays MOST of the costs of feeding your cattle.
+
+- That means we each pay part of the cost.
+
+<br>
+
+**So, if you are the only person using the commons, should you add a cow?**
+
+- (Takes us back to the previous +1 + -1 = 0.)
+
+<br>
+
+**What happens to the costs you face as the population around you gets bigger?**
+
+- (Your share of the cost shrinks to almost nothing)
+
+- The more of us there are, the smaller your individual share.
+
+<br>
+
+### So, what is the bottom line here? When should you add a cow to your herd?
+
+- (1. When there is a commons to feed it, and)
+
+- (2. When there are a lot of other people also using it.)
+
+<br>
+
+### And what does all of this mean for the survival of the commons?
+
+- (**SLIDE**)
+:::
+
+
+
+## {background-image="Images/08_2-Destroyed_Field.jpg" .center}
+
+::: notes
+It's toast in the long-run.
+
+<br>
+
+And why is that?
+
+- **SLIDE**
+:::
+
+
+
+## Why is the commons doomed? {background-image="Images/08_2-Destroyed_Field_v2.png" .center}
+
+<br>
+
+1) The benefits are real and immediate
+
+<br>
+
+2) The costs are small and shared
+
+<br>
+
+3) Even if you do the "right" thing, someone else will add another cow and the commons will collapse
+
+::: notes
+
+*Read criteria*
+
+<br>
+
+According to Hardin this is the tragedy
+
+- By tragedy he doesn't mean "sad outcome" he means dramatic tragedy which refers to a situation that CANOOT be avoided
+
+- Hardin is arguing that this environmental outcome is INEVITABLE
+
+- Even if YOU choose not to exploit the commons, one of your neighbors will do it so you may as well join in!
+
+<br>
+
+**Questions on the basic story here?**
+
+<br>
+
+**SLIDE**: It's Mildenberger time!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/08_2-tragedy_of_the_tragedy.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+GROUPS, get ready to report back, what are the key premises in Mildenberger's argument?
+
+- Go!
+
+<br>
+
+- (**SLIDE**: My version)
+
+<br>
+
+*Mildenberger 2019 Notes*
+
+- Garrett Hardin gives us Tragedy of the Commons metaphor
+- Hardin used ecological causes to advance some super problematic policies (racist, eugenicist, nativist and Islamophobic who promoted lifeboat ethics)
+- BUT, Hardin got the history wrong (See Susan Cox)
+- AND, Hardin got the science wrong (See Ostrom)
+- AND, Hardin got the morality wrong (Environmental sustainability cannot exist without environmental justice.)
+- Climate change is NOT a tragedy of the commons because small changes 30 years ago could have unlocked a better future
+- Our future was "stolen from us" "by powerful, carbon-polluting interests who blocked
+policy reforms at every turn to preserve their short-term profits."
+- Pressuring individuals to change their behavior is counterproductive because "interest groups have structured the choices available to us today."
+- "The climate movement needs more people on this lifeboat, not fewer. We must make room for every human if we are going to build the political power necessary to face down the looming oil tankers and coal barges that send heavy waves in our direction."
+- Conclusion: "To create a just and vibrant climate future, we need to ... cast Hardin and his flawed metaphor overboard."
+
+:::
+
+
+
+## Mildenberger (2019) {background-image="Images/background-forest_v3.png" .center}
+
+1. Hardin's argument is massively influential
+
+2. Hardin gets the history wrong
+
+3. Hardin gets the science wrong
+
+4. Hardin gets the morality wrong
+
+5. Hardin's argument makes addressing climate change harder
+
+Therefore, "[to] create a just and vibrant climate future, we need to ... cast Hardin and his flawed metaphor overboard."
+
+::: notes
+
+Let's quickly step through these premises.
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**1) Hardin's argument is massively influential**
+:::
+
+<br>
+
+![](Images/08_2-Hardin_Google_Scholar.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+*Slide image Source: Google Scholar (2022-04-03)*
+
+<br>
+
+Hardin's argument carries huge "weight"
+
+- There's no getting around this key element
+
+- The Tragedy of the Commons is probably the most cited piece of environmental policy research in modern history.
+
+- It was at 52k last week
+
+<br>
+
+Unfortunately, when professors and other researchers in the social sciences seek out work on environmental problems they inevitably start with this.
+
+<br>
+
+**SLIDE**: Ok next premise, Hardin gets ALL of the history wrong
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**2) Hardin gets the history wrong**
+:::
+
+![](Images/08_2-Pasture_Farming_History.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+As Mildenberger notes, in 1985 Dr. Susan Cox published an analysis of the law related to the commons systems in the medieval and post-medieval period in England
+
+- Importantly, she found that there was no evidence of Hardin type tragedies in those places
+
+- The bottom line was that the English commons system "succeeded admirably in its time."
+
+<br>
+
+How did the medieval and post-medieval English avoid the tragedy?
+
+FIRST, the English "commons" severely restricted access
+
+- "...the English common was not available to the general public but rather only to certain individuals who inherited or were granted the right to use it, and use of the common even by these people was not unregulated."
+
+<br>
+
+SECOND, the English "commons" were heavily regulated
+
+- "The types and in some cases the numbers of animals each tenant could pasture were limited, based at least partly on a recognition of the limited carrying capacity of the land."
+
+<br>
+
+THIRD, the end of the "commons" was politics, not dramatic tragedy
+
+- The decline of the commons system" came due to "widespread abuse of the rules governing the commons, land “reforms” chiefly designed to increase the holdings of a few landowners, improved agricultural techniques, and the effects of the industrial revolution."
+
+<br>
+
+The commons was important to survival and so, of course, the society learned to manage them!
+
+- Humans are not suicidal lemmings
+
+<br>
+
+*Omit Chaco Anasazi example for time, those notes are in 13-2 from SP24 P323*
+
+<br>
+
+*Notes*
+
++ *Image: British Library - Milking sheep in the pen and maids carrying the milk, manuscript illumination, anonymous in the Luttrell Psalter, c. 1340*
++ Cox, Susan. (1985). No Tragedy on the Commons. *Environmental Ethics*. Vol 7, Issue 1, p49-61.
+:::
+
+
+
+
+## {background-image="Images/08_2-Destroyed_Field_v2.png"}
+
+::: {.r-fit-text}
+**3) Hardin gets the science wrong**
+:::
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+**Hardin's "Science":**
+
+**Human reproduction is a "Tragedy of the Commons"**
+:::
+
+::: notes
+
+The real purpose of Hardin's article is to convince the developed world that human suffering and environmental damage are the result of letting poor countries have too many babies.
+
+<br>
+
+He assumes:
+
+1. The earth is an unregulated commons
+
+2. The costs of having kids are paid almost entirely by society and not their parents (e.g. building and running schools and day cares, etc.)
+    
+3. The benefits of having kids benefits only their parents (e.g. happiness, care in old age, help on the farm, etc)
+
+<br>
+
+**Why is this a batcrap insane model of human reproduction?**
+
+<br>
+
+1. Model assumes ZERO net benefit from adding kids to your community!
+
+    - I'm not sure how your economy will function with no more kids...
+
+2. Assumes costs of adding children exceeds any and all benefits created
+
+3. Assumes a society has no way to address these problems (e.g. design institutions that can help us manage the problems we face)
+
+4. Assumes parents choose to have kids ONLY because other people will have kids
+
+<br>
+
+**So, Hardin's model includes borderline insane assumptions about parents, so why make them?**
+
+- (**SLIDE**: Because you're trying to justify a racism!)
+:::
+
+
+
+
+## Lifeboat Ethics {background-image="Images/08_2-lifeboat_v2.png"}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+**4) Hardin gets the morality wrong**
+:::
+
+::: notes
+
+Hardin's real argument is that we must embrace the ethics of a lifeboat
+
+- In his metaphor each country in the world is a lifeboat floating in the sea, and
+
+- Poor countries are lifeboats overflowing with people
+
+<br>
+
+Sometimes bad things happen to countries (wars, natural disasters, famines, etc) and people fall out of their lifeboats
+
+- Rich lifeboats prepare for bad times and can preserve and protect their people (get them back into the lifeboat), but poor countries do not prepare
+
+- So, and I quote, "the poor fall out of their lifeboats and swim for a while in the water outside, hoping to be admitted to a rich lifeboat or in some other way to benefit from the 'goodies' on our rich lifeboats"
+
+<br>
+
+Is Hardin ok with us helping the poor people before they drown?
+
+- Good lord, no!
+
+- If the rich lifeboat decides to help the drowning people bad things will happen (e.g. the rich lifeboat can get swamped and everyone dies)
+
+<br>
+
+**SLIDE**: Hardin's policy prescriptions
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**4) Hardin gets the morality wrong**
+:::
+
+<br>
+
+Hardin's policy argument is for the "rich" world to:
+
+1. Control the right to reproduction (don't fill your lifeboat)
+
+2. Seal our borders against immigration (protect your lifeboat)
+
+3. Accept human suffering in the poor world as a signal to the poor to push for better governments
+
+::: notes
+
+In policy terms, Hardin's "Tragedy" is an argument that rich world MUST do three things
+
+<br>
+
+**Does this sound like anything we hear in our politics today?**
+
+- *Encourage this discussion*
+
+<br>
+
+**SLIDE**: Last premise
+
+:::
+
+
+
+## {background-image="Images/08_2-Climate_Cartoon_v3.png"}
+
+::: {.r-fit-text}
+**5) Hardin makes addressing climate change harder**
+:::
+
+::: notes
+**And finally, how does Mildenberger argue that Hardin's model gets climate change wrong?**
+
+<br>
+
+Addressing climate change requires a different focus of action (contra-Hardin) 
+
+- Climate change is NOT a tragedy of the commons because small changes 30 years ago could have unlocked a better future
+
+- Our future was "stolen from us" "by powerful, carbon-polluting interests who blocked policy reforms at every turn to preserve their short-term profits."
+
+- Pressuring individuals to change their behavior is counterproductive because "interest groups have structured the choices available to us today."
+
+- "The climate movement needs more people on this lifeboat, not fewer. We must make room for every human if we are going to build the political power necessary to face down the looming oil tankers and coal barges that send heavy waves in our direction."
+
+:::
+
+
+
+## Mildenberger (2019) {background-image="Images/background-forest_v3.png" .center}
+
+1. Hardin's argument is massively influential
+
+2. Hardin gets the history wrong
+
+3. Hardin gets the science wrong
+
+4. Hardin gets the morality wrong
+
+5. Hardin's argument makes addressing climate change harder
+
+Therefore, "[to] create a just and vibrant climate future, we need to ... cast Hardin and his flawed metaphor overboard."
+
+::: notes
+
+Ok, so, Hardin is wrong in every way you can be wrong AND YET his ideas will not go away!
+
+- **Because of the serious problems highlighted by Mildenberger, should we stop teaching Hardin's "Tragedy of the Commons" in classes that focus on environmental problems and policy-making?**
+
+<br>
+
+*REPORT back and DISCUSS*
+
+<br>
+
+**What are the strongest parts of Mildenberger's argument?**
+
+<br>
+
+**What are the weakest parts?**
+
+<br>
+
+**Do you buy that ToC thinking made addressing climate change harder for us today? Why or why not?**
+
+<br>
+
+And the hits keep coming!
+
+- **SLIDE**: Pittman on redlining
+:::
+
+
+
+
+## Pittman (2024) {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/08_2-Pittman2024.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+GROUPS, review the Pittman argument and get ready to report back
+
+- **What is redlining and how has it contributed to the environmental outcomes we see in the US today?**
+
+- Go!
+
+<br>
+
+*DISCUSS*
+
+<br>
+
+**If these redlining arguments are correct, what do we do about them today?**
+
+- **What is an appropriate policy response from society to address these historical wrongs?**
+
+<br>
+
+**SLIDE**: Bottom line
+
+:::
+
+
+
+## {background-image="Images/08_2-climate_change_is_racism.webp"}
+
+::: notes
+
+Ok, bottom line questions:
+
+- **How convinced are you that we have an environmental racism problem?**
+
+- **Are you convinced this is correlation or causation? Why?**
+
+<br>
+
+**Is it possible to grapple with environmental problems in America without considering the role played by race and discrimination? Why or why not?**
+
+<br>
+
+**Given all of this, and your conclusions to the earlier arguments, what should we as a society do about this?**
+
+<br>
+
+**SLIDE**: For next class
+
+:::
 
 
 
@@ -145,11 +948,29 @@ The legacy of racism in the American environmental movement
 
 <br>
 
+**Examples of Environmental Inequality in SGF**
+
+- Review the data on Canvas, and 
+
+- Find us a local example of the need for environmental justice
+
+
+
 
 ::: notes
 
+**Questions on the assignment?**
+
 <br>
 
-**Questions on the assignment?**
+Canvas Discussion: Examples of Environmental Inequality in SGF
+
+1. Review the data (how is it constructed and what does it show you?) provided on Canvas from the EPA, American Forests, the City of Springfield and the RAND Corporation
+
+2. Find us an example of one (or more) of the dynamics we explored in class last week happening in our local community (e.g. news stories, op-eds, policy briefs, etc.). This could be evidence of disproportionate outcomes, the placement of new LULUs, NIMBY effects in community debates, etc. No overlap in news stories (first-come, first-served).
+
+    1. APA citation to the news story
+    2. Explain the case you have submitted and how it connects to our material
+
 
 :::

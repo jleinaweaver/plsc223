@@ -113,7 +113,9 @@ During our time together I've been trying to show you how these are more than ju
 
 These narratives underpin the environmental policy debates we are having in our community today
 
-- **What kinds of arguments do you hear in the world around us that mirror the Edenic narrative?**
+<br>
+
+**Refresh my memory, per the Edenic perspective, what is the value of the wilderness? What is its purpose?**
 
 - (**SLIDE**)
 
@@ -124,55 +126,40 @@ These narratives underpin the environmental policy debates we are having in our 
 ## The Historical Perspectives Today {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.incremental}
-- Wilderness is a resource meant to improve our lives through its productive use (*Edenic*)
+- Wilderness is a resource we use to improve our lives and relieve human suffering (*Edenic Narrative*)
 
-- Wilderness is a holy place meant to be appreciated and kept wild (*Sublime*)
+- Wilderness is a special place that connects us to the grandeur of the natural world (*Sublime Narrative*)
 
-- Wilderness is a valuable resource that must be managed so we don't run out (*Utility*)
+- Wilderness is a resource to improve lives but must be managed so we don't run out (*Utility*)
 
 - Wilderness is NOT a resource, it is our community and we depend upon it to live (*Holistic*)
-
 :::
 
 ::: notes
 
-**What kinds of arguments do you hear in the world around us that mirror the sublime narrative?**
+**Per the Sublime perspective, what is the value of the wilderness? What is its purpose?**
 
-- (**REVEAL**: Wilderness is a holy place meant to be appreciated and kept wild)
-
-<br>
-
-**And the utility narrative?**
-
-- (**REVEAL**: Wilderness is a valuable resource that must be managed so we don't run out)
+- (**REVEAL**)
 
 <br>
 
-**And the holistic narrative?**
+**Per the Utility perspective, what is the value of the wilderness? What is its purpose?**
 
-- (**REVEAL**: Wilderness is NOT a resource, it is our community and we depend upon it to live)
-
-<br>
-
-The key here as you well know is that NONE of these are right or wrong
-
-- They are value judgements and ALL of them can be made in ways that I suspect each of you would be convinced by
-
-- Edenic also means using wilderness resources to relieve human suffering
-
-- Sublime also means finding times to appreciate the grandeur of the natural world
-
-- Utility also means trying to find balance
-
-- Holistic also means striving to better understand our place in the biosphere
+- (**REVEAL**)
 
 <br>
 
-My argument to you has been that you will be a more effective problem-solver in our community IF you better understand:
+**Per the Utility perspective, what is the value of the wilderness? What is its purpose?**
+
+- (**REVEAL**)
+
+<br>
+
+My argument to you this semester has been that you will be a more effective problem-solver in our community IF you better understand:
 
 1. Our current debates have long historical roots,
 
-2. Our relationship to the environment has been evolving over time, 
+2. Our relationship to the environment has been evolving over time, and
 
 3. Solving real-world problems means understanding how your stakeholders view the world
 
@@ -209,7 +196,13 @@ What I'd like each of you to do is present us your pre-class argument
 
 *Seminar Style: Circle up the class, put away computers and let's all talk!*
 
-- *Go around the circle, look for chances to discuss things*
+- *Go around the circle, look for chances to discuss things such as:*
+
+- **Do these premises all point clearly to this single thesis? e.g. some of these premises look like they belong to the other perspectives, no?**
+
+- **Can you choose the holistic perspective but omit Naess and Deep Ecology for its scarier conclusions? In other words, Leopold's "Land Ethic" sounds less scary, but doesn't it lead to the same places?**
+
+- **Can you blend together assumptions from across the perspectives into a single view of wilderness? Why or why not?**
 
 <br>
 
@@ -265,25 +258,23 @@ BIG NOTE HERE: This is a different formulation than the Canvas assignment for to
 
 - For the paper I want the test to be your conception of the "resources and needs of our community"
 
-- Could these be the same thing? Sure, but it's not a certainty!
+<br>
+
+As an entry to the assignment and to clarify the prompt, I want you each to do some brainstorming for me
+
+- **Who or what do you think of when I ask you about the "community" you live in? Your family? Your friends? Your church? The city of SGF? The ecosystem you live in?**
+
+- No wrong answers here, everyone will almost certainly define the community in this paper differently
+
+- Write down the community you are thinking of and which perspective you believe best provides for their needs and well being.
+
+- Go!
 
 <br>
 
-**Questions on the assignment?**
+**Has everybody defined their community and chosen their perspective?**
 
-<br>
-
-Let's get to work on this.
-
-- **Everybody take five minutes to reflect on our work for today and to select the perspective they want to choose for this paper**
-
-- Sit with what you wrote before class and what you heard from the class and see where that takes you.
-
-<br>
-
-**Ok, does everybody have their perspective chosen?**
-
-- **Now, 10 minutes to brainstorm a list of reasons why you chose this perspective**
+- **Now, brainstorm a list of reasons why you chose this perspective**
 
 - Don't edit yourself, this is brainstorming! Just write!
 
