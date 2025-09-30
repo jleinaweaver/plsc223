@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.1 Environmental Justice**
@@ -31,13 +33,106 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Check Canvas submissions
+
+2. Data sources for class today
+
+    - EPA's TRI: [What is the Toxics Release Inventory?](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory) and the [mapping tool](https://www.epa.gov/toxics-release-inventory-tri-program)
+    
+    - American Forests' [Tree Equity Score](https://www.treeequityscore.org/) and [Map Tool](https://www.treeequityscore.org/map)
+
+    - City of Springfield Office of Economic Vitality: [City approach to brownfields](https://www.springfieldmo.gov/139/Brownfields) and [mapping tool](https://cosmo.maps.arcgis.com/apps/webappviewer/index.html?id=120fbfbdd81b4198a87a79b51cc6fe2d)
+    
+    - RAND on [redlining](https://www.rand.org/pubs/articles/2022/environmental-racism-how-historic-redlining-continues.html) and [mapping tool](https://www.rand.org/pubs/tools/TLA1456-1/tool.html)
 
 <br>
 
-**SLIDE**: ...
+In Section 3 of our class we have begun exploring some of the current challenges in American environmentalism
+
+- **SLIDE**: Last week we started with the size and scope of the environmental justice problem
 
 :::
+
+
+
+## {background-image="Images/09_1-residential_pollution_photo.jpg" .center}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+[**The Environmental Justice Problem**]{style="color:white;"}
+:::
+
+::: notes
+
+To start, define for me the problem itself
+
+- **Big picture, what does it mean to say that we have an environmental justice problem?**
+
+- (Inequality in the distribution of environmental harms in our society)
+
+- Evidence that racial/ethnic minorities, less educated and poorer groups all experience more pollution than others
+
+<br>
+
+**And what are some of the mechanisms we explored to explain WHY we see this problem in practice?**
+
+- (Much of American environmentalism has racist historical roots)
+
+- (Redlining was explicitly racist and pushed some groups to the periphery or to riskier areas)
+
+- (Wealthy people with greater influence and resources can protect their own areas at the expense of others, e.g. NIMBYism)
+
+- (Much environmental problem-solving shaped by the bad science of Garrett Hardin which promotes exploitation over management)
+
+<br>
+
+**SLIDE**: Our work today is to turn our analytical focus to our backyard
+
+:::
+
+
+
+## {background-image="Images/09_1-SGF_Hazardous_Waste.webp"}
+
+::: {.r-fit-text}
+[**The Environmental Justice Problem in SGF**]{style="color:red;"}
+:::
+
+::: notes
+
+Big question: How Unequal are the Environmental Harms in Springfield?
+
+<br>
+
+I assigned you a series of data links and you each found us a piece of evidence that can help us explore this question
+
+<br>
+
+**SLIDE**: 
+
+
+:::
+
+
+
+
+
+
 
 
 

@@ -95,9 +95,68 @@ Make an argument that **ONE** of the historical perspectives on wilderness is th
 
 <br>
 
-**SLIDE**: Today, the personalities underpinning the perspectives
+**SLIDE**: One more piece of admin
 
 :::
+
+
+
+
+## For Tuesday (Oct 7th) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**The Environmental Justice Problem**
+:::
+
+::: {.fragment}
+- Read Bullard, Mohai, Saha and Wright (2007) on toxic waste exposure in the US
+
+- Find us evidence: What kinds of current national problems and how big are they?
+:::
+
+::: notes
+
+Next week we begin the next section of the class focused on current problems in American environmentalism
+
+- Specifically, we'll begin with issues related to environmental justice.
+
+<br>
+
+**REVEAL**: *Read assignment*
+
+<br>
+
+Important: Focus on evidence about the problem on the national level
+
+- For THIS we want big picture evidence (e.g. national trends, scientific research, etc)
+
+- We'll focus on our backyard, in SGF and SW MO, in week 9
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+**SLIDE**: Ok, today I want to add some material on the personalities underpinning the historical perspectives we've been exploring
+
+<br>
+
+Canvas Assignment: The Environmental Justice Problem
+
+Review Chapters 3 and 4 of the Bullard, Mohai, Saha and Wright (2007) report then go find us a news report or piece of published research on the scope of the environmental justice problem as it exists in America today. Specifically, I want your evidence to help us answer two broad questions: What are the primary environmental justice problems we currently face and how substantial are they?
+
+Submit: 1) an APA citation to your evidence, 2) an explanation of how this helps us identify the current environmental justice problems, and 3) an explanation of how this helps us define the scope of the problems
+
+Notes:
+
+- Our interest is in examining the distribution of environmental harms, not just toxic waste, across the various groupings in our society (e.g. race, ethnicity, income, urban vs rural, education, etc)
+- NO OVERLAPPING evidence. First-come, first-served.
+
+:::
+
 
 
 
@@ -122,91 +181,237 @@ It's a 12 hour documentary split across six episodes
 
 Today I want to show you clips from the first two episodes that cover the early years of our national parks development
 
-- Let's add some historical color to our thinking about the battle between conservationists and preservationists
+- Let's add some historical color to our thinking about the battle between the historical perspectives on wilderness
+
+- No screens, let's all watch this together and discuss!
 
 <br>
 
-1. Yosemite
-
-    - **Episode 1, 13:46 - 29:00 (15 mins)**
-    
-    - Yosemite found, presence of god, here comes the people, Lincoln preserves Yosemite to protect this Garden of Eden!
-
-2. Yellowstone
-
-    - **Episode 1, 1:08:28 - 1:30:39 (22 mins)**
-    
-    - "Discovery" and creation of Yellowstone (including expulsion of the natives) and the ensuing fight over who would manage/control the first national park in the world. These are the same debates we are having today.
-
-3. Muir (preservation)
-
-    - **Episode 2, 28:19 - 32:47 (5 mins)**
-    
-    - The wilds are being overrun, Muir forms Sierra Club, wilderness redeems man NOT vice versa, 
-
-4. Pinchot (conservation)
-
-    - **Episode 2, 46:35 - 52:58 (6 mins)**
-
-    - Gifford Pinchot introduced and contrasted with Muir. Pinchot: The greatest good for the greatest number. Two sides of the same coin. Government sides with Pinchot.
-
-5. Battle over the flooding the Hetch Hetchy Valley
-
-    - **Episode 2, 1:49:49 - 2:07:15 (18 mins)**
-
-<br>
-
-**SLIDE**: Assignment for AFTER the field trip
+**SLIDE**: Let's start with the "discovery" of Yosemite
 
 :::
 
 
 
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
+## {background-image="Images/07_1-yosemite-national-park-california.avif" .center}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
 
 <br>
 
 ::: {.r-fit-text}
-**The Environmental Justice Problem: Nationally**
+[Yosemite National Park]{style="color:white;"}
 :::
-
-- Read Bullard, Mohai, Saha and Wright (2007) on toxic waste exposure in the US
-
-- Find us evidence to answer two questions:
-
-    1. What are the primary environmental justice problems we currently face?
-    
-    2. How substantial are these problems?
 
 ::: notes
 
-Important: Focus on evidence about the problem on the national level
+And by discovery I mean by white people
 
-- We'll focus on our backyard, SGF, the week after
-
-- For THIS we want big picture evidence
+- **Clip 1: Episode 1, 13:46 - 29:00 (15 mins)**
 
 <br>
 
-**Questions on the assignment?**
+**Ok, talk to me about the early years of Yosemite. What stood out to you in clip?**
+
+- **Is Burns adopting one of the perspectives more than the others OR is he simply reflecting the history of the time as he has found it?**
 
 <br>
 
-Canvas Assignment: The Environmental Justice Problem
+- Soldier quote about the beauty of what they've found contrasted with the battalion burning indian villages
 
-Review Chapters 3 and 4 of the Bullard, Mohai, Saha and Wright (2007) report then go find us a news report or piece of published research on the scope of the environmental justice problem as it exists in America today. Specifically, I want your evidence to help us answer two broad questions: What are the primary environmental justice problems we currently face and how substantial are they?
+- The irony of the creation and naming of Yosemite which actually means "the people who should be feared" because they are killers
 
-Submit: 1) an APA citation to your evidence, 2) an explanation of how this helps us identify the current environmental justice problems, and 3) an explanation of how this helps us define the scope of the problems
+- Visitors must struggle to access it and what they see blows their minds
 
-Notes:
+- Presence of / "relationship" with God. "God of the mountaintop"
 
-- Our interest is in examining the distribution of environmental harms, not just toxic waste, across the various groupings in our society (e.g. race, ethnicity, income, urban vs rural, education, etc)
-- NO OVERLAPPING evidence. First-come, first-served.
+- BUT, here come the people! Manifest Destiny, baby!
+
+- We need a "nation's park" to preserve it. We've already ruined Niaga Falls.
+
+- Lincoln preserves Yosemite to protect this Garden of Eden!
+
+<br>
+
+**SLIDE**: Let's jump to Yellowstone!
 
 :::
 
 
 
+## {background-image="Images/07_1-Yellowstone.jpg" .center}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+[Yellowstone National Park]{style="color:white;"}
+:::
+
+::: notes
+
+**Clip 2: Episode 1, 1:08:28 - 1:30:39 (22 mins)**
+
+<br>
+
+**Ok, talk to me about the early years of Yellowstone What stood out to you in clip?**
+
+- **Is Burns adopting one of the perspectives more than the others OR is he simply reflecting the history of the time as he has found it?**
+
+<br>
+
+- Opens with native park ranger describing the insanity of discovering what had never been lost to his people
+
+-  New expedition aims to find anything of value!
+
+- "Discovery" and creation of Yellowstone (including expulsion of the natives) and the ensuing fight over who would manage/control the first national park in the world. These are the same debates we are having today.
+
+<br>
+
+**SLIDE**: Let's meet John Muir
+
+:::
 
 
 
+## John Muir and the Sierra Club {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/07_1-John_Muir.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Clip 3: Episode 2, 27:48 - 32:47 (5 mins)**
+
+<br>
+
+**Ok, talk to me about this introduction to John Muir and the Sierra Club. What stood out to you in clip?**
+
+- **Does this suggest the sublime perspective arose directly out of the perceived threat of use?** 
+
+<br>
+    
+- The wilds are being overrun
+
+- God has "protected" these trees from all natural threats but "he cannot save them from fools, only Uncle Sam can do that" 
+
+- Muir forms Sierra Club to "make the mountains glad"
+
+- The "frontier line" redeeming wilderness for man vs wilderness redeems man
+
+<br>
+
+**SLIDE**: Enter Gifford Pinchot
+
+:::
+
+
+
+## Gifford Pinchot {background-image="Images/background-forest_v3.png" .center}
+
+**Forester and Conservationist**
+
+![](Images/07_1-Gifford_Pinchot.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Clip 4: Episode 2, 46:35 - 52:58 (6 mins)**
+
+<br>
+
+**Ok, talk to me about this introduction to Gifford Pinchot. What stood out to you in clip?**
+
+- **Is Pinchot secretly a romantic (sublime perspective), an Edenist or both?**
+
+<br>
+
+- Gifford Pinchot introduced and contrasted with Muir
+
+- Pinchot: The greatest good for the greatest number. Two sides of the same coin.
+
+- Government sides with Pinchot.
+
+<br>
+
+**SLIDE**: Last clip focuses on the battle over the flooding the Hetch Hetchy Valley
+
+:::
+
+
+
+## {background-image="Images/07_1-hetch_hetchy_flooding.jpg"}
+
+::: {.r-fit-text}
+[Flooding the Hetch Hetchy Valley]{style="color:black;"}
+:::
+
+::: notes
+
+**Clip 5: Episode 2, 1:49:56 - 2:07:15 (18 mins)**
+
+<br>
+
+IF TIME REMAINS: **Takeaways from this final story?**
+
+- "Nothing dollerable is safe": John Muir
+
+- The need for water in San Francisco vs a national park
+
+- 
+
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The Watershed Committee of the Ozarks**
+:::
+
+:::: {.columns}
+::: {.column width="30%"}
+![](Images/06_2-Watershed Center.jpg)
+
+![](Images/06_1-Watershed_Center.jpg)
+:::
+
+::: {.column width="70%"}
+![](Images/06_1-Watershed_Directions.png)
+:::
+::::
+
+::: notes
+
+See you at the Watershed on Thursday!
+
+:::
