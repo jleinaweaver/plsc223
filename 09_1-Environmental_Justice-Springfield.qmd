@@ -35,7 +35,13 @@ Prep for Class
 
 1. Check Canvas submissions
 
-2. Data sources for class today
+2. **As the class comes in have them circle up, seminary style!**
+
+3. Classroom set-up: Use classroom PC to run slides AND data websites; get class notes from your laptop
+
+4. Data sources for class today
+
+    - Census Data on Race/Ethnicity/Income from [Justice Map](https://www.justicemap.org/index.php)
 
     - EPA's TRI: [What is the Toxics Release Inventory?](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory) and the [mapping tool](https://www.epa.gov/toxics-release-inventory-tri-program)
     
@@ -46,6 +52,13 @@ Prep for Class
     - RAND on [redlining](https://www.rand.org/pubs/articles/2022/environmental-racism-how-historic-redlining-continues.html) and [mapping tool](https://www.rand.org/pubs/tools/TLA1456-1/tool.html)
 
 <br>
+
+
+
+Add field trip announcements to top of class
+
+
+
 
 In Section 3 of our class we have begun exploring some of the current challenges in American environmentalism
 
@@ -89,19 +102,29 @@ To start, define for me the problem itself
 
 <br>
 
-**And what are some of the mechanisms we explored to explain WHY we see this problem in practice?**
+Last Tuesday we reviewed data and cases on this problem at the national level
 
-- (Much of American environmentalism has racist historical roots)
+- **Refresh my memory, what specific cases did you submit that show we have an unequal distribution of environmental harms?**
 
-- (Redlining was explicitly racist and pushed some groups to the periphery or to riskier areas)
-
-- (Wealthy people with greater influence and resources can protect their own areas at the expense of others, e.g. NIMBYism)
-
-- (Much environmental problem-solving shaped by the bad science of Garrett Hardin which promotes exploitation over management)
+- *Encourage volunteers!*
 
 <br>
 
-**SLIDE**: Our work today is to turn our analytical focus to our backyard
+Then Thursday we explored some of the historical and social scientific literatures that aim to explain why we see these outcomes
+
+- **What are some of the mechanisms we examined to explain WHY we see this problem in practice?**
+
+- (Kashwan (2020): Much of American environmentalism has racist historical roots)
+
+- (Pittman (2024): Redlining was explicitly racist and pushed some groups to the periphery or to riskier areas)
+
+- (Mildenberger (2019): Much environmental problem-solving shaped by the bad science of Garrett Hardin which promotes exploitation over management)
+
+- (Diem (2024): Wealthy people with greater influence and resources can protect their own areas at the expense of others, e.g. NIMBYism)
+
+<br>
+
+**SLIDE**: Our work for today is to turn our analytical focus into our own community
 
 :::
 
@@ -115,23 +138,95 @@ To start, define for me the problem itself
 
 ::: notes
 
-Big question: How Unequal are the Environmental Harms in Springfield?
+Big picture question: How serious is the environmental justice problem in our local community?
 
 <br>
 
-I assigned you a series of data links and you each found us a piece of evidence that can help us explore this question
+As a first step into answering this question let's hear the cases you submitted to Canvas!
+
+- **What kinds of environmental justice issues are capturing media attention in our backyard?**
+
+- *Go around the room*
 
 <br>
 
-**SLIDE**: 
+Alright, let's now dig into the data sources I linked you to before class to see what we can learn about Springfield
 
+- *Split class into small groups by the people around you; make sure they have at least one computer/table to work from*
+
+<br>
+
+**SLIDE**: Let's start off by getting a sense of Springfield's demographics
 
 :::
 
 
 
+## {background-image="Images/background-forest_v3.png" .center}
+
+Field trip next week
 
 
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+Field trip next week
+
+::: notes
+
+
+<br>
+
+Ok, 
+
+**SLIDE**: Let's start off by getting a sense of Springfield's demographics
+
+:::
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Census Bureau: Race, Ethnicity and Income Demographics**
+
+- [Justice Map](https://www.justicemap.org/index.php)
+:::
+
+![](Images/09_1-Justice_Map.png){style="display: block; margin: 0 auto"}
+
+
+
+
+
+## Census Bureau Demographics {background-image="Images/background-forest_v3.png" .center}
+
+### [Justice Map](https://www.justicemap.org/index.php)
+
+![](Images/09_1-Justice_Map.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+https://www.justicemap.org/index.php
+
+<br>
+
+Groups: Review the basic demographic information on Springfield and Greene County (Race/Ethnicity/Income) and get ready to report back: 
+
+1) How is wealth distributed across SGF? 
+
+2) How is race/ethnicity distributed across SGF?
+
+<br>
+
+**Ok, what did you find?**
+
+- *Mirror what they describe on the screen*
+
+<br>
+
+**SLIDE**: EPA's TRI
+
+:::
 
 
 
@@ -139,18 +234,68 @@ I assigned you a series of data links and you each found us a piece of evidence 
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-
-TBD
-
+**The EPA's Toxics Release Inventory (TRI)**
 :::
 
+![](Images/09_1-tri_facility_map_2019.jpg){style="display: block; margin: 0 auto"}
+
 ::: notes
+
+Groups, get ready to report back
+
+- **What are the strengths and weaknesses of using the EPA's toxic release inventory for measuring environmental justice in our community?**
+
+- Think in terms of where their data comes from, how it is measured and whether it is audited for possible errors
+
+- Go!
+
+<br>
+
+Ok, groups, now focus on using this data to evaluate Springfield and our surrounding communities (or your group's home town).
+
+- **What do we learn about your community from using these maps? Are the toxic releases correlated 
+
+
+
+Do we need data on wealth, poverty or race by place BEFORE examining the pollution?
+
+
+
+
+- What is it? How is it measured? How much uncertainty?
+- Small groups: What do we learn about SGF from these maps?
+3. City of SGF's brownfields
+- What are they? How measured? How much uncertainty?
+- Small groups: What do we learn about SGF from these maps?
+4. American Forests' tree equity score
+- What is it? How measured? How much uncertainty?
+- Small groups: What do we learn about SGF from these maps?
+5. RAND redlining maps
+- What is it? 
+- How much do these redlines mirror the other data we've explored?
+6. Let's add to all of these the cases you submitted to Canvas
+- Circle up and introduce each case
+7. Given the evidence, the question becomes, what do we do about this?
+
 
 <br>
 
 **SLIDE**: ...
 
 :::
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

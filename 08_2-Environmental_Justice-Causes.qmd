@@ -911,7 +911,7 @@ GROUPS, review the Pittman argument and get ready to report back
 
 <br>
 
-**SLIDE**: Bottom line
+**SLIDE**: Summing it all up
 
 :::
 
@@ -921,19 +921,47 @@ GROUPS, review the Pittman argument and get ready to report back
 
 ::: notes
 
-Ok, bottom line questions:
+The protest sign here is a big claim
 
-- **How convinced are you that we have an environmental racism problem?**
-
-- **Are you convinced this is correlation or causation? Why?**
+- Let's discuss it as an argument
 
 <br>
 
-**Is it possible to grapple with environmental problems in America without considering the role played by race and discrimination? Why or why not?**
+**Based on what we've explored this week, what are the strengths in this argument?**
+
+- **Not asking if you agree, just to help us reflect**
+
+- (Redlining was extensively employed across the country, historical roots of American conservation were often racist, etc)
 
 <br>
 
-**Given all of this, and your conclusions to the earlier arguments, what should we as a society do about this?**
+**Based on what we've explored this week, what are the weaknesses in this argument?**
+
+- **Not asking if you disagree, just to help us reflect**
+
+- (Has this been an attack on race or income? Has this been the accidental output of a capitalist system as opposed to a set of intentional plans?)
+
+<br>
+
+**SLIDE**: Our proposition from last class
+
+:::
+
+
+
+## A Proposition for Problem-Solving {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Should ALL proposals to address an environmental problem explicitly account for issues of environmental justice?
+
+::: notes
+
+**How has our work from today impacted your position on this proposition? Has it? Why or why not?**
+
+<br>
+
+**Bottom line, is s it possible to grapple with environmental problems in America without considering the role played by race and discrimination? Why or why not?**
 
 <br>
 
@@ -953,9 +981,6 @@ Ok, bottom line questions:
 - Review the data on Canvas, and 
 
 - Find us a local example of the need for environmental justice
-
-
-
 
 ::: notes
 
