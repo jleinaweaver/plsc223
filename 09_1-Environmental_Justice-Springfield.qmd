@@ -53,18 +53,101 @@ Prep for Class
 
 <br>
 
+**SLIDE**: Before we dig into the data, let's flag some more travel in our future!
+
+:::
 
 
-Add field trip announcements to top of class
+
+## Oct 21st Field Trip {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+::: {.column width="70%"}
+
+Ozark's Food Harvest Distribution Center
+
+- 2810 N. Cedarbrook Ave
+
+- **PLEASE carpool** (limited parking)
+
+- You **MUST** wear closed toe shoes
+
+- Details on Canvas
+
+:::
+
+::: {.column width="30%"}
+![](Images/09_1-Ozark_Food_Harvest.jpg){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Tuesday we will meet at the Ozark's Food Harvest Distribution Center
+
+- We'll get a tour of their incredible facility and the programs they are running in our community
+
+- Very much an organization working to promote social justice and address serious environmental challenges in our community
+
+<br>
+
+**Questions on our field trip?**
+
+<br>
+
+**SLIDE**: And that's not all!
+
+:::
 
 
 
 
-In Section 3 of our class we have begun exploring some of the current challenges in American environmentalism
+## Oct 23rd Field Trip {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+
+Springfield Community Gardens
+
+- 1126 N. Broadway Ave
+
+- Carpool for EC
+
+- Details on Canvas
+
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-SGF_Community_Gardens.webp){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Thursday we meet at one of the SGF Community Gardens
+
+- They promote local sustainable food practices and community revitalization
+
+- Plus some recent discussion of addressing the food desert problem in SGF
+
+<br>
+
+**Questions on our field trip?**
+
+<br>
+
+Ok, let's dive back into our current challenges in American environmentalism
 
 - **SLIDE**: Last week we started with the size and scope of the environmental justice problem
 
 :::
+
 
 
 
@@ -164,43 +247,11 @@ Alright, let's now dig into the data sources I linked you to before class to see
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
-Field trip next week
-
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-Field trip next week
-
-::: notes
-
-
-<br>
-
-Ok, 
-
-**SLIDE**: Let's start off by getting a sense of Springfield's demographics
-
-:::
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
 ::: {.r-fit-text}
 **Census Bureau: Race, Ethnicity and Income Demographics**
 
 - [Justice Map](https://www.justicemap.org/index.php)
 :::
-
-![](Images/09_1-Justice_Map.png){style="display: block; margin: 0 auto"}
-
-
-
-
-
-## Census Bureau Demographics {background-image="Images/background-forest_v3.png" .center}
-
-### [Justice Map](https://www.justicemap.org/index.php)
 
 ![](Images/09_1-Justice_Map.png){style="display: block; margin: 0 auto"}
 
@@ -224,10 +275,11 @@ Groups: Review the basic demographic information on Springfield and Greene Count
 
 <br>
 
-**SLIDE**: EPA's TRI
+Now that we have a sense of the demographic make-up of SGF, let's move to our first dataset on environmental harms
+
+- **SLIDE**: EPA's TRI
 
 :::
-
 
 
 
@@ -237,79 +289,335 @@ Groups: Review the basic demographic information on Springfield and Greene Count
 **The EPA's Toxics Release Inventory (TRI)**
 :::
 
-![](Images/09_1-tri_facility_map_2019.jpg){style="display: block; margin: 0 auto"}
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-EPA-TRI.webp){style="display: block; margin: 0 auto"}
+:::
+
+::::
 
 ::: notes
 
-Groups, get ready to report back
-
-- **What are the strengths and weaknesses of using the EPA's toxic release inventory for measuring environmental justice in our community?**
-
-- Think in terms of where their data comes from, how it is measured and whether it is audited for possible errors
+Groups, get ready to report back on the methodology of the EPA's TRI
 
 - Go!
 
 <br>
 
-Ok, groups, now focus on using this data to evaluate Springfield and our surrounding communities (or your group's home town).
-
-- **What do we learn about your community from using these maps? Are the toxic releases correlated 
-
-
-
-Do we need data on wealth, poverty or race by place BEFORE examining the pollution?
-
-
-
-
-- What is it? How is it measured? How much uncertainty?
-- Small groups: What do we learn about SGF from these maps?
-3. City of SGF's brownfields
-- What are they? How measured? How much uncertainty?
-- Small groups: What do we learn about SGF from these maps?
-4. American Forests' tree equity score
-- What is it? How measured? How much uncertainty?
-- Small groups: What do we learn about SGF from these maps?
-5. RAND redlining maps
-- What is it? 
-- How much do these redlines mirror the other data we've explored?
-6. Let's add to all of these the cases you submitted to Canvas
-- Circle up and introduce each case
-7. Given the evidence, the question becomes, what do we do about this?
-
+**Ok, what have we learned?**
 
 <br>
 
-**SLIDE**: ...
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
 
 :::
 
 
 
+## {background-image="Images/background-forest_v3.png" .center}
 
+::: {.r-fit-text}
+**The EPA's Toxics Release Inventory (TRI)**
+:::
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
+![](Images/09_1-EPA_TRI-SGF.png){style="display: block; margin: 0 auto"}
 
 ::: notes
 
+Groups, get ready to report back: 
+
+- **Do the areas of most toxic waste correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+- **What are the particularly serious hotspots?**
+
 <br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: SGF brownfields
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**City of Springfield Office of Economic Vitality: Brownfields**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-Brownfields.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the City of Springfield Office of Economic Vitality's brownfields map
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**City of Springfield Office of Economic Vitality: Brownfields**
+:::
+
+![](Images/09_1-Brownfields_Map.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the areas with brownfields correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+- **What are the particularly serious hotspots?**
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: American Forests' tree equity score
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**American Forests: Tree Equity Score**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-tree_equity_score.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the American Forests' Tree Equity Score
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**American Forests: Tree Equity Score**
+:::
+
+![](Images/09_1-tree_equity_SGF.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the areas with more tree cover correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: RAND redlining map
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**RAND Corporation: Environmental Racism**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-RAND.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the RAND Corporation's approach to measuring environmental racism (e.g. redlining)
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**RAND Corporation: Environmental Racism**
+:::
+
+![](Images/09_1-RAND_redlining.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the redlining areas correlate with the environmental harms in the mapping tool?**
+
+<br>
+
+**Ok, what have we learned?**
+
+- **Is this evidence that our correlations in toxics, brownfields and tree cover with wealth and race actually causal? Why or why not?**
+
+<br>
+
+To wrap up, I want you to reflect on our work over the last few weeks and then to consider a tweak to our proposition from last week
+
+- **SLIDE**
+
+:::
+
+
+
+## A Proposition for Problem-Solving {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Should ALL proposals to address ANY problem in Springfield explicitly account for issues of environmental justice?
+
+::: notes
+
+*Encourage this discussion*
+
+<br>
+
+**SLIDE**: Field trips next week!
+
+:::
+
+
+
+## For Next Week {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Tuesday
+
+- Ozark's Food Harvest Distribution Center
+
+Thursday
+
+- Springfield Community Gardens
+
+:::
+
+::: notes
 
 **Questions on the assignment?**
 
