@@ -31,11 +31,219 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Set up the Ken Burns documentary on the Dust Bowl, Episode 1, 0-23:15
+
+3. Try to save 30 mins for the documentary + discussion
+
+    - Activity 1: Debriefing the field trips and canvas assignments from last week (groups doing good work)
+    
+    - Activity 2: Reporting back on today's assignment
+    
+    - Activity 3: Dust Bowl documentary
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Let's review our work last week
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Ozark's Food Harvest Distribution Center**
+:::
+
+![](Images/09_1-Ozark_Food_Harvest.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Takeaways from visiting Ozark's Food Harvest 
+
+- How are they working on environmental justice in our area? 
+
+- What impressed you about their work? 
+
+- Where can we plug in and help?
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Springfield Community Gardens**
+:::
+
+![](Images/09_1-SGF_Community_Gardens.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Takeaways from visiting Springfield Community Gardens 
+
+- How are they working on environmental justice in our area? 
+
+- What impressed you about their work? 
+
+- Where can we plug in and help?
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Efforts to Promote Environmental Justice in SW MO**
+
+<br>
+
+1. Group name
+
+2. Problem being targeted?
+
+3. Action taken?
+
+4. How do we get involved?
+
+:::
+
+::: notes
+
+To wrap up our work last week I asked each of you to find us examples of groups doing important work on environmental justice problems in our area
+
+- Let's take a minute to hear about what you found and how we can help!
+
+- *Go around the room to hear the cases*
+
+<br>
+
+Ok, key takeaways?
+
+- **Do we have many groups doing good work in our community? Where can we plug into their work?**
+
+<br>
+
+Alright, the next section of our class will focus on capitalism as a challenge for American environmentalism
+
+- **SLIDE**: To get into this section, let's talk about your role as a consumer
+
+<br>
+
+Canvas DISCUSSION: Efforts to Promote Environmental Justice in Springfield
+
+Find us a group of any kind, other than those we are visiting this week, who are actively working to address environmental justice issues in southwest Missouri. No overlapping groups, first-come, first-served. 
+
+Submit:
+
+1. The name of the group and a link to their website or where more information about them can be found,
+2. Explain the problem they are targeting and why it is an issue of environmental justice (2+ sentences)
+3. Explain the actions they are taking to address this problem (3+ sentences)
+4. Provide us different options for getting involved with this group or in helping them with their actions (3+ sentences)
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Reflecting on our Behavior as Consumers**
+:::
+
+<br>
+
+What are the specific decisions you make, things you buy or actions you take on a somewhat regular basis that have the biggest negative impact on the environment?
+
+::: notes
+
+Let's go around the room to hear about your lives as consumers!
+
+<br>
+
+Let's talk about what we've just heard
+
+- **How much overlap in what we've just heard? Are we all making similar "bad" choices?**
+
+<br>
+
+**Per these cases, what are the best predictors of "bad" environmental choices?**
+
+<br>
+
+**Does this argument suggest promising ways to encourage individuals like us to make better choices? How specifically?**
+
+<br>
+
+**SLIDE**: Plan in this subsection
+
+<br>
+
+Canvas Assignment: Reflecting on our Behavior as Consumers
+
+What are the specific decisions you make, things you buy or actions you take on a somewhat regular basis that have the biggest negative impact on the environment? If you know that they are harmful, why do you continue to do them? 
+
+- Note: This is not an exercise in being judgmental and I am definitely not looking for you to be defensive. The aim here is to identify a series of choices we know are sub-optimal for the environment AND to better understand what leads us to make them.
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_2-Syllabus_Topics.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Moving forward in class: The system itself is set up to encourage us to make choices that harm the environment. 
+
+- Over the next few weeks I want us to explore the system and the ways it can go very wrong
+
+- Specifically we'll explore:
+
+    - An American catastrophe (the "Dust Bowl"), 
+    
+    - The effects of globalization, 
+    
+    - The dangers of eco-terrorism, and 
+    
+    - Finally an argument that capitalism has corrupted environmentalism
+
+<br>
+
+So, let's kick things off with an American environmental catastrophe: the Dust Bowl. 
+
+- *Watch some of the Dust Bowl documentary (Episode 1) as setup for next class*
+
+- *Show them the first 23 minutes of Episode 1*
+
+<br>
+
+**SLIDE**: For next class
+
+<br>
+
+OLD PLAN
+
+- 0:00 - 5:07 (5 mins): sets up the whole thing
+
+- 7:52 - 17:00 (9 mins)  
+
+    - Nature took a long time to find this balance of wind and the importance of the native grasses
+    - Congress enlarges Homestead Act and attracts many, many new homesteaders
+    - Plenty of rain + new public lands for sale leads to capitalist explosion!
+    - WWI makes wheat super valuable
+
+- 19:08 - 23:15 (4 mins): Modern machinery is great for profit! Farm as factory. Suitcase farmers. Government claims we could never use up the soil!
+    
+    - *And what follows all of this? An epic multi-year drought*
+
+- 32:49 - 36:11 (4 mins): Jump ahead to preview the dust storms
 
 :::
 
@@ -45,29 +253,25 @@ Prep for Class
 
 ::: {.r-fit-text}
 
-TBD
+**For Next Class**
+
+<br>
+
+Worster, D. (1979) *Dust Bowl*.
+
+- Chapters 1, 3, 5 and 14
 
 :::
 
 ::: notes
 
-<br>
+I want you to think of each of these chapters as distinct academic arguments
 
-**SLIDE**: ...
+- Your job in class on Thursday will be to diagram and analyze each of these arguments
 
-:::
+- SO, as you read take notes!
 
-
-
-
-
-
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
-
-::: notes
+- Identify the conclusion and key premises of each chapter
 
 <br>
 

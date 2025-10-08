@@ -601,7 +601,7 @@ To wrap up, I want you to reflect on our work over the last few weeks and then t
 
 
 
-## For Next Week {background-image="Images/background-forest_v3.png" .center}
+## For Next Week (Part 1) {background-image="Images/background-forest_v3.png" .center}
 
 <br>
 
@@ -619,6 +619,50 @@ Thursday
 
 ::: notes
 
+**Questions on the fiold trips?**
+
+<br>
+
+**SLIDE**: Next week part 2
+
+:::
+
+
+
+## For Next Week (Part 2) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Efforts to Promote Environmental Justice in Springfield**
+
+- Find us a group of any kind, other than those we are visiting, who are actively working to address environmental justice issues in southwest Missouri
+
+- Details on Canvas
+
+
+::: notes
+
+I want you to help me build a list of groups and actions in our area targeting the kinds of problems we've been studying
+
+- SO, before the end of next week you must find us a case
+
+- No overlap!
+
+<br>
+
 **Questions on the assignment?**
+
+<br>
+
+Canvas DISCUSSION: Efforts to Promote Environmental Justice in Springfield
+Find us a group of any kind, other than those we are visiting this week, who are actively working to address environmental justice issues in southwest Missouri. No overlapping groups, first-come, first-served. 
+
+Submit:
+
+1. The name of the group and a link to their website or where more information about them can be found,
+2. Explain the problem they are targeting and why it is an issue of environmental justice (2+ sentences)
+3. Explain the actions they are taking to address this problem (3+ sentences)
+4. Provide us different options for getting involved with this group or in helping them with their actions (3+ sentences)
+
 
 :::
