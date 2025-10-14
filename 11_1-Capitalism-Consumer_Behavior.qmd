@@ -61,13 +61,21 @@ Prep for Class
 
 ::: notes
 
-Takeaways from visiting Ozark's Food Harvest 
+**Big picture, what were your takeaways from visiting Ozark's Food Harvest?**
 
-- How are they working on environmental justice in our area? 
+- **What impressed you about their work?**
 
-- What impressed you about their work? 
+<br>
 
-- Where can we plug in and help?
+**What specific environmental justice issues are they working on?**
+
+<br>
+
+**Where can we plug in and get involved with them?**
+
+<br>
+
+**SLIDE**: SGF community gardens
 
 :::
 
@@ -84,13 +92,21 @@ Takeaways from visiting Ozark's Food Harvest
 
 ::: notes
 
-Takeaways from visiting Springfield Community Gardens 
+**Big picture, what were your takeaways from visiting the Springfield Community Gardens?**
 
-- How are they working on environmental justice in our area? 
+- **What impressed you about their work?**
 
-- What impressed you about their work? 
+<br>
 
-- Where can we plug in and help?
+**What specific environmental justice issues are they working on?**
+
+<br>
+
+**Where can we plug in and get involved with them?**
+
+<br>
+
+**SLIDE**: Other groups working in our area?
 
 :::
 
@@ -100,8 +116,6 @@ Takeaways from visiting Springfield Community Gardens
 
 ::: {.r-fit-text}
 **Efforts to Promote Environmental Justice in SW MO**
-
-<br>
 
 1. Group name
 
@@ -123,28 +137,61 @@ To wrap up our work last week I asked each of you to find us examples of groups 
 
 <br>
 
-Ok, key takeaways?
+Alright, sum this all up for me
 
-- **Do we have many groups doing good work in our community? Where can we plug into their work?**
-
-<br>
-
-Alright, the next section of our class will focus on capitalism as a challenge for American environmentalism
-
-- **SLIDE**: To get into this section, let's talk about your role as a consumer
+- **How many different ways can we get involved on these issues in our community? What can we do?**
 
 <br>
 
-Canvas DISCUSSION: Efforts to Promote Environmental Justice in Springfield
+**SLIDE**: Our next big challenge to American environmentalism
 
-Find us a group of any kind, other than those we are visiting this week, who are actively working to address environmental justice issues in southwest Missouri. No overlapping groups, first-come, first-served. 
+:::
 
-Submit:
 
-1. The name of the group and a link to their website or where more information about them can be found,
-2. Explain the problem they are targeting and why it is an issue of environmental justice (2+ sentences)
-3. Explain the actions they are taking to address this problem (3+ sentences)
-4. Provide us different options for getting involved with this group or in helping them with their actions (3+ sentences)
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_1-capitalism_protest.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+By capitalism I mean an economic system broadly defined by:
+
+- Private (not public) ownership of the means of production, 
+    
+- A primary motivating focus on the pursuit of profit, and 
+    
+- The existence of free markets where prices are set by supply and demand
+
+<br>
+
+Our capitalist system does some things really well like:
+
+- Generating wealth, 
+
+- Allocating resources, and 
+
+- Promoting efficiency
+
+<br>
+
+HOWEVER, we also do some things terribly
+
+- Massive levels of income inequality,
+
+- Serious environmental harms pushed onto the poorest amongst us,
+
+- Incentives to capture the government in order to direct business to yourself
+
+- etc.
+
+<br>
+
+So the next section of our class focuses on capitalism as a challenge for American environmentalism
+
+<br>
+
+**SLIDE**: To get into this section, let's talk about your role as a consumer
 
 :::
 
@@ -162,21 +209,31 @@ What are the specific decisions you make, things you buy or actions you take on 
 
 ::: notes
 
+For today I asked each of you to reflect on your role in this system
+
+- Important: This is not an exercise in being judgmental and I am definitely not looking for you to be defensive. 
+
+- The aim here is to identify a series of choices we know are sub-optimal for the environment AND to better understand what leads us to make them.
+
+<br>
+
 Let's go around the room to hear about your lives as consumers!
 
-<br>
-
-Let's talk about what we've just heard
-
-- **How much overlap in what we've just heard? Are we all making similar "bad" choices?**
+- Go!
 
 <br>
 
-**Per these cases, what are the best predictors of "bad" environmental choices?**
+Ok, let's talk about what we've just heard
+
+- **Are we all making similar "bad" choices? How much overlap did you hear across the cases?**
+
+- **Are we all providing the same kinds of justifications for our "bad" actions?**
 
 <br>
 
-**Does this argument suggest promising ways to encourage individuals like us to make better choices? How specifically?**
+Think about all you've heard and tell me:
+
+- **What kinds of things could we do to nudge each of you to make better choices?**
 
 <br>
 
@@ -200,50 +257,84 @@ What are the specific decisions you make, things you buy or actions you take on 
 
 ::: notes
 
-Moving forward in class: The system itself is set up to encourage us to make choices that harm the environment. 
+Over the next few weeks I want us to explore the capitalist system as we have implemented it and the ways it can go very wrong for the environment
 
-- Over the next few weeks I want us to explore the system and the ways it can go very wrong
+- In short, our system seems set up to encourage us to make choices that harm the environment. 
 
-- Specifically we'll explore:
-
-    - An American catastrophe (the "Dust Bowl"), 
-    
-    - The effects of globalization, 
-    
-    - The dangers of eco-terrorism, and 
-    
-    - Finally an argument that capitalism has corrupted environmentalism
+- The question is, can we do better?
 
 <br>
 
-So, let's kick things off with an American environmental catastrophe: the Dust Bowl. 
+Specifically, in this section we'll explore:
 
-- *Watch some of the Dust Bowl documentary (Episode 1) as setup for next class*
+- An American environmental catastrophe, e.g. the "Dust Bowl", 
+    
+- The effects of globalization or the spread of capitalism around the world, 
+    
+- The fight by groups who want to protect the "under-valued" resources, e.g. more on eco-terrorism!, and 
+    
+- Finally an argument that capitalism has corrupted environmentalism
 
-- *Show them the first 23 minutes of Episode 1*
+<br>
+
+**SLIDE**: Let's kick things off with our American environmental catastrophe: the Dust Bowl. 
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_1-The_Dust_Bowl_doc.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Clip package 1 (Episode 1)
+
+- 0:00 - 5:07 (5 mins): sets up the whole thing
+
+- 7:52 - 17:00 (9 mins): Nature's balance invites use
+
+<br>
+
+Remember, our focus in this section of the class is on capitalism as a challenge to American environmentalism
+
+- **What is Ken Burns' argument so far about our capitalist system and its view of our resources / the wilderness?**
+
+- (Nature's balance invited our use)
+- Nature took a long time to find this balance of wind and the importance of the native grasses
+- Congress enlarges Homestead Act and attracts many, many new homesteaders
+- Plenty of rain + new public lands for sale leads to capitalist explosion!
+- WWI makes wheat super valuable
+
+<br>
+
+Clip package 2 (Episode 1)
+
+- 17:32 - 23:15 (6 mins)
+
+<br>
+
+**Ok, what is the argument being teased in this clip about our relationship to nature?**
+
+- (Capitalism as Edenic narrative and Edenic use leads to exploitation!)
+- Immigrants seeking to OWN the land
+- Modern machinery is great for profit! 
+- Farm as factory. 
+- Suitcase farmers. 
+- Government claims we could never use up the soil!
+
+<br>
+
+And where does all of this end up?
+
+Clip package 3 (Episode 1)
+
+- 32:49 - 36:11 (4 mins): Jump ahead to preview the dust storms
 
 <br>
 
 **SLIDE**: For next class
-
-<br>
-
-OLD PLAN
-
-- 0:00 - 5:07 (5 mins): sets up the whole thing
-
-- 7:52 - 17:00 (9 mins)  
-
-    - Nature took a long time to find this balance of wind and the importance of the native grasses
-    - Congress enlarges Homestead Act and attracts many, many new homesteaders
-    - Plenty of rain + new public lands for sale leads to capitalist explosion!
-    - WWI makes wheat super valuable
-
-- 19:08 - 23:15 (4 mins): Modern machinery is great for profit! Farm as factory. Suitcase farmers. Government claims we could never use up the soil!
-    
-    - *And what follows all of this? An epic multi-year drought*
-
-- 32:49 - 36:11 (4 mins): Jump ahead to preview the dust storms
 
 :::
 
@@ -259,7 +350,7 @@ OLD PLAN
 
 Worster, D. (1979) *Dust Bowl*.
 
-- Chapters 1, 3, 5 and 14
+- Chapters: Introduction, 1, 3, 5 & 14
 
 :::
 
@@ -269,7 +360,7 @@ I want you to think of each of these chapters as distinct academic arguments
 
 - Your job in class on Thursday will be to diagram and analyze each of these arguments
 
-- SO, as you read take notes!
+- SO, take notes as you read!
 
 - Identify the conclusion and key premises of each chapter
 
