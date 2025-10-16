@@ -31,11 +31,247 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Video needs
+
+    - [Amazon Prime video: Ken Burns' Dust Bowl documentary, Episode 2](https://www.amazon.com/The-Dust-Bowl-Season-1/dp/B0D385SCVS)
+
+    - [USGS animation of changes in groundwater 1950-2011](https://www.youtube.com/watch?v=3rSnf-u0bzc)
+
+3. Save 15-20 minutes at end for the documentary (12 mins) and discussion about our optimism / pessimism for the future of the plains
 
 <br>
 
-**SLIDE**: ...
+Today we continue our work in Section 3 of the class
+
+- Last week we wrapped up our work on environmental justice issues
+
+- **SLIDE**: This week we are kicking off our work on capitalism
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_2-capitalism-concept-world.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Refresh my memory, what are we talking about when we say we live under a capitalist system?**
+
+<br>
+
+By capitalism we typically mean an economic system based on:
+
+- Private ownership of the means of production (not public), 
+    
+- Individuals motivated by the pursuit of profit, and 
+    
+- Free markets where prices are set by supply and demand
+
+<br>
+
+**SLIDE**: What's the harm?
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_2-CapitalismOctopus.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**And from our early discussions last class, why might capitalism be harmful to the environment?**
+
+- **Canvas last class: Any specific decisions you make as consumers that are problematic?**
+
+<br>
+
+**If you know these choices are harmful, why do you do it?**
+
+- Is it because of capitalism? :)
+
+<br>
+
+As a framing exercise for this section of the class I want us to dig into an American environmental catastrophe
+
+- **SLIDE**: The Dust Bowl 
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_1-The_Dust_Bowl_doc.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Let's set up our case study again
+
+- PLAY DOCUMENTARY EPISODE 2, 0:00 - 7:00 (7 mins) to set up the whole thing
+
+<br>
+
+**SIDE**: Let's make sure we're clear on the scale of the ecological catastrophe
+
+:::
+
+
+
+## {background-image="Images/11_2-scimyst_dustbowl.webp" .center}
+
+::: notes
+
+The Dust Bowl is a perfect storm of misery
+
+- Happens during the great depression so the economics of the time were already awful
+
+- It goes way longer than many realized (10+ years)
+
+- That 10 years was marked by serious drought conditions, excessive heat and frequent dust storms
+
+- The dust storms blew at 60+ miles per hour and lasted anywhere from 1 hour to 3.5 days in length
+
+- The dust was carried all the way to Boston and was reported by ships 300 miles into the Atlantic ocean
+
+<br>
+
+I find the scale of this ecological disaster hard to grasp.
+
+- Dust storms so massive and disruptive as to drive dust particles across the continent and way out to sea.
+
+<br>
+
+**SLIDE**: For today we need to examine why this happened and whether it is likely to happen again!
+
+:::
+
+
+
+
+## Worster's (1979) Argument {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+- Chapter 3
+
+- Chapter 5
+
+- Chapter 14
+
+**Therefore, capitalism caused the Dust Bowl**
+
+:::
+
+::: notes
+
+For class today each of you read and analyzed these three chapters
+
+- I asked you to think of them like premises in this bigger argument
+
+- **How did that go?**
+
+<br>
+
+*Split class into small groups (groups of 4?)*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Let's start with chapter 3
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Chapter 3 (p44-63)**
+
+1. What is the premise in this chapter?
+
+2. What key evidence is provided?
+:::
+
+::: notes
+
+Groups share your Canvas submissions on Chapter 3 and get ready to report back the premise AND the specific evidence provided to support this idea
+
+- Go!
+
+<br>
+
+Let's get your ideas for the premise on the board
+
+- *ON BOARD and DISCUSS*
+
+<br>
+
+**SLIDE**: I think there are three broad ideas here we should connect
+
+:::
+
+
+
+## Chapter 3: Key Ideas {background-image="Images/background-forest_v3.png" .center}
+
+- Capitalism weakens our national identity
+
+- Capitalism implies individuality (e.g. bad times are your fault and your problem)
+
+- Capitalism causes economic stresses which minimizes human empathy
+
+::: notes
+
+Personally, I've always been struck by Steinbeck's idea on p63: "...the ultimate explanation of the Dust Bowl: the alienation of man from the land, its commercialization, and its consequent abuse"
+
+<br>
+
+**Ok groups, what key pieces of evidence are provided in Chapter 3 to establish and support these ideas?**
+
+- *Each group present one piece and evaluate it for us*
+
+<br>
+
+*A few notes to hit*
+
+**On p62, what did Steinbeck mean by the sentence "the land bore under iron, and under iron gradually died"?**
+
+- **What was the impact of the spread of tractors on poor farmers?**
+
+(Surprisingly, or not, a bad one (p57).)
+
+- Industrialized farming forced many poor families out.
+- They couldn't compete on cost or size of production.
+
+<br>
+
+**Who were the "Okies" and how were they treated by other Americans?**
+
+- (p45: outward bound refugees, p51: Dust Bowl refugees)
+- (Treated very badly, p53 seen as biologically inferior men)
+
+<br>
+
+**Are we persuaded by these critiques of capitalism? Why or why not?**
+
+<br>
+
+**Do we believe that Americans today forced to leave their homes due to a natural disaster would be treated similarly?** 
+
+<br>
+
+**SLIDE**: Chapter 5
 
 :::
 
@@ -44,21 +280,207 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
+**Chapter 5 (p80-98)**
 
-TBD
+1. What is the premise in this chapter?
 
+2. What key evidence is provided?
 :::
 
 ::: notes
 
+Groups share your Canvas submissions on Chapter 5 and get ready to report back the premise AND the specific evidence provided to support this idea
+
+- Go!
+
 <br>
 
-**SLIDE**: ...
+Let's get your ideas for the premise on the board
+
+- *ON BOARD and DISCUSS*
+
+<br>
+
+**SLIDE**: I think there are four broad ideas here we should connect emphasized on p94-97
 
 :::
 
 
 
+## Chapter 5: Key Ideas {background-image="Images/background-forest_v3.png" .center}
+
+- American culture defined by capitalistic ethos.
+
+- Capitalism attaches us to cash, not the earth.
+
+- Capitalism teaches us our survival is separate from nature's survival (autonomy and indifference).
+
+- Capitalism views all resources commercially and imperially.
+
+::: notes
+
+Groups, get ready to talk through these with me based on the evidence in the chapter AND your experience of the world:
+
+1. Is this an accurate critique of capitalism?
+
+2. Is this an accurate description of America today?
+
+<br>
+
+*DISCUSS*
+
+<br>
+
+*Notes to Hit*
+
+**According to Worster in chapter 5, what specific effects did introducing "machines" onto the plains have?**
+
+- **e.g. tractors, plows, threshers and the combine**
+
+- Do the work of 10-20 men without having to deal with those seasonal harvest laborers
+    
+    - p88 land entries skyrocket
+
+    - p90 Labor needs fall AND acreage planted jumps!
+
+    - p91 transforms you from clod to operator! From dumb brute to mechanic!
+    
+<br>
+
+**Who were the "suitcase farmers"? (p93)**
+
+- Machines made it easier to farm, this encouraged more people to do it. 
+
+- Part-time farmers: Come in from town for planting and then leave until harvest time in the hopes something good grows.
+
+<br>
+
+**How does Worster use these "suitcase farmers" to make his argument?**
+
+- (Capitalism + Technology = Suitcase farmers)
+
+- (Suitcase farmers never develop a meaningful connection to the land.)
+
+- (No connection to land -> abuse -> catastrophe)
+
+<br>
+
+In short, why does Worster argue the sodbusters failed where the indians succeeded?
+
+- (Sodbusters focused on farming to maximize resource extraction from the land.)
+
+- Early attempts failed when subjected to dust storms and long droughts.
+
+<br>
+
+**SLIDE**: Last one, chapter 14
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Chapter 14 (p210-230)**
+
+1. What is the premise in this chapter?
+
+2. What key evidence is provided?
+:::
+
+::: notes
+
+Groups share your Canvas submissions on Chapter 14 and get ready to report back the premise AND the specific evidence provided to support this idea
+
+- Go!
+
+<br>
+
+Let's get your ideas for the premise on the board
+
+- *ON BOARD and DISCUSS*
+
+<br>
+
+**SLIDE**: The key ideas
+
+:::
+
+
+
+## Chapter 14: Key Ideas {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+- Capitalism shortens individual time horizons
+
+- Capitalism creates incentives to ignore science
+:::
+
+::: notes
+
+Groups, get ready to talk through these with me based on the evidence in the chapter AND your experience of the world:
+
+1. Is this an accurate critique of capitalism?
+
+2. Is this an accurate description of America today?
+
+<br>
+
+*DISCUSS*
+
+<br>
+
+**SLIDE**: The big argument
+
+:::
+
+
+
+
+## Worster's (1979) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+- American culture is capitalist
+
+- Capitalism replaces our national identity with one focused on being an isolated, economically stressed individual (consumer)
+
+- Capitalism teaches us that nature is a resource and our survival is separate from nature's survival
+
+- Capitalism shortens time horizons and creates incentives to ignore science
+
+**Therefore, capitalism caused the Dust Bowl**
+
+::: notes
+
+**Ok, where do you end up with this?**
+
+- **Are you convinced? Why or why not?**
+
+<br>
+
+Let's give Ken Burns a chance to weigh in on this again
+
+- **PLAY Episode 2, documentary clip (12 mins) 1:34:29 - 1:46:41**
+
+<br>
+
+**Bottom line, are we doomed by our system to keep repeating this insane process? Why or why not?**
+
+<br>
+
+IF NEEDED:
+
+- [USGS animation of changes in groundwater 1950-2011](https://www.youtube.com/watch?v=3rSnf-u0bzc)
+
+- McGuire, V. L., & Strauch, K. R. (2024). Water-Level and Recoverable Water in Storage Changes, High Plains Aquifer, Predevelopment to 2019 and 2017 to 2019 (2023–5143; Scientific Investigations Report). U.S. Department of the Interior: U.S. Geological Survey. https://doi.org/10.3133/sir20235143
+
+<br>
+
+**SLIDE**: For next class
+
+:::
 
 
 
@@ -66,6 +488,17 @@ TBD
 
 <br>
 
+::: {.r-fit-text}
+
+Dauvergne's (2016) *Environmentalism of the Rich*
+
+- Chapter 2
+
+- Chapter 3
+
+- Chapter 4
+
+:::
 
 ::: notes
 
