@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
@@ -31,11 +33,103 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Bring markers x 4
+
+3. Videos in class (both on YouTube)
+
+    - [Nauru: Environmental Apocalypse in the World’s Smallest Republic](https://www.youtube.com/watch?v=IbMpaJuhHeM)
+    
+    - [PBS News Hour: How a clothing company's anti-consumerist message boosted business](https://www.youtube.com/watch?v=QidRJZ7yrPI)
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Let's recap our work in this section so far
+
+:::
+
+
+
+## Our Capitalist System {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/12_1-Capitalism.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Refresh my memory, what are we talking about when we say we live under a capitalist system?**
+
+- (Private ownership of the means of production, not public)
+    
+- (Individuals motivated by the pursuit of profit, and)
+    
+- (Free markets where prices are set by supply and demand)
+
+<br>
+
+**And, how has living under this system led you to make some sub-optimal environmental choices?**
+
+- **Is it because you hate the environment?**
+
+- *Solicit examples from Canvas assignment two weeks ago*
+
+<br>
+
+**SLIDE**: Last week we explored an American environmental catastrophe
+
+:::
+
+
+
+## The Dust Bowl (approx 1932-1940) {background-image="Images/12_1-Dust_Bowl_photo.avif"}
+
+![](Images/12_1-Dust_Bowl_Map_NRCS_SSRA-RAD.png){.absolute width="450" bottom=0}
+
+::: notes
+
+**According to Worster, how did American "capitalism" create the Dust Bowl?**
+
+- **What were the key assumptions we unpacked and explored?**
+
+<br>
+
+- (**SLIDE**: The argument we examined in class)
+
+:::
+
+
+
+## Capitalism and the Dust Bowl {background-image="Images/12_1-Dust_Bowl_photo_v3.png"}
+
+- American culture is capitalist
+
+- Capitalism replaces our national identity with one focused on being an isolated, economically stressed individual (consumer)
+
+- Capitalism teaches us that nature is a resource and our survival is separate from nature's survival
+
+- Capitalism shortens time horizons and creates incentives to ignore science
+
+**Therefore, capitalism caused the Dust Bowl**
+
+::: notes
+
+**Which of our historical perspectives does this look like?**
+
+- (Edenist, right?)
+
+<br>
+
+**Are we convinced by this argument? Why or why not?**
+
+- **Strengths?**
+
+- **Weaknesses?**
+
+<br>
+
+I'll be honest, these are big claims that strike at the heart of our system and I don't want to treat them flippantly
+
+- **SLIDE**: This week we shift our focus to a more recent argument along these lines
 
 :::
 
@@ -43,21 +137,407 @@ Prep for Class
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
-::: {.r-fit-text}
+:::: {.columns}
+::: {.column width="35%"}
 
-TBD
+![](Images/12_1-Peter_Dauvergne_v2.png)
 
 :::
 
-::: notes
+::: {.column width="65%"}
+
+Dauvergne, Peter. (2016). *Environmentalism of the Rich*. The MIT Press.
 
 <br>
 
-**SLIDE**: ...
+![](Images/12_1-Dauvergne_Bio.png)
+
+:::
+::::
+
+::: notes
+
+This week I've assigned you chapters from Peter Dauvergne's book, Environmentalism of the Rich
+
+<br>
+
+Dr. Dauvergne has published EXTENSIVELY in this research area
+
+- A very engaging writer
+
+- I always enjoy reading his stuff (even if it is crushingly depressing)
+
+<br>
+
+The main focus of the book is to encourage us to think critically about environmentalism.
+
+- Where did it come from, what has it accomplished and where is it going?
+
+- But doing that, it also forces us to grapple with the capitalist system we live under
+
+<br>
+
+This week we will explore part 1 of his book that focuses on globabl unsustainability
+
+- Next week we shift to his critiques of environmentalism
+
+<br>
+
+*Split class into small groups (four groups total?)*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Let's get to work
 
 :::
 
 
+
+## Chapters 2 and 3 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+- ?
+
+- ?
+
+- ?
+
+- ...
+
+**Therefore, globalization is a modern extension of the destructive imperialism we thought was in our past**
+
+::: notes
+
+Groups, this represents one attempt to summarize the key arguments of these two chapters.
+
+- I want you to fill in the premises of this argument
+
+- What are the big ideas Dauvergne uses to build up to this conclusion?
+
+<br>
+
+My advice:
+
+1. Don't get bogged down in all the evidence; aim for the big ideas
+
+2. Make sure you clearly define and link the concepts in this conclusion in the argument itself
+
+3. Work directly on the board so we can see how the argument is developing and give each other feedback
+
+<br>
+
+Go!
+
+- *Present and discuss each*
+
+<br>
+
+**SLIDE**: My version
+
+:::
+
+
+
+
+## Chapters 2 and 3 {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+- The age of European imperialism devastated the social fabric of developing societies around the world
+
+- The age of European imperialism devastated ecosystems around the world
+
+- In the 20th century the developed world shifted to globalization as its means of extracting profit, extending control and imposing beliefs on the world
+
+- Globalization is frequently as "violent and exploitative" as imperialism
+
+**Therefore, globalization is a modern extension of the destructive imperialism we thought was in our past**
+
+::: notes
+
+**Is everybody clear on what we mean by the concept "imperialism"?**
+
+- [ScienceDirect](https://www.sciencedirect.com/topics/social-sciences/imperialism)
+
+- "Imperialism is a form of international hierarchy in which one political community, or polity, effectively governs or controls another political community."
+
+- Researchers tend to refer to classify this "governing or control" as "domination"
+
+    - e.g. "By domination we mean the ability of the dominant polity – the metropole – to decide policy for the subordinate policy – the colony. This ability may entail substantial delegation of decision-making authority to elite members of the colony, but the metropole retains the power to decide what gets delegated and how, and when this authority is revoked."
+
+<br>
+
+**Groups, how susbtantial is the evidence for the first two premises?**
+
+- **What stood out to you in the two chapters for these?**
+
+<br>
+
+Shifting to the latter two premises
+
+- **Is everybody clear on what we mean by the concept "globalization"?**
+
+- IMF: "It refers to the increasing integration of economies around the world, particularly through the movement of goods, services, and capital across borders."
+
+- Peterson Institute for International Economics: Globalization describes the growing interdependence of the world’s economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information.
+
+<br>
+
+This makes "globalization" sound very innocuous right?
+
+- **Groups, how susbtantial is the evidence for these two premises?**
+
+<br>
+
+**SLIDE**: Let me show you some additional data to help us think about this argument
+
+<br>
+
+*Dauvergne Notes Ch2 and Ch3*
+
+Chapter 2
+
+- The argument: For the developing world, globalization is imperialism continued under another name.
+- European imperialism serving as the root of modern globalization
+- Case study: Captain Quieros and the start of imperial domination in what is now Vanuatu
+- Globalization can be every bit as violent and exploitative as imperialism
+    - e.g. world powers forcing developing countries to deregulate economic affairs, to open borders to foreign capital and trade
+- Current evidence: Massive and rising debt of the developing world; Rising inequality, concentrating financial power
+
+
+Chapter 3
+
+- The Argument: Europeans brought capitalism into Nauru and once a valuable resource was discovered Nauru destroyed itself.
+- Europeans don't stumble onto tiny Nauru until 1798
+- By accident, 1899-1901 Phosphate ore is discovered
+- By 1968, 1/3 of Naur strip-mined
+- After independence, Nauru chose to increase mining despite knowing supplies would shortly run out, exports generated much wealth.
+- Desperate to replace income, Nauru becomes haven for dirty banks, money laundering and starts selling off citizenships.
+- By the early 2000s supplies plummett and economic catastrophe is wrought.
+- At this point, Nauru has allowed Australia to set up a detention camp for would-be immigrants as it needs the money for hosting them.
+
+:::
+
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/12_1-developing-countries-face-higher-borrowing-costs.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This is data from UN Trade and Development (UNCTAD)
+
+- The rich world draws the developing world into global trade with the promise of development
+
+- HOWEVER, the risks they face are greater, so they are charged a premium "to play" in global markets
+
+<br>
+
+Since 2020, developing countries have been borrowing at average rates two to four times higher than those for the United States, making it harder to invest in sustainable development.
+
+- High interest rates, weak global growth and rising uncertainty are squeezing public budgets. 
+
+- The consequences are direct and devastating, as people – especially vulnerable populations – pay the price.
+
+<br>
+
+For academics like Dauvergne, this suggests that globalization has not been designed primarily to benefit the developing world
+
+- It has been structured to continue our exploitation of it
+
+<br>
+
+**SLIDE**: What do these growing debt burdens mean for the developing world?
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/12_1-UN_Data_Interest_vs_Education_and_Health.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Public debt can be a powerful tool for development. 
+
+- Governments use it to invest in their people and economies – and pave the way to a better future. 
+
+- The promise of globalization was to improve standards of living everywhere, but...
+
+<br>
+
+But when debt grows too large or becomes too costly, it turns into a burden.
+
+- That is the current reality for much of the developing world.
+
+- Today, a total of 3.4 billion people now live in countries that spend more on debt interest than on either health or education.
+
+<br>
+
+Let's now get a better look at Nauru once it stopped being a colony!
+
+- **SLIDE**: This is a particularly important case for our thinking about capitalism and the environment
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+![](Images/12_1-nauru.jpg){.absolute left=0 top=0 width="650"}
+
+![](Images/12_1-Nauru_Mined.jpg){.absolute right=0 bottom=0 width="650"}
+
+::: notes
+
+VIDEO: (12 minutes) Nauru: Environmental Apocalypse in the World’s Smallest Republic ([YouTube](https://www.youtube.com/watch?v=IbMpaJuhHeM))
+
+- 13:43 - 25:29 - Nauru achieves independence and loses its damn mind; nice note of the people protesting but elites keep spending. At 23:55 - This is a warning to us all. Deep sea mining.
+
+<br>
+
+**So, what are the lessons of the Nauru case for us?**
+
+- **Is Dauvergne on to something here about globalization, imperialism and the destruction on the environment?**
+
+<br>
+
+I think the Nauru example really drives home some key elements of Dauvergne's argument here
+
+- It's not just that opening up to global markets damages the environment, BUT
+
+- Framing growth through trade incentivizes you to make even worse choices in the future!
+
+<br>
+
+**SLIDE**: Take it one step further
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+![](Images/12_1-Nauru_Mined.jpg){.absolute left=0 top=0 width="650"}
+
+![](Images/12_1-the_earth2.jpg){.absolute right=0 bottom=0 width="500"}
+
+::: notes
+
+The destruction of Nauru is a tragedy driven by capitalism and short time horizons
+
+<br>
+
+The big question for us is, is the Nauru case a fluke of a tiny island or is this a warning about what we are doing to the entire planet?
+
+- **Do you think the Nauru case is a good analogy for the global environment? Why or why not?**
+
+- *Force this discussion*
+
+<br>
+
+**SLIDE**: On to chapter 4
+
+:::
+
+
+
+## Chapter 4 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+- ?
+
+- ?
+
+- ?
+
+- ...
+
+**Therefore, you cannot embed environmentalism in the capitalist system and expect ecologically positive outcomes**
+
+::: notes
+
+Groups, this represents one attempt to summarize the key arguments of this chapter
+
+- I want you to fill in the premises of this argument
+
+- What are the big ideas Dauvergne uses to build up to this conclusion?
+
+- Work directly on the board!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: My version
+
+:::
+
+
+
+## Chapter 4 {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+- "To survive, capitalism needs to expand production and markets" (49)
+
+- Companies work to be cleaner, more efficient and less wasteful THEN reinvest those profits in expansion in order to sell even more stuff
+
+- Too often, corporate social responsibility (CSR) is about protecting wealth and privilege rather than promoting ecological ends
+
+- Those who question this environmentalism of the rich are scorned and derided
+
+**Therefore, you cannot embed environmentalism in the capitalist system and expect ecologically positive outcomes**
+
+
+::: notes
+
+*IFF time enough and you want to: VIDEO: (8 mins) PBS NewsHour: How a clothing company's anti-consumerist message boosted business*
+
+- *The chapter discusses the $700 jacket*
+
+- [YouTube Link](https://www.youtube.com/watch?v=QidRJZ7yrPI)
+
+<br>
+
+**Is Patagonia showing us how to merge capitalism and environmentalism, or is this just really clever marketing?**
+
+- **Does this campaign make you want to buy more of their stuff? Why or why not?**
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+<br>
+
+*Dauvergne Notes Ch4*
+
+- The Argument: World politics is defined by the want of more (money, stuff)
+- Even companies dedicated to making themselves cleaner, more efficient, less wasteful just reinvest those profits in expansion in order to sell even more stuff.
+- Too often, corporate social responsibility (CSR) is about protecting wealth and priviledge rather than promoting ecological ends.
+- Those who question this env of the rich are scorned and derided.
+- Case: Kalle Lasn, Adbusters and the Occupy Movement 
+- Case: Patagonia's $700 "don't buy this jacket" jacket
+- The spread of sustainability as a corporate mantra
+- Case: Pampers in China; crummy product equalled crummy sales; improved product plus MASSIVE marketing campaign "golden sleep"
+- "To survive, capitalism needs to expand production and markets" (49).
+- Oil and gas companies provide the literal fuel for this growth and they have succeeded massively as economies have grown.
+- The catch? So much of this wealth is being generated only at the very top. Inequality is exploding!
+- Argument: wealth inequality is deeply problematic for sustainability.
+
+
+:::
 
 
 
@@ -66,6 +546,17 @@ TBD
 
 <br>
 
+::: {.r-fit-text}
+
+Dauvergne's (2016) *Environmentalism of the Rich*
+
+- Chapter 5
+
+- Chapter 6
+
+- Canvas reflection
+
+:::
 
 ::: notes
 

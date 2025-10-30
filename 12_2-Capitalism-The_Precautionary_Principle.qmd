@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
@@ -31,46 +33,361 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. Markers x 4
+
+3. Video Clips: 24 mins
+
+    - 20 mins: Buy Now! The Shopping Conspiracy ([Netflix](https://www.netflix.com/watch/81554996))
+
+    - 4 mins: National Geographic video (4 minutes): His Epic Message Will Make You Want to Save the World | Short Film Showcase ([YouTube](https://www.youtube.com/watch?v=B-nEYsyRlYo))
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Announcement for next week
 
 :::
 
 
 
-## {background-image="Images/background-forest_v3.png" .center}
+## Next Week {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Where is the Line Between Impactful Environmental Advocacy and Eco-Terrorism?**
+
+::: {.fragment}
+
+1. No in-person class on Tuesday (Nov 11th)
+
+2. For Thursday (Nov 13th):
+
+    - Watch Documentary: If A Tree Falls (YouTube)
+
+    - Submit: Canvas Reflection
+
+    - Read: Dauvergne Ch 7, 8 and 9
+    
+:::
+
+::: notes
+
+Next week I want us to re-examine the eco-terrorism material from Week 6
+
+- Dauvergne is making an argument that we need more aggressive environmental activism, and that means we need to reflect on what that looks like in the real world
+
+<br>
+
+**REVEAL**: Our plan
+
+<br>
+ 
+**Questions on the plan for next week?**
+
+<br>
+
+**SLIDE**: Refresher on Part 1 of Dauvergne's book
+
+:::
+
+
+
+## Dauvergne (1996): Chapters 2, 3 & 4 {background-image="Images/background-forest_v3.png" .center}
+
+- For the developing world, globalization is imperialism continued under another name
+
+- Globalization is supremely destructive without ever needing to conquer your lands
+
+- You cannot embed environmentalism in the capitalist system and expect ecologically positive outcomes
+
+::: notes
+
+**How well did Dauvergne do making these three arguments?**
+
+- **e.g. what are the strengths of these arguments?**
+
+<br>
+
+**Any weaknesses in these arguments so far?**
+
+- **Elements you believe are overstated or not as credibly supported by evidence?**
+
+<br>
+
+*Split class into small groups (four groups total?)*
+
+- Go sit with your group!
+
+<br>
+
+**SLIDE**: Let's dive into our readings for today
+
+:::
+
+
+
+## Chapter 5 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+- ?
+
+- ?
+
+- ?
+
+- ...
+
+**Therefore, despite our efforts to be more sustainable we are rapidly consuming the earth's resources and filling the world with poison**
+
+::: notes
+
+Groups, just like last class I want you to fill in the premises of this argument
+
+- What are the big ideas Dauvergne uses to build up to this conclusion?
+
+- Work directly on the board! OR Have them work and then report back to you at the board
+
+<br>
+
+*PRESENT and DISCUSS each (proposed premise or argument diagram)*
+
+<br>
+
+**SLIDE**: My version
+
+<br>
+
+*Dauvergne Ch 5 Notes*
+
+- Argument: "I'll demonstrate in this chapter, however, rising ecological footprints and unsustainable consumption are causing severe ecological strains..." (54)
+- We are both using up the world's resources and filling the world with poisons and toxins.
+- And all of this is happening as we pat ourselves on the back for working so hard to be sustainable!
+- Consumers are becoming more homogenous in tastes, corporations are skilled at manipulating our desires.
+- Case: Walmart, global sales and global supplies
+- "Most consumers are unaware of, and feel little responsibility for, the environmental risks and damage of consumption in other countries and for future generations" (56).
+- A "commercialization of values" is also occuring through advertising and branding.
+- We are already above earth's capacity to sustain us and our carbon footprint is growing along with globalization.
+- ecological footprint analysis
+    - worldwide avg 2.7 global hectares
+    - Avgs: Africa 1.5, UK 4.7, Canada 6.4, US 7.2
+    - In 2010, estimated Earth can support 12 billion hectares (productive biocapacity), our use was 18 billion hectares.
+- The consequences?
+    - Rapidly increasing extinction rates, animal populations crashing, coral reefs dying, rainforests in crisis (chapter offers many more examples)
+
+:::
+
+
+
+## Chapter 5 {background-image="Images/background-forest_v3.png" .center .smaller}
+
+- Human consumption is rapidly accelerating (range, speed and power of impacts)
+
+- Longer supply chains promote efficiency but also hide environmental harms
+
+- Global consumers are becoming more homogenous in tastes (manipulated?)
+
+- Government success and social stability now depends somewhat on supplying consumer products
+
+- This exploding supply and demand is devastating our planet
+
+**Therefore, despite our efforts to be more sustainable we are rapidly consuming the earth's resources and filling the world with poison**
+
+::: notes
+
+**Did I miss anything important?**
+
+<br>
+
+**How substantial is the evidence Dauvergne provides for each of these premises?**
+
+- **Is each one convincing?**
+
+<br>
+
+**SLIDE**: Let's look at some more examples of companies manipulating us!
+
+:::
+
+
+
+## {background-image="Images/12_2-Buy_Now_Documentary.jpg" .center}
+
+::: notes
+
+Buy Now! The Shopping Conspiracy
+
+- [Netflix](https://www.netflix.com/watch/81554996)
+
+<br>
+
+PLAY CLIP 1: (6 mins) - 05:34 - 11:23
+
+- Companies seek growth above all else: Adidas giving customers a reason to buy and "fast fashion" increasing speed of "new" production
+
+**Does this ring true for you?**
+
+- **Are you being manipulated into consuming more stuff?**
+
+<br>
+
+PLAY CLIP 2: (8 mins) - 24:50 - 33:00
+
+- Companies stop you from repairing your stuff, just buy new ones! Apple's profits depend on increasing sales; 13 million phones thrown out every day! iFixit founder argues Apple wants this!
+
+**Who here has an iPhone?**
+
+- **How often do you upgrade or replace it?**
+
+- **Has anybody ever repaired a broken piece of their technology? Why or why not?**
+
+- **Should we stop buying from any company that is actively making their tech unrepairable? Why or why not?**
+
+<br>
+
+PLAY CLIP 3: (6 mins) 
+
+- 42:11 - 48:00 Most plastic recycling is a myth: Why do people trust businesses? The labels lie. The vast majority of recycling labels are misleading at best, actually false.
+
+**Do you think we can trust the claims of the businesses that sell us stuff? Why or why not?**
+
+- **If not, what does that mean for us as consumers trying to make "better" choices?**
+
+<br>
+
+**SLIDE**: Chapter 6
+
+<br>
+
+*Other options*
+
+- (6 mins) - 12:50 - 18:32 Companies manipulate you into buying more: Amazon desiging itself to stop consumers from thinking too carefully before clicking "buy". Subtle ways to influence your behavior.
+
+- (7 mins) - 33:45 - 40:50 Companies dumping perfectly good product Businesses throwing out perfectly good product
+
+:::
+
+
+
+## Chapter 6 {background-image="Images/background-forest_v3.png" .center}
+
+<br>
 
 ::: {.r-fit-text}
-
-TBD
-
+**The Precautionary Principle**
 :::
 
 ::: notes
 
+**Ok, what is the precautionary principle?**
+
+- [Lambert 2024](https://www.ebsco.com/research-starters/science/precautionary-principle)
+
+- The precautionary principle is a guiding approach for decision-making, particularly in public policy, that emphasizes minimizing potential harm in situations characterized by uncertainty. 
+
+- It suggests that when there is scientific evidence indicating that an action or policy could cause harm — despite inconclusive evidence — preventive measures should be taken.
+
+- Think "Prevention is better than cure" or "Better safe than sorry"
+
 <br>
 
-**SLIDE**: ...
+**What real-world examples did Dauvergne offer in Chapter 6?**
+
+- Case: Thomas Midgley Jr. adds ethyl to gasoline to prevent enging knock, but the tetraethyl lead does serious harm to the environment.
+
+- Case: Making Teflon added serious harms to environment, but it was profitable so industry fought to hide and suppress the research.
+
+- Case: Sugar substitutes doing unknown harm to the environment where they are collecting.
+
+<br>
+
+So, Dauvergne's chapter is all about businesses doing legal, but risky things in order to make a profit
+
+- e.g. experimenting on consumers and the environment
+
+<br>
+
+He then shows that business and industry have gone to incredible lengths to protect these new profits
+
+- lobbying politicians, funding right wing think tanks, lobbying world leaders, allying with commerce and natural resource departments, suing environmental agencies, initimidating grassroots activists and fomenting community backlashes against new rules.
+
+<br>
+
+Alright, let's shift to the cases you found for Canvas today!
+
+- We'll go around the room to hear what you found and how you would like it to change!
+
+- *Go around the room and make sure to explore the "what are the drawbacks of making this change?" question*
+
+<br>
+
+**SLIDE**: To end today a really well articulated argument for action
+
+<br>
+
+*Dauvergne Chapter 6 notes*
+
+- Argument: While environmentalists have long fought against criminal abuse of the environment, businesses continue to do legal, but risky things experimenting on consumers and the environment.
+- A battle for the precautionary princple
+- Case: Thomas Midgley Jr. adds ethyl to gasoline to prevent enging knock, but the tetraethyl lead does serious harm to the environment.
+- Business and government work together to undermine/slow developing scientific concerns that this is a problem.
+- Industry backed research continually "confirms" the safety of leaded gas.
+- Took until the mid-1960s for the panic to set in as people had lead levels 100 times normal.
+- Midgley was also the inventor of freon a powerful destroyer of the ozone layer and GHG used as a refrigerant.
+- While government has gotten sharper and more demanding, companies continue to "routinely introduce new chemicals and technologies with little understanding of the consequences for ecosystems and future generations" (67).
+- Industry often argues that only when harms are direct, immediate and measurable should caution be taken. And even then, if the profits are big enough (dwarfing the cost of lawsuits and fines), do it anyway!
+- There is little regulation or understanding of the risks of 1000s of chemicals on sale around the world today.
+- Case: Making Teflon added serious harms to environment, but it was profitable so industry fought to hide and suppress the research.
+- Case: Sugar substitutes doing unknown harm to the environment where they are collecting.
+- Business and industry have gone to incredible lengths to protect profitability: lobbying politicians, funding right wing think tanks, lobby world leaders, ally with commerce and natural resource departments and sue environmental agencies, initimidate grassroots activists and foment community backlash.
 
 :::
 
 
 
-
-
-
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
+## {background-image="Images/12_2-Prince_Ea.jpg" .center}
 
 ::: notes
 
+**Has anybody watched the 4 minute short film by Richard Williams (Prince Ea)?**
+
 <br>
 
-**Questions on the assignment?**
+This is excellent!
+
+- [His Epic Message Will Make You Want to Save the World | Short Film Showcase by Prince Ea](https://www.youtube.com/watch?v=B-nEYsyRlYo)
+
+<br>
+
+**Not bad, right?**
+
+<br>
+
+**SLIDE**: Reminder of plan for next week
+
+:::
+
+
+
+## Next Week {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Where is the Line Between Impactful Environmental Advocacy and Eco-Terrorism?**
+
+1. No in-person class on Tuesday (Nov 11th)
+
+2. For Thursday (Nov 13th):
+
+    - Watch Documentary: If A Tree Falls (YouTube)
+
+    - Submit: Canvas Reflection
+
+    - Read: Dauvergne Ch 7, 8 and 9
+
+::: notes
+
+Don't forget our plan for next week!
 
 :::
