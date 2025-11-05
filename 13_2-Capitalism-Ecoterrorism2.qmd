@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
@@ -31,11 +33,19 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Review Canvas submissions
+
+2. If needed, [YouTube link](https://www.youtube.com/watch?v=qwQoi0DoOKM) to *If A Tree Falls*
+
+3. Videos needed
+
+    - (6 mins) [Why activists are targeting famous art to protest climate change](https://www.youtube.com/watch?v=cK1spdjQxP0)
+    
+    - (17 mins) [Vice Story on DxE breaking into a poultry farm](https://www.youtube.com/watch?v=Vp8-rYqCAnM)
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: Our last field trip is next week!
 
 :::
 
@@ -44,20 +54,469 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
+**Field Trip: Springfield Noble Hills Sanitary Landfill**
 
-TBD
+- Thursday, Nov 20th at 9:30a
+:::
 
+![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
+
+
+::: notes
+
+NEXT Thursday we visit the landfill!
+
+- Springfield Noble Hills Landfill
+
+- Meet at 9:30a
+
+<br>
+
+Key Notes:
+
+1. Be careful as Apple maps has led people to the wrong entrance in the past!
+
+2. Wear boots and clothes that can get dirty!
+
+3. Driving into the landfill is tough so let's try to arrange trucks / SUVs
+
+4. There is a release on our Modules page you must sign and bring with you to the tour
+
+<br>
+
+**SLIDE**: Recap so we can move forward!
+
+:::
+
+
+
+## Capitalist Systems {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/12_1-Capitalism.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Refresh my memory, what is THE key characteristic of a capitalist system?**
+
+- (PRIVATE ownership of the means of production)
+
+<br>
+
+We assume:
+
+1. This creates a system in which individuals are motivated by the pursuit of profit, and
+
+2. This system functions most efficiently when markets are kept free
+
+    - e.g. prices are set by supply and demand
+
+<br>
+
+Our work over the last few weeks has been an exploration of arguments connecting this system to ecological damage
+
+- We started with Donald Worster's book on the Dust Bowl
+
+- **What are the mechanisms in Worster's argument? How specifically does capitalism cause ecological catastrophes like the Dust Bowl?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## Worster's Dust Bowl Argument  {background-image="Images/12_1-Dust_Bowl_photo_v3.png"}
+
+- American culture is capitalist
+
+- Capitalism replaces our national identity with one focused on being an isolated, economically stressed individual (consumer)
+
+- Capitalism teaches us that nature is a resource and our survival is separate from nature's survival
+
+- Capitalism shortens time horizons and creates incentives to ignore science
+
+**Therefore, capitalism caused the Dust Bowl**
+
+::: notes
+
+**How much do you recognize these mechanisms in your personal behavior?**
+
+- **Which ones? Examples?**
+
+<br>
+
+**For this argument to be convincing, do we have to believe this is the dominant view of all people in our system? Why or why not?**
+
+<br>
+
+**SLIDE**: From Worster we shifted to the work of Peter Dauvergne
+
+:::
+
+
+
+
+## Dauvergne's Argument (Part 1) {background-image="Images/background-forest_v3.png"}
+
+![](Images/12_1-nauru.jpg){.absolute left=0 top=100 width="600"}
+
+![](Images/12_1-Nauru_Mined.jpg){.absolute right=0 bottom=0 width="600"}
+
+::: notes
+
+Part 1 of Dauvergne's book is meant to help us see how our human consumption in a capitalist system is, and has been, unsustainable
+
+<br>
+
+**Based on the evidence and arguments in Part 1 of Dauvergne's book, why is embedding environmentalism in a capitalist system doomed to create ecological problems?**
+
+- (**SLIDE**)
+
+:::
+
+
+
+## Dauvergne's Argument {background-image="Images/13_2-Nauru_Mined_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**The Exploitative Strategies of Capitalism**
+
+1. Western imperialism
+
+2. Economic Globalization
+
+3. Environmentalism of the Rich
 :::
 
 ::: notes
 
+The capitalist system encourages individuals to seek profit
+
+- The promise of comfort through resource use
+
 <br>
 
-**SLIDE**: ...
+Pre-19th Century capitalism inspired the powerful to use imperialism as a tactic of maximizing profit
+
+- HUGELY destructive to the peoples and ecology of the developing world
+
+<br>
+
+After the world wars, imperialism got a bad name so a new tactic was needed and the world needed to be rebuilt
+
+- Welcome to the forces of globalization!
+
+- No longer about domination by an external state, now it's about domination by the global markets and businesses
+
+- Per Dauvergne, this was also HUGELY destructive to the peoples and ecology of the developing world
+
+<br>
+
+Criticisms of globalization reach a crescendo so capitalism creates a new tactic: the environmentalism of the rich
+
+- Promotes cleaner processes and greater efficiency and the spread of corporate social responsibility
+
+- HOWEVER the efficiency just breeds more production and consumption which creates ecological doom and exploitation...
+
+<br>
+
+**Given our work so far in this section, are you convinced by Dauvergne that environmentalism belongs on this list? Why or why not?**
+
+<br>
+
+**How do the arguments about the precautionary principle fit into this conversation?**
+
+- (Is this what a more substantial environmentalism would be fighting for?)
+
+<br>
+
+Our work for today is to dig more into this argument in order to keep exploring these two big picture questions:
+
+1. Does environmentalism belong on this list?
+
+2. What would a meaningful environmentalism look like moving forward?
+
+<br>
+
+*Split class into four groups (maximize board space)*
+
+- Go sit with your group
+
+<br>
+
+**SLIDE**: Dauvergne sets the proverbial table by first laying out the good accomplished by the environmental movement
 
 :::
 
 
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Dauvergne Evaluates Environmentalism (Chapter 7)**
+:::
+
+![](Images/13_2-peoples-climate-march-al.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Big picture, in chapter 7 why does Dauvergne refer to environmentalism as a "movement of movements"?**
+
+- Deep philosophical and policy differences have long characterized environmentalism.
+
+- Broad dimension running from radicals (remake the world economy!) to reformers (use institutions to guide globalization to do good).
+
+<br>
+
+**According to Dauvergne, what are some of the broad accomplishments of the modern environmental movement?**
+
+- **e.g. How does he celebrate the movement he is about to savage with his critiques?**
+
+<br>
+
+- "National environmental organizations have also grown considerably since the 1970s" (79).
+
+- "Just about every country now has an environmental agency, and over a thousand International environmental treaties are in place" (79).
+
+- "Just about every culture has come to embrace the language of sustainability (80). 
+
+    - Swamps have become Wetlands, jungles have become biodiversity hotspots, whales are now seeing as sentient and majestic beings, not target practice like they were in the early part of the 20th century.
+    
+- The environmental movement can even take credit for transforming ways of learning and educating citizens.
+
+- Meanwhile, billions of people are recycling and composting.
+
+<br>
+
+**And yet, what is the HUGE caveat he ends chapter 7 with?**
+
+- Despite all of this, we must acknowledge that at the global level of biodiversity, oceans, freshwater, rainforests, agricultural lands, and the climate are continuing to deteriorate.
+
+<br>
+
+**SLIDE**: How does a "movement of movements" produce bad outcomes?
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Capitalism Creates an Environmentalism of the Rich**
+:::
+
+<br>
+
+"More important, however, has been the innate power of consumer capitalism to distort and assimilate counternarratives and countermovements, especially critiques of wealth and economic growth" (p76).
+
+::: notes
+
+Fundamentally, Dauvergne sees the capture of environmentalism as the next tactic of capitalism to continue exploiting the environment
+
+- Western imperialism gave way to globalization and globalization has adopted a "green" language in order to keep doing what it always has
+
+<br>
+
+**SLIDE**: Ok, let's use Chapters 8 and 9 to flesh out this argument and to see what Dauvergne proposes as models of better advocacy
+
+:::
+
+
+
+
+##  {background-image="Images/background-forest_v3.png" .center}
+
+### Per Dauvergne, what are the "right" vs "wrong" ways to do environmental advocacy?
+
+- Modern environmentalism is a creation of the West and is now too responsive only to the West (Chapter 7)
+
+- Capitalism shapes activism and activists to fit into the system and disappears the outliers (Chapter 8)
+
+- Radical environmentalism is necessary but should move forward in non-violence (Chapter 9)
+
+::: notes
+
+**Ok groups, according to Dauvergne what are the "right" and "wrong" ways to do environmental advocacy?**
+
+- **Find us examples of the "right" and "wrong" models of environmental advocacy from Dauvergne Ch7-9**
+
+- Get two lists up on the board!
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+<br>
+
+**SLIDE**: Let's reflect on these lists using other cases and see where we stand on all this
+
+<br>
+
+*Notes from the reading*
+
+Chapter 8
+
+- The life of Bruno Manser, a brave activist and the assault on activism
+- This guy really pushed the boundaries. 
+    - Does he go too far?
+- "The global campaign to save the world's remaining rainforests has grown even bigger since Manser's disappearance in 2000. Indigenous peoples and environmentalists continue to oppose loggers and organize public protests. Such resistance remains extremely dangerous for activists. Across 35 countries the NGO Global Witness found over 900 recorded murders of environmental activists from 2002 to 2013, with the average number of killings each year more than doubling after 2009" (96).
+- Many more have "disappeared" or suffered "accidents" with the Brazilian Amazon representing the most dangerous place for activists.
+- "...environmentalism of the rich has increasingly come to characterize rainforest activism as more and more environmentalists cooperate with multinational corporations and growth-oriented government's, endorsing the value of international trade, foreign direct investment, and privatization, and relying on certification and eco-consumerism as solutions" (96-97).
+- Ending Deforestation?
+    - "...but overall progress in slowing tropical deforestation has been frustratingly slow. Loopholes abound and implementation of regulations is generally weak" (97).
+    - China "is now the largest overall consumer of tropical timber in Asia... Somewhere between 30 and 80% of the Timber flowing through China is illegal" (98).
+    - Despite the work of the environmental movement and the creation of corporate alliances, the rate of tropical deforestation has been rising steadily since 2000.
+    - "...governments and corporations around the world are now claiming that the end of deforestation is in sight, if only we can embrace state-led sustainable development, corporate-led responsibility, and consumer-led demand for sustainable products--three core messages of environmentalism of the rich" (100).
+
+
+Chapter 9
+
+- My stab: Radical environmentalism is necessary but should move forward in non-violent ways.
+- The framing of eco-terrorism
+    - Is Jane Goodall a radical or a sellout?
+    - Patrick Moore, from Greenpeace to industry insider
+    - Captain Paul Watson, becoming more militant over time with the Sea Shepard Conservation Society
+- Ecotage vs Eco-Terrorism
+    - The Animal Liberation Front (ALF) and the Earth Liberation Front (ELF)
+    - "...organize in secret cells and urge individuals to join by taking direct action to oppose industrial farming, animal testing, and animal cruelty. Such leaderless and underground structures can attract Lone Wolf zealots, and differentiating between legitimate and illegitimate acts is nearly impossible. Both movements, however, claimed to be nonviolent, urging followers to take precautions to try to avoid harming any life" (107).
+- Radical environmentalism is possible without violence
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/13_2-If-Tree-Falls.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Ok, big picture, what did you think of the documentary If A Tree Falls?**
+
+<br>
+
+**Canvas Discussion: Are you convinced that Daniel McGowan committed an act of terrorism? Why or why not?**
+
+- (**SLIDE**: US government defines domestic terrorism)
+
+:::
+
+
+
+## 18 U.S. Code 2331 {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/13_2-18USC2331.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Here's the US government's definition
+
+- **What do you think of this as a definition of "terrorism"?**
+
+- **Is this consistent with your intuitions about the idea? Why or why not?**
+
+<br>
+
+**So, did Daniel McGowan commit an act of terrorism per this definition?**
+
+<br>
+
+**Based on the readings, how would Dauvergne evaluate the actions of Daniel McGowan?**
+
+<br>
+
+**Does this definition make terrorism a weapon that can be used to control activists adopting models in line with Dauvergne's book? Why or why not?**
+
+- **I'm NOT suggesting we stop punishing crimes against people or property but want us to reflect on why advocacy crimes should be punished more aggressively than other crimes**
+
+<br>
+
+**SLIDE**: Let's debate some more examples of environmental advocacy!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/13_2-climate_protestors.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+PLAY VIDEO CLIP: (6 mins) Why activists are targeting famous art to protest climate change
+
+<br>
+
+**What do we think? Is this the "right" kind of environmental advocacy? Why or why not?**
+
+<br>
+
+- **In what ways might this be effective?**
+
+- **In what ways is this likely to be counter-productive?**
+
+<br>
+
+**SLIDE**: Another case
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/13_2-poultry_protest.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+PLAY VIDEO CLIP: (17 mins) Vice Story on DxE breaking into a poultry farm
+
+<br>
+
+Direct Action Everywhere (DxE) is an animal liberation group that is notorious for its large-scale actions which sometimes involve illegal tactics such as civil disobedience and trespassing.
+
+- **What do we think? Is this the "right" kind of environmental advocacy? Why or why not?**
+
+<br>
+
+- **In what ways might this be effective?**
+
+- **In what ways is this likely to be counter-productive?**
+
+<br>
+
+**SLIDE**: The big argument
+
+:::
+
+
+
+## Dauvergne's Argument {background-image="Images/13_2-Nauru_Mined_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**The Exploitative Strategies of Capitalism**
+
+1. Western imperialism
+
+2. Economic Globalization
+
+3. Environmentalism of the Rich
+:::
+
+::: notes
+
+**Has Dauvergne convinced you that our environmental movements have been co-opted by capitalism?**
+
+<br>
+
+**And are you buying that the "environmentalism of the rich" belongs on this list? e.g. that it is a problem?**
+
+
+:::
 
 
 
@@ -66,8 +525,23 @@ TBD
 
 <br>
 
+::: {.r-fit-text}
+
+Dauvergne's (2016) *Environmentalism of the Rich*
+
+- Chapter 10, 11 and 12
+
+- Canvas reflection
+
+:::
 
 ::: notes
+
+Next class we complete the Dauvergne book
+
+- These final chapters finish his critique of modern environmentalism and then make a series of proposals for what we need to do about all of this
+
+- I'm looking forward to hearing what you think!
 
 <br>
 
