@@ -14,6 +14,8 @@ library(kableExtra)
 
 **Section 3: Current Challenges in American Environmentalism**
 
+<br>
+
 ::: {.r-fit-text}
 
 **3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
@@ -31,31 +33,228 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Check Canvas submissions
+
+2. Video clips
+
+    - [Netflix Seaspiracy](https://www.netflix.com/title/81014008)
+    
+3. IDEA Eval Day on next slide
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: IDEA Evals
 
 :::
+
+
+
+## Course Evaluations (IDEA) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+[https://drury.campuslabs.com/eval-home/](https://drury.campuslabs.com/eval-home/)
+:::
+
+::: notes
+
+The link for the IDEA evaluations is here.
+
+- I'll give you ten minutes to complete them
+
+- Super important feedback and I appreciate you taking the time to do it
+
+<br>
+
+IFF everyone in class submits their evals for this class I will give everyone EC on the final grade!
+
+- So, get em done!
+
+<br>
+
+**SLIDE**: Final field trip is Thursday!
+
+:::
+
 
 
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
+**Field Trip: Springfield Noble Hills Sanitary Landfill**
 
-TBD
+- Thursday, Nov 20th at 9:30a
+:::
 
+![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
+
+
+::: notes
+
+Thursday we visit the landfill!
+
+- Springfield Noble Hills Landfill
+
+- Meet at 9:30a
+
+<br>
+
+Key Notes:
+
+1. Be careful as Apple maps has led people to the wrong entrance in the past!
+
+2. Wear boots and clothes that can get dirty!
+
+3. Driving into the landfill is tough so let's try to arrange trucks / SUVs
+
+4. There is a release on our Modules page you must sign and bring with you to the tour
+
+<br>
+
+**SLIDE**: One more time, let's recap!
+
+:::
+
+
+
+## Capitalist Systems {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/12_1-Capitalism.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**By a "capitalist system," what are we describing?**
+
+- (PRIVATE ownership of the means of production)
+
+<br>
+
+**SLIDE**: To the Dust Bowl
+
+:::
+
+
+
+## Did capitalism cause the Dust Bowl? {background-image="Images/12_1-Dust_Bowl_photo.avif"}
+
+::: notes
+
+**According to Worster, what specific mechanisms connect the private ownership of the means of production to ecological catastrophe?**
+
+<br>
+
+- American culture is capitalist
+
+- Capitalism replaces our national identity with one focused on being an isolated, economically stressed individual (consumer)
+
+- Capitalism teaches us that nature is a resource and our survival is separate from nature's survival
+
+- Capitalism shortens time horizons and creates incentives to ignore science
+
+<br>
+
+**How convincing do you find this argument?**
+
+<br>
+
+**SLIDE**: Dauvergne extends the argument
+
+:::
+
+
+
+## Dauvergne's Argument {background-image="Images/13_2-Nauru_Mined_v2.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+**The Exploitative Strategies of Capitalism**
+
+1. Western imperialism
+
+2. Economic Globalization
+
+3. Environmentalism of the Rich
 :::
 
 ::: notes
 
+**In Part 1 of his book, did Dauvergne convince you that Western environmentalism deserves to be on this list?**
+
+- **What specific pieces of evidence did you find most convincing?**
+
 <br>
 
-**SLIDE**: ...
+- Globalization is supremely destructive without ever needing to conquer your lands
+
+- Despite our efforts to be more sustainable we are rapidly consuming the earth’s resources and filling the world with poison
+
+- Modern environmentalism is a creation of the West and is now too responsive only to the West (Chapter 7)
+
+- Capitalism shapes activism and activists to fit into the system and disappears the outliers (Chapter 8)
+
+- Radical environmentalism is necessary but should move forward in non-violence (Chapter 9)
+
+<br>
+
+**SLIDE**: Then what does this mean if our goal is effective environmental advocacy?
 
 :::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+::: {.r-fit-text}
+**What is effective environmental advocacy?**
+:::
+
+![](Images/13_2-poultry_protest.webp){.absolute width="550" left=0 top=100}
+
+![](Images/13_2-climate_protestors.webp){.absolute width="550" right=0 bottom=50}
+
+::: notes
+
+**What does it mean to be "effective" in these times?**
+
+- **Is Dauvergne advocating for radicalism or something else?**
+
+<br>
+
+
+
+
+3. Today: Wrapping up Dauvergne and considering the options for moving forward
+4. Ch10 Argument: What can we accomplish with social media and consumer-type campaigns?
+- Are you impressed by the examples of "Mindbombing the Wealthy"? Why or why not?
+5. Ch11 Argument: Do companies gain more from partnering with green NGOs than they give up?
+- (7 mins) Seaspiracy (1hr30) on Netflix: 44:30 - 51:40: Arguments criticizing Sierra Club and Oceana for supporting "sustainable fishing" to protect their membership models AND the Marine Stewardship Council (MSC) for deriving 80% of its revenue from licensing their logo
+- Are you convinced that an environmentalism that embraces partnerships is one that cannot achieve the needed ends?
+6. Ch12 Argument: We must grapple with the serious limitations in our "Environmentalism of the Rich"
+- Evaluate the specific recommendations
+- "...getting people to consume less and differently is crucial for global sustainability" (150). 
+- "Moving high consuming lifestyles toward a fair earth share will therefore require far-reaching political and economic reforms... Stricter International and domestic laws to protect ecosystems and human rights are necessary. So are measures to end extreme and equality and stop corporate pillaging. So are far higher levels of precaution when introducing new technologies and chemicals. And so is a new energy base for our economies: carbon neutral, with fair distribution. Most challenging of all, we will need more people, especially those with power and money, to accept more responsibility for the consequences of the sources of their wealth, owning up to historical wrongs and to contemporary inequities so new rules and institutions can be put in place" (150). 
+- "Controls must be placed on the institutions of overconsumption and wasteful consumption, including the automobile industry, the chemical industry, the construction industry, the fossil fuel industry, the mining industry, the fishing industry, the timber industry, the advertising industry, the fast food industry, the discount retail industry, and the agricultural industry" (151). 
+- "a politics of global sustainability must respect nature, demand intergenerational equity, advance environmental justice, and promote fair economics without irreparably harming present or future life. It must restrain corporations as well as unbalanced growth and consumption. And it must recognize that socioeconomic and ecological systems interlock, putting in place measures to balance systems that are interacting with increasing speed and volatility" (151).
+7. Assignment for NEXT TUESDAY
+
+
+
+
+
+:::
+
+
+
+
+
+
+
+
+
+
 
 
 

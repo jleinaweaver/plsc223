@@ -29,13 +29,41 @@ Justin Leinaweaver (Fall 2025)
 ::: notes
 Prep for Class
 
-1. ...
+1. Check Canvas submissions
 
 <br>
 
-**SLIDE**: ...
+**SLIDE**: IDEA evaluations (if needed)
 
 :::
+
+
+
+
+## Course Evaluations (IDEA) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+[https://drury.campuslabs.com/eval-home/](https://drury.campuslabs.com/eval-home/)
+:::
+
+::: notes
+
+REMEMBER, IFF everyone in class submits their evals for this class I will give everyone EC on the final grade!
+
+- So, get em done!
+
+<br>
+
+**SLIDE**: 
+
+
+
+:::
+
+
+
 
 
 
