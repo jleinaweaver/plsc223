@@ -83,9 +83,9 @@ IFF everyone in class submits their evals for this class I will give everyone EC
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Field Trip: Springfield Noble Hills Sanitary Landfill**
+**Springfield Noble Hills Sanitary Landfill**
 
-- Thursday, Nov 20th at 9:30a
+- Thursday: Sarah Sims joining us in class
 :::
 
 ![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
@@ -93,23 +93,13 @@ IFF everyone in class submits their evals for this class I will give everyone EC
 
 ::: notes
 
-Thursday we visit the landfill!
-
-- Springfield Noble Hills Landfill
-
-- Meet at 9:30a
+*Field trip slide moved to end*
 
 <br>
 
-Key Notes:
+Due to the stormy forecast I've asked Sarah Sims from the Department of Environmental Services to come to us on Thursday
 
-1. Be careful as Apple maps has led people to the wrong entrance in the past!
-
-2. Wear boots and clothes that can get dirty!
-
-3. Driving into the landfill is rocky and unpaved beyond the parking lot SO carpool by truck / SUV
-
-4. **There is a release on our Modules page you must sign and bring with you to the tour**
+- SO, come to class as normal on Thursday!
 
 <br>
 
@@ -354,10 +344,14 @@ Dauvergne argues that corporate partnerships with green NGOs represent the "fore
 
 ## {background-image="Images/background-forest_v3.png" .center .smaller}
 
+::: {.r-fit-text}
 **Corporate money and partnerships with Green NGOS...**
+:::
 
 :::: {.columns}
 ::: {.column width="48%"}
+**The Good**
+
 - Finances green projects, programs, and technologies
 
 - Pays for NGO staff, supplies, buildings, and campaign costs
@@ -371,6 +365,8 @@ Dauvergne argues that corporate partnerships with green NGOs represent the "fore
 :::
 
 ::: {.column width="48%"}
+**The Bad**
+
 - Cedes authority to the businesses as the decision-makers
 
 - Defuses "criticism of the growth, sales, and profit models of multinational investors, manufacturers, and retailers
@@ -395,6 +391,8 @@ Dauvergne argues that corporate partnerships with green NGOs represent the "fore
 Let's look at more recent evidence
 
 - PLAY VIDEO CLIP: (7 mins) Seaspiracy (1hr30) on Netflix: 44:30 - 51:40
+
+- IF ENOUGH TIME PLAY VIDEO CLIP (sets up the scope of the problem): (13 mins) 38:48 - 51:40
 
 - *Arguments criticizing Sierra Club and Oceana for supporting "sustainable fishing" to protect their membership models AND the Marine Stewardship Council (MSC) for deriving 80% of its revenue from licensing their logo*
 
@@ -514,13 +512,15 @@ I'd like to now circle back to the environmental advocacy material
 
 
 
-## For Next Class (Nov 25th) {background-image="Images/background-forest_v3.png" .center}
+## Due Next Tuesday (Nov 25th) {background-image="Images/background-forest_v3.png" .center}
 
 <br>
 
 **Identify a Local Environmental Problem**
 
 - Collect examples of local problems we need to investigate and address
+
+- No overlap!
 
 
 ::: notes
@@ -533,9 +533,52 @@ Explain the local environmental problem you have selected for the final paper.
 2. Why did you pick it? (e.g. why is it interesting to you?) (2+ sentences)
 3. Who is being harmed by it and in what specific ways? (3+ sentences AND provide evidence for these claims)
 
-
 <br>
 
 **Questions on the assignment?**
+
+:::
+
+
+
+
+## Old slides
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Field Trip: Springfield Noble Hills Sanitary Landfill**
+
+- Thursday, Nov 20th at 9:30a
+:::
+
+![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
+
+
+::: notes
+
+*Field trip slide moved to end*
+
+Thursday we visit the landfill!
+
+- Springfield Noble Hills Landfill
+
+- Meet at 9:30a
+
+<br>
+
+Key Notes:
+
+1. Be careful as Apple maps has led people to the wrong entrance in the past!
+
+2. Wear boots and clothes that can get dirty!
+
+3. Driving into the landfill is rocky and unpaved beyond the parking lot SO carpool by truck / SUV
+
+4. **There is a release on our Modules page you must sign and bring with you to the tour**
+
+<br>
+
+**SLIDE**: One more time, let's recap!
 
 :::

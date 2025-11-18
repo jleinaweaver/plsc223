@@ -50,10 +50,10 @@
 
 14_1-Capitalism-The_Limits_of_Environmentalism.html
 
-14_2-Capitalism-Environmental_Sustainability_Collaborative.html
+14_2-VISIT-Landfill.html
 
-15_1-Paper3-ID_Problem.html
+14_3-Paper3-ID_Problem.html
 
-15_2-Paper3-Problem_Causes.html
+15_1-Paper3-Outline.html
 
-15_3-Paper3-Case_Study.html
+15_2-Paper3-Draft.html

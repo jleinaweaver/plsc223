@@ -16,7 +16,7 @@ library(kableExtra)
 
 **Section 4: Analyzing an Environmental Problem**
 
-- Identify a Local Environmental Problem
+- Identifying Local Environmental Problems
 
 :::
 
@@ -31,9 +31,13 @@ Prep for Class
 
 1. Check Canvas submissions
 
+2. Make a note of who plans to complete the volunteer hours (attendance sheet)
+
+3. Have the class circle up to share local cases
+
 <br>
 
-**SLIDE**: IDEA evaluations (if needed)
+**SLIDE**: IDEA evaluation reminder (if needed)
 
 :::
 
@@ -56,14 +60,149 @@ REMEMBER, IFF everyone in class submits their evals for this class I will give e
 
 <br>
 
-**SLIDE**: 
-
-
+**SLIDE**: Volunteer hours
 
 :::
 
 
 
+## {background-image="Images/background-forest_v3.png" .center}
+
+### You Give
+
+Complete **12 volunteer hours** with SGF Community Gardens or Ozark's Food Harvest **BEFORE THE END of week 15 (Dec 15)**
+
+<br>
+
+### You Get
+
+1. You are excused from the final paper, and
+
+2. You are excused from the final week of classes
+
+::: notes
+
+**Who is going to hit the volunteer hours to get excused from next week and the final paper?**
+
+- *Make a note on attendance sheet for next week*
+
+<br>
+
+For those of you completing the vounteer option, this is the last class of our semester.
+
+- **SLIDE**: So, let's wrap things up and then we can segue into the final paper and plan for next week
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+::: {.r-fit-text}
+**Reflections on Wilderness and Ourselves**
+:::
+
+![](Images/01_1-Drury_Campus.jpeg){.absolute width=425 left=0 top=125}
+
+![](Images/02_1-Nash_Book_Cover.png){.absolute right=50 width=300}
+
+![](Images/03_1-Nature_Center3.jpg){.absolute width=435 left=300 bottom=25}
+
+::: notes
+
+We spent the first two weeks of our semester reflecting on the wilderness and our experiences of it.
+
+- We explored Drury's campus,
+
+- We reflected on the evolution of the word "wilderness" itself using the Nash chapter, 
+
+- You shared with us your own personal wilderness experiences, and 
+
+- We visited the Nature Center to get hands-on with the local environment
+
+<br>
+
+My hope was to use this material and these experiences to get a sense of who you are and your personal perspectives on nature before I asked you to explore the wider literature.
+
+<br>
+
+**SLIDE**: One of the big takeaways from our work in this section
+
+:::
+
+
+
+## A Spectrum of Environments {background-image="Images/background-forest_v3.png" .center}
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 0) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](Images/02_1-city_street.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/02_1-wilderness.jpg)
+:::
+
+::::
+
+::: notes
+
+**Does everybody remember this spectrum concept from Nash?**
+
+- **Remind me, what does this help us do?**
+
+<br>
+
+Defining the wilderness (or nature or the environment)
+
+- Wilderness or nature is a quality, NOT a "thing"
+
+<br>
+
+**How does Nash define the quality of something that is purely wild?**
+
+- (Seems to be: The absence of human influence on the environment)
+
+**What about purely civilized?**
+
+- (The highest levels of human intereference or shaping of the environment)
+
+**And what are the qualities of something precisely in the middle?**
+
+- (The middle are the rural or pastoral environment (the ploughed) that represents a balance of the forces of nature and man)
+
+<br>
+
+From this perspective the environment is everything around us.
+
+- There are no distinctions to be raised about how far "environmental" concerns can reach
+
+- The question becomes what is the quality of the environments we live in and how should we balance the wild with the civilized in all of them
+
+- **Does that still make sense?**
+
+<br>
+
+**SLIDE**: Section 2 of the class
+
+:::
 
 
 
@@ -71,32 +210,355 @@ REMEMBER, IFF everyone in class submits their evals for this class I will give e
 
 ::: {.r-fit-text}
 
-TBD
+**Section 2: Historical Perspectives on Wilderness**
+
+- Edenic Narratives
+
+- Sublime Narratives
+
+- Utility Narratives
+
+- Holistic Narratives
 
 :::
 
 ::: notes
 
+Section 2 of our class was an exploration of some of the dominant narratives in the history of the human relationship to the wilderness.
+
 <br>
 
-**SLIDE**: ...
+**Refresh my memory, per the Edenic perspective, what is the value of the wilderness? What is its purpose?**
+
+- Wilderness is a resource we use to improve our lives and relieve human suffering (*Edenic Narrative*)
+
+<br>
+
+**Per the Sublime perspective, what is the value of the wilderness? What is its purpose?**
+
+- Wilderness is a special place that connects us to the grandeur of the natural world (*Sublime Narrative*)
+
+<br>
+
+**Per the Utility perspective, what is the value of the wilderness? What is its purpose?**
+
+- Wilderness is a resource to improve lives but must be managed so we don't run out (*Utility*)
+
+<br>
+
+**Per the Utility perspective, what is the value of the wilderness? What is its purpose?**
+
+- Wilderness is NOT a resource, it is our community and we depend upon it to live (*Holistic*)
+
+<br>
+
+My argument to you this semester has been that you will be a more effective problem-solver in our community IF you better understand:
+
+1. Our current debates have long historical roots,
+
+2. Our relationship to the environment has been evolving over time, and
+
+3. Solving real-world problems means understanding how your stakeholders view the world
+
+<br>
+
+**Make sense?**
+
+<br>
+
+**SLIDE**: Section 3 of the class
 
 :::
 
 
 
+## {background-image="Images/08_2-clean-air-protest-sign.jpg"}
 
+::: {.r-fit-text}
+<p style="color: white;">**The Environmental Justice Problem**</p>
+:::
 
+::: notes
 
-## For Next Class {background-image="Images/background-forest_v3.png" .center}
+Section 3.1 of our class focused on environmental justice
 
 <br>
 
+**Big picture, what is the problem we are talking about here?**
+
+- (It appears clear from the evidence that environmental harms are not equally distributed across racial and ethnic groups in our society.)
+
+<br>
+
+In this section of the class we reviewed:
+
+- The flawed and racist history of the environmental movement, 
+
+- The empirical data on the placement of environmental harms in our country, and
+
+- We visited two organizations working on these problems locally: Ozark's Food Harvest and the Springfield Community Gardens
+
+<br>
+
+**Based on the work and data from this section, how substantial would you say the environmental justice problem is in our community?**
+
+<br>
+
+**SLIDE**: Section 3.2 
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png"}
+
+::: {.r-fit-text}
+**Capitalism and the Drive for More**
+:::
+
+![](Images/12_1-nauru.jpg){.absolute left=0 top=150 width="600"}
+
+![](Images/12_1-Nauru_Mined.jpg){.absolute right=0 bottom=0 width="600"}
 
 ::: notes
+
+The final section of our class explored a ton of material on the role of capitalism as an obstacle to environmentalism
+
+- We've been hitting this pretty hard over the last few weeks so I won't ask you to recap all of this material again!
+
+<br>
+
+The long and short of it was a series of arguments that:
+
+- Capitalism compels us to consume in unsustainable ways, AND
+
+- Capitalism is excellent at co-opting those who would push back on its impulses (e.g. environmentalism of the rich)
+
+<br>
+
+**SLIDE**: Overall our semester plan
+
+:::
+
+
+
+## Course Outline {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_2-Syllabus_Topics.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+This last section of the class is meant to:
+
+1. Tie all of our conceptual work this semester into the real-world once again, and
+
+2. Represent the bridge from this course into the rest of the Designing Solutions to Environmental Problems certificate
+
+<br>
+
+That means asking you to identify and analyze a real-world environmental problem from our community.
+
+- **SLIDE**: Final paper prompt
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Paper 3: Analyzing a Current Environmental Problem**
+:::
+
+<br>
+
+Make an argument that our community needs to address an important, local environmental problem.
+
+::: notes
+
+The paper is due before the end of our final exam window for this class
+
+- Dec 11th, 12:20p (Thursday)
+
+- No late submissions can be accepted
+
+<br>
+
+This exercise asks you to write an argument very much like the other two papers you have written for me in this class
+
+- The paper must advance a single thesis,
+
+- Your thesis must be advanced by three premises,
+
+- Each premise of the paper must be clearly explained and supported by high quality evidence, and
+
+- You must use APA in-text citations
+
+<br>
+
+**Big picture, and before we talk premises, does that make sense?**
+
+<br>
+
+**SLIDE**: I'm going to ask you to do three things in this paper
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+Your argument must include the following **THREE** elements:
+
+::: {.incremental}
+1. Make clear the scope of the problem (e.g. who is being harmed and in what specific ways?)
+2. Make clear why this problem exists (e.g. how do the actions of individuals and/or groups create this problem?)
+3. Find us an example of a community anywhere in the world that has solved a problem like this, explain how they did it and what we can learn from their success.
+:::
+
+::: notes
+
+In short, I am going to describe what exactly I want from the three premises in your paper
+
+- **REVEAL x 3**
 
 <br>
 
 **Questions on the assignment?**
+
+<br>
+
+**SLIDE**: Alright, let's talk options for the paper!
+
+<br>
+
+Paper 3: Analyzing a Current Environmental Problem
+
+Make an argument that our community needs to address an important, local environmental problem.
+
+Your argument must include the following THREE elements:
+
+1. Make clear, with evidence and explanation, the scope of the problem (e.g. who is being harmed and in what specific ways?)
+2. Make clear, with evidence and explanation, why this problem exists (e.g. how do the actions of individuals and/or groups create this problem?)
+3. Find us an example of a community anywhere in the world that has solved a problem like this and explain how they did it and what we can learn from their success.
+
+Please note that this is an argument paper, not an opinion piece. That means the paper must advance a single thesis (e.g. a central argument), and each component of the paper must be clearly explained and supported by high quality evidence.
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Springfield Noble Hills Sanitary Landfill**
+:::
+
+![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**Ok, what did we learn from our visit with Sarah Sims about the landfill?**
+
+- **How serious a problem does our community face in terms of waste disposal?**
+
+<br>
+
+**How many different environmental problems can we brainstorm just from thinking about the landfill?**
+
+- (*ON BOARD*)
+
+<br>
+
+**SLIDE**: Let's add your Canvas submissions to the options on the board!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Identifying Local Environmental Problems**
+:::
+
+1. What is the specific problem?
+
+2. Why did you pick it?
+
+3. Who is being harmed by it and in what specific ways?
+
+
+::: notes
+
+*Go around the room to collect problem options ON BOARD*
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+<br>
+
+Canvas Assignment: Identify a Local Environmental Problem (10 pts)
+
+Explain the local environmental problem you have selected for the final paper.
+
+1. What is the specific problem? (2+ sentences)
+2. Why did you pick it? (e.g. why is it interesting to you?) (2+ sentences)
+3. Who is being harmed by it and in what specific ways? (3+ sentences AND provide evidence for these claims)
+
+:::
+
+
+
+
+## Submit: Outline the Final Paper {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+Introduction
+
+- What is the question you are answering?
+- What is the problem you are targeting?
+- Why is this an important problem?
+
+Premise 1: Who is being harmed by the problem and in what specific ways?
+
+Premise 2: Why does the problem exist? (e.g. whose actions are creating the problem?)
+
+Premise 3: What is a relevant policy example that can help us solve the problem in our community?
+
+
+::: notes
+
+Provide an outline of your final paper:
+
+- Use bullet points BUT must be complete sentences,
+
+- Must include AT LEAST one piece of cited evidence for each premise
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas Assignment: Outline the Final Paper
+
+Provide an outline of your final paper using bullet points (complete sentences) and with AT LEAST one piece of cited evidence for each component (introduction, premise 1, premise 2 and premise 3).
+
+Introduction
+
+- What is the question you are answering?
+- What is the problem you are targeting?
+- Why is this an important problem?
+
+Premise 1: Who is being harmed by the problem and in what specific ways?
+
+Premise 2: Why does the problem exist? (e.g. whose actions are creating the problem?)
+
+Premise 3: What is a relevant policy example that can help us solve the problem in our community?
+
 
 :::

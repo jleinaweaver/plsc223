@@ -1,0 +1,165 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-forest_v3.png" .center}
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Section 4: Analyzing an Environmental Problem**
+
+- Outlining the final paper
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2025)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+<br>
+
+**SLIDE**: Final prompt
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center .smaller}
+
+**Paper 3: Analyzing a Current Environmental Problem**
+
+<br>
+
+Make an argument that our community needs to address an important, local environmental problem.
+
+1. Make clear the scope of the problem (e.g. who is being harmed and in what specific ways?)
+2. Make clear why this problem exists (e.g. how do the actions of individuals and/or groups create this problem?)
+3. Find us an example of a community anywhere in the world that has solved a problem like this, explain how they did it and what we can learn from their success.
+
+::: notes
+
+The paper is due before the end of our final exam window for this class
+
+- Dec 11th, 12:20p (Thursday)
+
+- No late submissions can be accepted
+
+<br>
+
+This exercise asks you to write an argument very much like the other two papers you have written for me in this class
+
+- The paper must advance a single thesis,
+
+- Your thesis must be advanced by three premises,
+
+- Each premise of the paper must be clearly explained and supported by high quality evidence, and
+
+- You must use APA in-text citations
+
+<br>
+
+**Questions on the prompt?**
+
+<br>
+
+**SLIDE**: Assignment for today
+
+:::
+
+
+
+
+## Outline the Final Paper {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+Introduction
+
+- What is the question you are answering?
+- What is the problem you are targeting?
+- Why is this an important problem?
+
+Premise 1: Who is being harmed by the problem and in what specific ways?
+
+Premise 2: Why does the problem exist? (e.g. whose actions are creating the problem?)
+
+Premise 3: What is a relevant policy example that can help us solve the problem in our community?
+
+::: notes
+
+Ok, I'd like you to get feedback on your outline from EVERYONE in class
+
+- Go read each other's outlines and make suggestions to improve them
+
+    - Is the macro structure of the paper in good shape?
+    
+    - Is the meso structure of the paper in good shape?
+
+    - Do the premises make sense?
+
+    - Is the evidence high quality enough?
+
+<br>
+
+**SLIDE**: Assignment for next class
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**For Next Class: Completed Rough Draft**
+:::
+
+<br>
+
+Before class you must submit to Canvas a completed rough draft of your final paper. 
+
+- All needed components are included (introduction, three premises and a conclusion),
+
+- All components written as paragraphs, not bullet points, and
+
+- Includes a bibliography with all cited material
+
+
+::: notes
+
+Bring a copy printed out or in a format you are comfortable sharing.
+
+- On Thursday I want you to read other people's drafts and them to read yours
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas Assignment: Completed Rough Draft
+
+Before class you must submit to Canvas a completed rough draft of your final paper. 
+
+"Completed" in this case means:
+
+- All needed components are included (introduction, three premises and a conclusion),
+- All components written as paragraphs, not bullet points, and
+- Includes a bibliography with all cited material
+
+
+:::
