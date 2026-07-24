@@ -1,0 +1,428 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-forest_v3.png" .center}
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+```
+
+<br>
+
+**Section 3: Current Challenges in American Environmentalism**
+
+<br>
+
+::: {.r-fit-text}
+
+**3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
+
+- Reflecting on our Behavior as Consumers
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Review Canvas submissions
+
+2. Set up the Ken Burns documentary on the Dust Bowl, Episode 1, 0-23:15
+
+3. Try to save 30 mins for the documentary + discussion
+
+    - Activity 1: Debriefing the field trips and canvas assignments from last week (groups doing good work)
+    
+    - Activity 2: Reporting back on today's assignment
+    
+    - Activity 3: Dust Bowl documentary
+
+<br>
+
+**SLIDE**: Let's review our work last week
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Ozark's Food Harvest Distribution Center**
+:::
+
+![](Images/09_1-Ozark_Food_Harvest.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Big picture, let's talk takeaways from visiting Ozark's Food Harvest
+
+<br>
+
+**What specific environmental justice issues are they working on?**
+
+- **What impressed you about their work?**
+
+- (Providing food to seniors and school age children many of whom may live in food deserts due to poverty)
+
+- (Minimizing food waste from reaching the landfill thanks to their partnering with local grocery stores)
+
+<br>
+
+**Where can we plug in and get involved with them?**
+
+- **How do we help?**
+
+<br>
+
+**SLIDE**: SGF community gardens
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Springfield Community Gardens**
+:::
+
+![](Images/09_1-SGF_Community_Gardens.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Big picture, let's talk takeaways from visiting the Springfield Community Gardens
+
+<br>
+
+**What specific environmental justice issues are they working on?**
+
+- **What impressed you about their work?**
+
+<br>
+
+**Where can we plug in and get involved with them?**
+
+<br>
+
+**SLIDE**: Replacing the final exam
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+### You Give
+
+Complete **12 volunteer hours** with SGF Community Gardens or Ozark's Food Harvest **BEFORE THE END of week 15 (Dec 5)**
+
+<br>
+
+### You Get
+
+1. You are excused from the final paper, and
+
+2. You are excused from the final week of classes
+
+::: notes
+
+Don't gamble with this offer! 
+
+- If you intend to do it, make sure you can complete the required hours in time. 
+
+- There are no extensions possible given the semester grading deadlines set by the registrar's office. 
+
+- Let me know if you have any questions.
+
+<br>
+
+**SLIDE**: Other groups working in our area?
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Efforts to Promote Environmental Justice in SW MO**
+
+1. Group name
+
+2. Problem being targeted?
+
+3. Action taken?
+
+4. How do we get involved?
+
+:::
+
+::: notes
+
+To wrap up our work last week I asked each of you to find us examples of groups doing important work on environmental justice problems in our area
+
+- Let's take a minute to hear about what you found and how we can help!
+
+- *Go around the room to hear the cases*
+
+<br>
+
+Alright, sum this all up for me
+
+- **How many different ways can we get involved on these issues in our community? What can we do?**
+
+<br>
+
+**SLIDE**: Our next big challenge to American environmentalism
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_1-capitalism_protest.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+By capitalism I mean an economic system broadly defined by:
+
+- Private (not public) ownership of the means of production, 
+    
+- A primary motivating focus on the pursuit of profit, and 
+    
+- The existence of free markets where prices are set by supply and demand
+
+<br>
+
+Our capitalist system does some things really well like:
+
+- Generating wealth, 
+
+- Allocating resources, and 
+
+- Promoting efficiency
+
+<br>
+
+HOWEVER, we also do some things terribly
+
+- Massive levels of income inequality,
+
+- Serious environmental harms pushed onto the poorest amongst us,
+
+- Incentives to capture the government in order to direct business to yourself
+
+- etc.
+
+<br>
+
+So the next section of our class focuses on capitalism as a challenge for American environmentalism
+
+<br>
+
+**SLIDE**: To get into this section, let's talk about your role as a consumer
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Reflecting on our Behavior as Consumers**
+:::
+
+<br>
+
+What are the specific decisions you make, things you buy or actions you take on a somewhat regular basis that have the biggest negative impact on the environment?
+
+::: notes
+
+For today I asked each of you to reflect on your role in this system
+
+- Important: This is not an exercise in being judgmental and I am definitely not looking for you to be defensive. 
+
+- The aim here is to identify a series of choices we know are sub-optimal for the environment AND to better understand what leads us to make them.
+
+<br>
+
+Let's go around the room to hear about your lives as consumers!
+
+- Go!
+
+<br>
+
+Ok, let's talk about what we've just heard
+
+- **Are we all making similar "bad" choices? How much overlap did you hear across the cases?**
+
+- **Are we all providing the same kinds of justifications for our "bad" actions?**
+
+<br>
+
+Think about all you've heard and tell me:
+
+- **What kinds of things could we do to nudge each of you to make better choices?**
+
+<br>
+
+**SLIDE**: Plan in this subsection
+
+<br>
+
+Canvas Assignment: Reflecting on our Behavior as Consumers
+
+What are the specific decisions you make, things you buy or actions you take on a somewhat regular basis that have the biggest negative impact on the environment? If you know that they are harmful, why do you continue to do them? 
+
+- Note: This is not an exercise in being judgmental and I am definitely not looking for you to be defensive. The aim here is to identify a series of choices we know are sub-optimal for the environment AND to better understand what leads us to make them.
+
+:::
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+**Section 3: Current Challenges in American Environmentalism**
+
+<br>
+
+**3.2 Capitalism: The "Need" for Growth Versus an Exhaustible Environment**
+
+- Wk 11 Did American Capitalism Produce a "Dust Bowl"? 
+- Wk 12 Is Global Capitalism (e.g. globalization) Risking Dust Bowls Around the World?
+- Wk 13 Where is the Line Between Impactful Environmental Advocacy and Eco-Terrorism?
+- Wk 14 Has Capitalism Co-opted Environmentalism?
+
+::: notes
+
+Over the next few weeks I want us to explore the capitalist system as we have implemented it and the ways it can go very wrong for the environment
+
+- In short, our system seems set up to encourage us to make choices that harm the environment. 
+
+- The question is, can we do better?
+
+<br>
+
+Specifically, in this section we'll explore:
+
+- An American environmental catastrophe, e.g. the "Dust Bowl", 
+    
+- The effects of globalization or the spread of capitalism around the world, 
+    
+- The fight by groups who want to protect the "under-valued" resources, e.g. more on eco-terrorism!, and 
+    
+- Finally an argument that capitalism has corrupted environmentalism
+
+<br>
+
+**SLIDE**: Let's kick things off with our American environmental catastrophe: the Dust Bowl. 
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/11_1-The_Dust_Bowl_doc.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Clip package 1 (Episode 1)
+
+- 0:00 - 5:07 (5 mins): sets up the whole thing
+
+- 7:52 - 17:00 (9 mins): Nature's balance invites use
+
+<br>
+
+Remember, our focus in this section of the class is on capitalism as a challenge to American environmentalism
+
+<br>
+
+**What is Ken Burns' argument so far about our capitalist system and its view of our resources / the wilderness?**
+
+- (Nature's balance invited our use)
+- Nature took a long time to find this balance of wind and the importance of the native grasses
+- Congress enlarges Homestead Act and attracts many, many new homesteaders
+- Plenty of rain + new public lands for sale leads to capitalist explosion!
+- WWI makes wheat super valuable
+
+<br>
+
+Clip package 2 (Episode 1)
+
+- 17:32 - 23:15 (6 mins)
+
+<br>
+
+**Ok, what is the argument being teased in this clip about our relationship to nature?**
+
+- (Capitalism as Edenic narrative and Edenic use leads to exploitation!)
+- Immigrants seeking to OWN the land
+- Modern machinery is great for profit! 
+- Farm as factory. 
+- Suitcase farmers. 
+- Government claims we could never use up the soil!
+
+<br>
+
+And where does all of this end up?
+
+Clip package 3 (Episode 1)
+
+- 32:49 - 36:11 (4 mins): Jump ahead to preview the dust storms
+
+<br>
+
+**SLIDE**: For next class
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+1. Read excerpts from Worster's (1979) *Dust Bowl*
+
+    - Chapter 3 (p44-63)
+    - Chapter 5 (p80-98)
+    - Chapter 14 (p210-230)
+
+2. Submit **at least three** key premises to Canvas
+
+::: notes
+
+Worster's book is an extended history of the Dust Bowl and an argument that capitalism is the cause of this environmental catastrophe.
+
+<br>
+
+Your job is to read these three chapters in order to help us identify the key premises in this argument
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas ASSIGNMENT: Capitalism and the Dust Bowl
+
+Worster's book is an extended history of the Dust Bowl and an argument that capitalism is the cause of this environmental catastrophe.
+
+Read chapters 1, 5 and 14 then submit AT LEAST THREE premises from Worster's argument (e.g. reasons Worster argues that the Dust Bowl was caused by our capitalist system).
+
+- Include the page numbers for each premise (for ease of reference in class). 
+
+:::

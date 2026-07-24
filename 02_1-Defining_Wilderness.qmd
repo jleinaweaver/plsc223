@@ -1,0 +1,844 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-forest_v3.png" .center}
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+```
+
+<br>
+
+::: {.r-fit-text}
+
+**Section 1: What is the "Environment"?**
+
+- Conceptualizing "wilderness" 
+
+- Setting up the first paper
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Check Canvas submissions
+
+2. Have all three google docs from last class open for yourself to refer to
+
+<br>
+
+**SLIDE**: Final details on field trip
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+::: {.column width="40%"}
+
+<br>
+
+::: {.r-fit-text}
+**Springfield Conservation Nature Center**
+
+- Thursday (Aug 28)
+
+- 9:35a - 10:35a
+:::
+
+<br>
+
+![](Images/02_1-Nature-Center.jpg){style="display: block; margin: 0 auto"}
+:::
+
+::: {.column width="60%"}
+![](Images/02_1-Map_to_Nature_Center.png){style="display: block; margin: 0 auto"}
+:::
+::::
+
+::: notes
+
+Thursday our first field trip of the semester
+
+- We're meeting at the Springfield Conservation Nature Center
+
+- We'll gather there at 9:35a and spend an hour (time to travel back to campus)
+
+<br>
+
+**Does everybody have a plan for how to get there?**
+
+- **Any questions on the trip?**
+
+<br>
+
+**SLIDE**: Refresh our work from last week
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**What is "the environment"?**
+
+- e.g. "nature" or "wilderness"
+:::
+
+::: notes
+
+Let's kick off our work today with a refresher from last week
+
+- Everybody open up our "pure nature" document on Canvas
+
+<br>
+
+**What are the "best" examples of pure wilderness on Drury's campus on this document? Why?**
+
+<br>
+
+Open up the "not" nature document
+
+- **What are the "most" not nature of the photos that were submitted? why?**
+
+<br>
+
+**On balance, where would you classify Drury's campus in terms of "pure nature," "managed nature" and "not nature"? Make your case!**
+
+<br>
+
+**Would it be "better" if Drury were closer to "pure nature"? Why or why not?**
+
+- **Better for who?**
+
+- **Better for what?**
+
+<br>
+
+**SLIDE**: For today I gave you the prologoue from Roderick Frazier Nash's book
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/02_1-Nash_Book_Cover.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Nash's book is a phenomenal exploration of the American relationship with wilderness across time
+
+- I was super tempted to assign this book as a throughline for our class, but it gets pretty wonky pretty darn fast
+
+- I also wanted to keep us rooted in primary source material whenever possible
+
+<br>
+
+So, we stick with the prologue!
+
+- I really appreciate the clarity, depth and conciseness of the prologue as a deep dive into our key concept, wilderness
+
+- **SLIDE**: Let's dig into the reading as an academic argument.
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**What is central argument in this prologue?**
+:::
+
+![](Images/02_1-Nash_Book_Cover.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+*Split class into small groups (3 per)*
+
+- Go sit with your group!
+
+<br>
+
+The Nash book is definitely an academic argument and that means it should have a clear thesis.
+
+- Groups, reflect on the prologue and get ready to tell me what the central argument of this chapter is.
+
+<br>
+
+**So, what is Nash's thesis in this prologue?**
+
+- **What central argument is Nash trying to convince you of?**
+
+- *Give them a chance to throw out some ideas*
+
+- *Note for you: The wilderness as spectrum is an extension of the argument you want to start with, e.g. if you accept wilderness is a quality then our best approach is the spectrum*
+
+<br>
+
+There are a lot of big important ideas in this seven pages (so concise!), but I think the argument comes early in the reading
+
+- **SLIDE**: on next slide is your version, e.g. "Wilderness is an evolving, subjective 'quality' NOT an object we can simply identify"
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+### Wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
+**What does this mean?**
+
+- **Can somebody explain this in clearer terms?**
+
+<br>
+
+Wilderness describes the "quality" of a thing, not a fixed object in and of itself
+
+- e.g. something can have the characteristics of wilderness, but is not necessarily wilderness by definitions
+
+- **Does that distinction make sense?**
+
+<br>
+
+Take a minute to reflect on the chapter with the people around you.
+
+- What I want you to do is to identify the key premises that support this conclusion
+
+- What are the reasons Nash gives to convince us that wilderness is an evolving quality and not a thing?
+
+<br>
+
+Groups, report back!
+
+- *Collect proposed premises ON BOARD*
+
+- *Present and Discuss each*
+
+- *AGAIN, Note for you: Save the "wilderness as a spectrum" for next slide discussion. e.g. If this argument is convincing, then this is our path forward*
+
+<br>
+
+**SLIDE**: Your version (3 premises)
+
+<br>
+
+*Chapter notes: Prologue*
+
+**NOTES**
+
+Wilderness is a subjective quality, not an object that can be identified  
+
+- Everyone defines it differently and prioritizes different qualities when doing so PLUS the cultural definitions have also changed dramatically across time
+
+Etymology of Wilderness  
+
+- Early Teutonic and Norse languages the root is “will” meaning willful or uncontrollable
+- “Willed” becomes “wild” meaning lost, unruly, disordered or confused (in Old Swedish wild came from describing boiling water)  
+- Old English adds animal (deor) and we get creatures not under the control of man (see the wildeor in Beowulf)  
+- “wild-deor-ness” the place of wild beasts
+
+Wilderness in Human Terms  
+
+- Wilderness as a region where people get into “a disordered, confused or ‘wild’ condition (p2).  
+- “bewilder” adds “be” and refers to a man in an alien environment where the civilization that normally structures our lives is absent
+
+First uses of wilderness  
+
+- Early 13th century, but more common in 14th when used in translations of the Bible, wilderness as treeless wasteland, “a desert; a tract of solitude and savageness” (Samuel Johnson 1755 Dictionary of the English Language)
+
+Today  
+
+- Dictionaries define wilderness as uncultivated or otherwise undeveloped land  
+- Also include “any place in which a person feels stripped of guidance, lost, and perplexed
+
+Interestingly, some German sources have paired this negative conception (wilderness as inhospitable, alien, mysterious) with one more positive (wilderness as beautiful, friendly, capable of elevating and delighting the beholder)
+
+Wilderness as Classification 
+
+- This becomes all the more challenging  
+- How much human interference is allowable while still calling a place wild? How big does it have to be?  
+- Various ballpark definitions across time: an area so large you cannot traverse it in one day (without mechanical means), or only if it can “absorb a two weeks’ pack trip” (p4-5)  
+- US Forest Service experimented with terms like primitive, roadless and natural but they didn’t really solve the problem  
+- The Outdoor Recreation Resources Review Commission (1962): Areas over 100,000 acres containing no roads usable by the public with “no significant ecological disturbance from on-site human activity”  
+- A National Wilderness Preservation System (US Statutes at Large, 78 1964): an area where the earth and its community of life are untrammeled by man; must retain its primeval character and influence.
+
+A Spectrum of Environments (p6-7)  
+
+- Ranging from the “purely wild” to the “purely civilized”  
+- The middle are the rural or pastoral environment (the ploughed) that represents a balance of the forces of nature and man  
+- Moving from the middle to the wilderness pole means human influence appears less frequently; think man as an outpost in the wilderness  
+- The opposite direction for increasing levels of human interference; think man shaping nature  
+- Implies a shading or blending between two poles; Puts a premium on “variations of intensity rather than on absolutes”
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+2. The meaning of wilderness has evolved over time 
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
+I want to highlight these three premises (big ideas)
+
+<br>
+
+If the intuition held by so many is wilderness is a concrete thing we can identify and agree on, then these are serious problems!
+
+<br>
+
+**SLIDE**: Expand on P1
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+<br>
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+    - Lost, unruly, disordered (Old Swedish describe boiling water)
+    
+    - Creatures not controlled by man ("wild-deor-ness")
+    
+    - Places that make us wild ("bewilder")
+
+2. The meaning of wilderness has evolved over time 
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
+Different cultures and places came to the concept in different ways
+
+- For some wilderness is a state of disorder
+
+- Others focused on the places dominated by the beasts of the wild and their dangers
+
+- Still others proposed wilderness as a place where the constraint of society are removed and man becomes like a wild animal
+
+<br>
+
+These are all discrete and SEPARATE definitions of wilderness.
+
+- If you want to argue wilderness is a thing you have to grapple with the fact that different cultures looked at "it" and focused on very different elements of it
+
+<br>
+
+**SLIDE**: P2
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+    - Lost, unruly, disordered (Old Swedish describe boiling water)
+    
+    - Creatures not controlled by man ("wild-deor-ness")
+    
+    - Places that make us wild ("bewilder")
+    
+2. The meaning of wilderness has evolved over time 
+
+    - Bible: A treeless wasteland; a desert
+    
+    - Dictionaries Today: Undeveloped lands
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+
+::: notes
+
+Expanding on P2
+
+- Through use words evolve and that has been true of wilderness
+
+- If the wilderness is a fixed thing, then we need a word for it that points to the essential and unchanging quality of it
+
+- Wilderness ain't it
+
+<br>
+
+Expanding on P3
+
+- Again, we are confronted by the fact that even today, and despite many attempts, we do not have a single, widely adopted consensus definition for wilderness as a "thing"
+
+<br>
+
+**Ok, bottom line, are you convinced by Nash's argument? Why or why not?**
+
+- **Is wilderness a quality rather than a thing?**
+
+<br>
+
+All of this leads to Nash's proposal for moving forward with this concept
+
+- **SLIDE**: If wilderness or nature is a quality, then our best bet is to evaluate it on a spectrum
+
+:::
+
+
+## A Spectrum of Environments {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+::: notes
+
+Talk me through this a bit:
+
+- **How does Nash define the quality of something that is purely wild?**
+
+    - (Seems to be: The absence of human influence on the environment)
+
+- **What about purely civilized?**
+
+    - (The highest levels of human intereference or shaping of the environment)
+
+- **And what are the qualities of something precisely in the middle?**
+
+    - (The middle are the rural or pastoral environment (the ploughed) that represents a balance of the forces of nature and man)
+
+<br>
+
+**How does this approach compare to our work last class evaluating our examples from the Drury campus**
+
+- (Similar in approach, possibly different in precise terms)
+
+<br>
+
+I want to make sure that this conceptual step Nash is making is clear to you
+
+- At this moment in the chapter he is no longer tracking wilderness, he is now defining "the environment"
+
+- **If we adopt Nash's perspective, then what is our definition of the environment?**
+
+- (**SLIDE**)
+
+<br>
+
+*NOTES: A Spectrum of Environments (p6-7)*
+
+- Ranging from the “purely wild” to the “purely civilized”  
+- The middle are the rural or pastoral environment (the ploughed) that represents a balance of the forces of nature and man  
+- Moving from the middle to the wilderness pole means human influence appears less frequently; think man as an outpost in the wilderness  
+- The opposite direction for increasing levels of human interference; think man shaping nature  
+- Implies a shading or blending between two poles; Puts a premium on “variations of intensity rather than on absolutes”
+
+:::
+
+
+
+## A Spectrum of Environments {background-image="Images/background-forest_v3.png" .center}
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 8) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](Images/02_1-city_street.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/02_1-wilderness.jpg)
+:::
+
+::::
+
+::: notes
+
+From this perspective the environment is everything around us.
+
+- There are no distinctions to be raised about how far "environmental" concerns can reach
+
+- The question becomes what is the quality of the environments we live in and how should we balance the wild with the civilized in all of them
+
+- **Does that make sense?**
+
+<br>
+
+**What are the implications for our society if we agree to stop thinking of wilderness as a "thing" and instead think of the environment as a spectrum?**
+
+1. (Environmental defenses may be challenged)
+
+    - (Might be harder to preserve wild lands in the form we want if we open this can of worms!)
+    
+    - (Since there is no wilderness developers may argue they are just moving an area a small way along the spectrum, not destroying perfection)
+    
+2. (Contra that, might open up MORE places to environmental protection!)
+
+    - (If wildness is a quality then it can exist EVERYWHERE!)
+    
+    - And it it exists everywhere then we can seek to protect it everywhere
+    
+<br>
+
+Everybody open the "not nature" examples we shared on Drury's campus
+
+- All of these are opportunities to reintroduce some wildness into our environment
+
+- **Give me some ideas using the spectrum! What could we do with all of these to push back on the "not nature" around us?**
+
+<br>
+
+**How are we doing? Everybody with me so far?**
+
+<br>
+
+Ok, this wider exploration of the environment leads us straight into our first paper assignment
+
+- **SLIDE**
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Paper 1: The Importance of Wilderness**
+:::
+
+<br>
+
+Make an argument that the wilderness is important to our community
+
+- Due next Friday (Sep 5th)
+
+::: notes
+
+This prompt, with a few more details, is on Canvas in the Assignments section
+
+<br>
+
+Paper has a quick deadline
+
+- Gives me a baseline for your writing, and 
+
+- Allows us to work directly on LO1 which sets us up for harder material to come
+
+    - Content Knowledge: Students should learn to recognize how human behavior is shaped by the environment and how the environment is shaped by human behavior
+
+<br>
+
+**Has everybody here written a short argument paper before?**
+
+<br>
+
+**SLIDE**: The basic requirements for an argument paper
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Paper 1: The Importance of Wilderness**
+
+<br>
+
+An argument paper **MUST**: 
+
+1. Be organized around a single, clear **thesis**
+
+2. Include **multiple premises**
+
+3. Provide **high quality evidence** for all claims of fact
+
+:::
+
+::: notes
+
+Your thesis is the conclusion of the paper
+
+- e.g. what you want the reader to accept
+
+<br>
+
+Your thesis must be supported by multiple premises
+
+- e.g. a premise is a reason for your conclusion
+
+<br>
+
+EACH premise must be supported by multiple examples of high quality evidence
+
+<br>
+
+**SLIDE**: The structure I am asking you to adopt
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Six Paragraph Argument Paper**
+
+1. Introduction Paragraph
+
+2. Body Paragraph: Reason 1 (premise)
+
+3. Body Paragraph: Reason 2 (premise)
+
+4. Body Paragraph: Reason 3 (premise)
+
+5. Counter-argument
+
+6. Conclusion Paragraph
+:::
+
+::: notes
+
+This is the structure for a simple six paragraph essay.
+
+- Essentially, this is the old "tell them what you are going to tell them, tell them, then tell them what you told them" thing you've been doing since grade school
+
+<br>
+
+Your intro:
+
+- grabs the reader's attention,
+
+- Convinces the audience they want to read your paper, and 
+
+- Makes clear exactly what you want them to take away from reading it
+
+<br>
+
+Each body paragraph gives:
+
+- A reason supporting your conclusion, 
+
+- Explains the reason in detail, and 
+
+- Provides evidence to show this reason is consistent with reality!
+
+<br>
+
+The counter-argument paragraph is where you present a reason your argument could be wrong AND why you are not dissuaded by it
+
+- The counter-argument MUST be presented in its strongest form (e.g. not a straw man) and supported by high quality evidence.
+
+<br>
+
+Then the conclusion wraps it all up
+
+<br>
+
+More advanced papers simply innovate on this structure
+
+- Add more paragraphs to support and defend each premise
+
+- Add counter-argument paragraphs to raise and address the possibility that you could be wrong
+
+- etc
+
+<br>
+
+**Has everybody written something like this before?**
+
+<br>
+
+My background is in the policy world which means a big part of my job is often trying to convince other people to change their behavior
+
+- AND people aren't going to change their behavior if I haven't convinced them what I want to talk to them about is important
+
+- **SLIDE**: That means I think introductions are incredibly important
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+
+**A "Good" Introduction Paragraph**
+
+- What is the question?
+
+- Why do we care about the question?
+
+- Thesis statement
+
+:::
+::: notes
+
+**Any questions on the elements of the introduction I am looking for?**
+
+<br>
+
+**SLIDE**: The assignment prompt
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Paper 1: The Importance of Wilderness**
+:::
+
+<br>
+
+Make an argument that the wilderness is important to our community
+
+- Due next Friday (Sep 5th)
+
+::: notes
+
+**Any questions on the prompt or the structure I am asking you to use?**
+
+<br>
+
+We're going to keep moving in this class so you'll be expected to take care of this ahead of the deadline next week on your own.
+
+- Giving you the time to do that is partially why we are going on a field trip Thursday!
+
+- My advice, figure out your thesis and premises, make an outline, add evidence then write it!
+
+<br>
+
+**ALL OF THIS** means we need ideas for why the wilderness is important!
+
+- **SLIDE**: And that brings us to what you submitted to Canvas today!
+
+<br>
+
+**Paper 1: The Importance of Wilderness**
+
+Make an argument that the wilderness is important to our community. 
+
+- Please note that this is an argument paper, not an opinion piece. That means the paper must advance a single thesis (e.g. a central argument) built upon at least three premises (e.g. key reasons) and each premise must be explained and supported by high quality evidence. 
+
+- In short, I am looking for an argument paper that provides the reader with specific, real-world examples that demonstrate the importance of the natural world to our lives.
+
+- This assignment ties directly to Learning Outcome 1 (Content Knowledge: Students should learn to recognize how human behavior is shaped by the environment and how the environment is shaped by human behavior).
+
+:::
+
+
+
+
+## Share a Wilderness Experience {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/02_1-hiking.webp)
+
+::: notes
+
+Everybody open up the discussion board of wilderness experiences
+
+- This is a kind of group brainstorming for the first paper AND a chance to get to know your classmates better
+
+<br>
+
+*ON BOARD: Three headers (purely wild, perfectly balanced, purely civilized)*
+
+<br>
+
+As we hear each of these I want us to do two things:
+
+1. Place this experience on the spectrum of environments
+
+2. List the broader reasons revealed by this experience for why wilderness is important to society
+
+<br>
+
+*PRESENT and DISCUSS each*
+
+:::
+
+
+
+
+
+## For Next Class {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+1. Get those papers done (for next week), and
+
+2. Meet at the Nature Center on Thursday
+
+:::
+
+::: notes
+
+<br>
+
+**Questions on the assignment?**
+
+:::

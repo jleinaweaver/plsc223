@@ -1,0 +1,668 @@
+---
+format: revealjs
+---
+
+## Today's Agenda {background-image="Images/background-forest_v3.png" .center}
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+```
+
+<br>
+
+**Section 3: Current Challenges in American Environmentalism**
+
+<br>
+
+::: {.r-fit-text}
+
+**3.1 Environmental Justice**
+
+- Analyzing unequal environmental harms in Springfield
+
+:::
+
+<br>
+
+::: r-stack
+Justin Leinaweaver (Fall 2026)
+:::
+
+::: notes
+Prep for Class
+
+1. Check Canvas submissions
+
+2. **As the class comes in have them circle up, seminary style!**
+
+3. Classroom set-up: Use classroom PC to run slides AND data websites; get class notes from your laptop
+
+4. Data sources for class today
+
+    - Census Data on Race/Ethnicity/Income from [Justice Map](https://www.justicemap.org/index.php)
+
+    - EPA's TRI: [What is the Toxics Release Inventory?](https://www.epa.gov/toxics-release-inventory-tri-program/what-toxics-release-inventory) and the [mapping tool](https://www.epa.gov/toxics-release-inventory-tri-program)
+    
+    - American Forests' [Tree Equity Score](https://www.treeequityscore.org/) and [Map Tool](https://www.treeequityscore.org/map)
+
+    - City of Springfield Office of Economic Vitality: [City approach to brownfields](https://www.springfieldmo.gov/139/Brownfields) and [mapping tool](https://cosmo.maps.arcgis.com/apps/webappviewer/index.html?id=120fbfbdd81b4198a87a79b51cc6fe2d)
+    
+    - RAND on [redlining](https://www.rand.org/pubs/articles/2022/environmental-racism-how-historic-redlining-continues.html) and [mapping tool](https://www.rand.org/pubs/tools/TLA1456-1/tool.html)
+
+<br>
+
+**SLIDE**: Before we dig into the data, let's flag some more travel in our future!
+
+:::
+
+
+
+## Oct 21st Field Trip {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+::: {.column width="70%"}
+
+Ozark's Food Harvest Distribution Center
+
+- 2810 N. Cedarbrook Ave
+
+- **PLEASE carpool** (limited parking)
+
+- You **MUST** wear closed toe shoes
+
+- Details on Canvas
+
+:::
+
+::: {.column width="30%"}
+![](Images/09_1-Ozark_Food_Harvest.jpg){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Tuesday we will meet at the Ozark's Food Harvest Distribution Center
+
+- We'll get a tour of their incredible facility and the programs they are running in our community
+
+- Very much an organization working to promote social justice and address serious environmental challenges in our community
+
+<br>
+
+**Questions on our field trip?**
+
+<br>
+
+**SLIDE**: And that's not all!
+
+:::
+
+
+
+
+## Oct 23rd Field Trip {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+
+Springfield Community Gardens
+
+- 1126 N. Broadway Ave
+
+- Carpool for EC
+
+- Details on Canvas
+
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-SGF_Community_Gardens.webp){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Thursday we meet at one of the SGF Community Gardens
+
+- They promote local sustainable food practices and community revitalization
+
+- Plus some recent discussion of addressing the food desert problem in SGF
+
+<br>
+
+**Questions on our field trip?**
+
+<br>
+
+Ok, let's dive back into our current challenges in American environmentalism
+
+- **SLIDE**: Last week we started with the size and scope of the environmental justice problem
+
+:::
+
+
+
+
+## {background-image="Images/09_1-residential_pollution_photo.jpg" .center}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+[**The Environmental Justice Problem**]{style="color:white;"}
+:::
+
+::: notes
+
+To start, define for me the problem itself
+
+- **Big picture, what does it mean to say that we have an environmental justice problem?**
+
+- (Inequality in the distribution of environmental harms in our society)
+
+- Evidence that racial/ethnic minorities, less educated and poorer groups all experience more pollution than others
+
+<br>
+
+Last Tuesday we reviewed data and cases on this problem at the national level
+
+- **Refresh my memory, what specific cases did you submit that show we have an unequal distribution of environmental harms?**
+
+- *Encourage volunteers!*
+
+<br>
+
+Then Thursday we explored some of the historical and social scientific literatures that aim to explain why we see these outcomes
+
+- **What are some of the mechanisms we examined to explain WHY we see this problem in practice?**
+
+- (Kashwan (2020): Much of American environmentalism has racist historical roots)
+
+- (Pittman (2024): Redlining was explicitly racist and pushed some groups to the periphery or to riskier areas)
+
+- (Mildenberger (2019): Much environmental problem-solving shaped by the bad science of Garrett Hardin which promotes exploitation over management)
+
+- (Diem (2024): Wealthy people with greater influence and resources can protect their own areas at the expense of others, e.g. NIMBYism)
+
+<br>
+
+**SLIDE**: Our work for today is to turn our analytical focus into our own community
+
+:::
+
+
+
+## {background-image="Images/09_1-SGF_Hazardous_Waste.webp"}
+
+::: {.r-fit-text}
+[**The Environmental Justice Problem in SGF**]{style="color:red;"}
+:::
+
+::: notes
+
+Big picture question: How serious is the environmental justice problem in our local community?
+
+<br>
+
+As a first step into answering this question let's hear the cases you submitted to Canvas!
+
+- **What kinds of environmental justice issues are capturing media attention in our backyard?**
+
+- *Go around the room*
+
+<br>
+
+Alright, let's now dig into the data sources I linked you to before class to see what we can learn about Springfield
+
+- *Split class into small groups by the people around you; make sure they have at least one computer/table to work from*
+
+<br>
+
+**SLIDE**: Let's start off by getting a sense of Springfield's demographics
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Census Bureau: Race, Ethnicity and Income Demographics**
+
+- [Justice Map](https://www.justicemap.org/index.php)
+:::
+
+![](Images/09_1-Justice_Map.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+https://www.justicemap.org/index.php
+
+<br>
+
+Groups: Review the basic demographic information on Springfield and Greene County (Race/Ethnicity/Income) and get ready to report back: 
+
+1) How is wealth distributed across SGF? 
+
+2) How is race/ethnicity distributed across SGF?
+
+<br>
+
+**Ok, what did you find?**
+
+- *Mirror what they describe on the screen*
+
+<br>
+
+Now that we have a sense of the demographic make-up of SGF, let's move to our first dataset on environmental harms
+
+- **SLIDE**: EPA's TRI
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The EPA's Toxics Release Inventory (TRI)**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-EPA-TRI.webp){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the EPA's TRI
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**The EPA's Toxics Release Inventory (TRI)**
+:::
+
+![](Images/09_1-EPA_TRI-SGF.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the areas of most toxic waste correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+- **What are the particularly serious hotspots?**
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: SGF brownfields
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**City of Springfield Office of Economic Vitality: Brownfields**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-Brownfields.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the City of Springfield Office of Economic Vitality's brownfields map
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**City of Springfield Office of Economic Vitality: Brownfields**
+:::
+
+![](Images/09_1-Brownfields_Map.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the areas with brownfields correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+- **What are the particularly serious hotspots?**
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: American Forests' tree equity score
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**American Forests: Tree Equity Score**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-tree_equity_score.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the American Forests' Tree Equity Score
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**American Forests: Tree Equity Score**
+:::
+
+![](Images/09_1-tree_equity_SGF.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the areas with more tree cover correlate with the distribution of wealth and race/ethnicity in SGF?**
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+**SLIDE**: RAND redlining map
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**RAND Corporation: Environmental Racism**
+:::
+
+<br>
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.r-fit-text}
+1. What is the aim?
+
+2. How is the data collected?
+
+3. How is the data audited?
+:::
+:::
+
+::: {.column width="45%"}
+![](Images/09_1-RAND.png){style="display: block; margin: 0 auto"}
+:::
+
+::::
+
+::: notes
+
+Groups, get ready to report back on the methodology of the RAND Corporation's approach to measuring environmental racism (e.g. redlining)
+
+- Go!
+
+<br>
+
+**Ok, what have we learned?**
+
+<br>
+
+- ?
+
+<br>
+
+**SLIDE**: Let's use the data
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**RAND Corporation: Environmental Racism**
+:::
+
+![](Images/09_1-RAND_redlining.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Groups, get ready to report back: 
+
+- **Do the redlining areas correlate with the environmental harms in the mapping tool?**
+
+<br>
+
+**Ok, what have we learned?**
+
+- **Is this evidence that our correlations in toxics, brownfields and tree cover with wealth and race actually causal? Why or why not?**
+
+<br>
+
+To wrap up, I want you to reflect on our work over the last few weeks and then to consider a tweak to our proposition from last week
+
+- **SLIDE**
+
+:::
+
+
+
+## A Proposition for Problem-Solving {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Should ALL proposals to address ANY problem in Springfield explicitly account for issues of environmental justice?
+
+::: notes
+
+*Encourage this discussion*
+
+<br>
+
+**SLIDE**: Field trips next week!
+
+:::
+
+
+
+## For Next Week (Part 1) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+::: {.r-fit-text}
+
+Tuesday
+
+- Ozark's Food Harvest Distribution Center
+
+Thursday
+
+- Springfield Community Gardens
+
+:::
+
+::: notes
+
+**Questions on the fiold trips?**
+
+<br>
+
+**SLIDE**: Next week part 2
+
+:::
+
+
+
+## For Next Week (Part 2) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Efforts to Promote Environmental Justice in Springfield**
+
+- Find us a group of any kind, other than those we are visiting, who are actively working to address environmental justice issues in southwest Missouri
+
+- Details on Canvas
+
+
+::: notes
+
+I want you to help me build a list of groups and actions in our area targeting the kinds of problems we've been studying
+
+- SO, before the end of next week you must find us a case
+
+- No overlap!
+
+<br>
+
+**Questions on the assignment?**
+
+<br>
+
+Canvas DISCUSSION: Efforts to Promote Environmental Justice in Springfield
+Find us a group of any kind, other than those we are visiting this week, who are actively working to address environmental justice issues in southwest Missouri. No overlapping groups, first-come, first-served. 
+
+Submit:
+
+1. The name of the group and a link to their website or where more information about them can be found,
+2. Explain the problem they are targeting and why it is an issue of environmental justice (2+ sentences)
+3. Explain the actions they are taking to address this problem (3+ sentences)
+4. Provide us different options for getting involved with this group or in helping them with their actions (3+ sentences)
+
+
+:::
