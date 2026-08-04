@@ -89,7 +89,7 @@ Everybody pull out your phone / tablet / laptop and go find me a current event t
 
 - Go!
 
-<br?
+<br>
 
 *PRESENT and DISCUSS each*
 
@@ -223,77 +223,114 @@ Home page
 
 <br>
 
-**SLIDE**: Go to the syllabus page
+Now go to the syllabus page
 
-:::
-
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-![](Images/01_1-Canvas_Syllabus.png){style="display: block; margin: 0 auto"}
-
-::: notes
-
-Syllabus is our contract for the class
+- The syllabus is our contract for the class
 
 - All the key details are in it
 
 <br>
 
-Grades breakdown
-
-- Participation is 55% of the grade (daily assignments)
-
-- Three papers are 45%
-
-<br>
-
-- Attendance Policy
-
-    - Attendance cliff after three unexcused absences ("C")
-    
-    - If you will be missing class for an excusable reason (e.g. documented medical issues, school mandated absences) **YOU** must email me before the absence in order to receive a make-up assignment.
-    
-    - Coach emails do not replace YOUR responsibility to contact me
-    
-    - Participation: You earn participation points by being on time to class, being engaged during class (e.g., having all needed materials, not distracting others, etc.), and submitting all required daily assignments on Canvas BEFORE class begins.
-    
-<br>
-
-Syllabus also has
-
-- Paper submission requirements
-
-- Argument paper rubric I use for grading
-
-- Provisional semester outline, and
-
-- Drury University policies on plagiarism, Title IX and Disability Support services
-
-<br>
-
-We will be getting out of the classroom at times this semester. 
-
-- **Does everyone have a car?**
-
-- If not please let me know and we will figure out carpooling for those trips.
-
-<br>
-
-**SLIDE**: The AI policy
+**SLIDE**: Let's hit a few highlights!
 
 :::
 
 
 
-## {background-image="Images/background-forest_v3.png" .center}
+
+## The answer is in the syllabus (part 1) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+![](Images/01_1-syllabus_1.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The learning outcomes are the big picture goals I have for each of you this semester
+
+- By the end of the semester you should have made significant progress on these three aims
+
+- **Any questions on these?**
+
+<br>
+
+**SLIDE**: Your final grade
+
+:::
+
+
+
+
+## The answer is in the syllabus (part 2) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+![](Images/01_1-syllabus_2.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Final grade is a mix of written papers and daily participation assignments that help to get you ready for our daily seminar
+
+<br>
+
+**Any questions on the big picture here?**
+
+<br>
+
+**SLIDE**: Let's unpack what I mean when I call this a seminar
+
+:::
+
+
+
+
+## The answer is in the syllabus (part 3) {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+![](Images/01_1-syllabus_3.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Everybody read these points and then let's discuss them.
+
+<br>
+
+**Any questions about the attendance cliff?**
+
+- If you're not in class then I can't ensure you make progress on our LOs
+
+<br>
+
+**Any questions about how to request an excused absence?**
+
+- Coaches emails DO NOT cover you!
+
+<br>
+
+**Any questions about the participation points policy?**
+
+<br>
+
+**SLIDE**: Syllabus part 4
+
+:::
+
+
+
+## The answer is in the syllabus (part 4) {background-image="Images/background-forest_v3.png" .center}
 
 ![](Images/01_1-No_AI_Tools.jpg){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-You may not use any AI tools in this class. Any AI use will be treated as plagiarism.
+**Does everybody see the AI policy in the syllabus?**
+
+<br>
+
+You may not use any AI tools in this class. 
+
+- ANY AI use will be treated as plagiarism.
 
 <br>
 
@@ -311,21 +348,53 @@ That means:
 
 <br>
 
-Think of this class like training to play a sport
+**SLIDE**: Think of this class like training to play a sport
 
-- The time you spend in the gym getting stronger and more flexible makes you a better athlete regardless of the sport you end up playing. 
+:::
+
+
+
+
+## This Course is Training for your Brain {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_1-lifting_weights.gif){style="display: block; margin: 0 auto"}
+
+::: notes
+
+The time you spend in the gym getting stronger and more flexible makes you a better athlete regardless of the sport you end up playing. 
 
 - That's what we're doing in this class when we learn to critically analyze texts and become better writers.
 
 - I'm getting you ready to succeed out in the real world
 
-- Using AI tools is like bringing a forklift into the weight room. Yeah, you lifted the weights, but it was a waste of your time.
+<br>
+
+Using AI tools is like bringing a forklift into the weight room. 
+
+- Yeah, you lifted the weights, but it was a waste of your time.
 
 <br>
 
-Other key point: Lots of people are worried about AI taking their jobs, e.g. replacing them in the workforce. 
+**SLIDE**: Other key point
 
-- If you use AI to do your thinking for you then you are literally replacing yourself with AI
+:::
+
+
+
+
+## This Course is Training for your Brain {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_1-AI_dumber.png){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Lots of people are worried about AI taking their jobs
+
+- e.g. replacing them in the workforce. 
+
+<br>
+
+If you use AI to do your thinking for you then you are literally replacing yourself with AI
 
 - You are setting yourself up with skills that are basically without value
 
@@ -338,6 +407,10 @@ So, let's not waste this opportunity working together this semester
 <br>
 
 **Questions on this policy?**
+
+<br>
+
+**SLIDE**: Next steps
 
 :::
 
@@ -412,12 +485,37 @@ Go to work and I'll see you Thursday
 
 <br>
 
-Canvas Assignment: Reflecting on our Backyard
+THREE separate Canvas Discussion board
 
-1. Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form. Include the photo and 2+ sentences explaining your selection.
+Reflecting on our Backyard - Pure Nature or Wilderness
+Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form.
 
-2. Take a photo of something on campus that represents wilderness or nature in a slightly lesser form (e.g. still natural, but being managed or controlled). Include the photo and 2+ sentences explaining your selection.
+Include the photo in your post and explain:
 
-3. Take a photo of something on campus that is clearly NOT an example of the wilderness or nature in any form. Include the photo and 2+ sentences explaining your selection.
+1) What specifically in the photo you want us to focus on, and
+
+2) WHY this represents pure nature or wilderness.
+
+<br>
+
+Reflecting on our Backyard - Managed Wilderness
+Take a photo of something on campus that represents wilderness or nature in a lesser form (e.g. still natural, but being managed or controlled).
+
+Include the photo in your post and explain:
+
+1) What specifically in the photo you want us to focus on, and
+
+2) WHY this represents wilderness or nature in a lesser form
+
+<br>
+
+Reflecting on our Backyard - Not Nature or Wilderness
+Take a photo of something on campus that is clearly NOT an example of the wilderness or nature in any form.
+
+Include the photo in your post and explain:
+
+1) What specifically in the photo you want us to focus on, and
+
+2) WHY this represents the absence of wilderness or nature
 
 :::

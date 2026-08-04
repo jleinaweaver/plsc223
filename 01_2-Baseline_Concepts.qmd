@@ -31,35 +31,115 @@ Prep for Class
 
 1. Review Canvas submissions
 
-2. Copy all submissions to Google Doc and publish on Canvas Modules
+<br>
 
-3. Stay logged into Canvas for publishing the shared docs
+Welcome back all!
 
 <br>
 
-**SLIDE**: Questions on the course or plan?
+**SLIDE**: Before we dive in, let's make sure everybody's ready to go!
 
 :::
 
 
 
-## Course Outline {background-image="Images/background-forest_v3.png" .center}
+## The Answers are in the Syllabus {background-image="Images/background-forest_v3.png" .smaller}
+
+<br>
+
+::: {.panel-tabset}
+
+### LOs
+
+![](Images/01_1-syllabus_1.png)
+
+### Final Grades
+
+![](Images/01_1-syllabus_2.png){width="650"}
+
+### Participation
+
+![](Images/01_1-syllabus_3.png)
+
+### NO AI
+
+![](Images/01_1-No_AI_Tools.jpg){width="450"}
+
+:::
+
+::: notes
+
+**Any questions on the course, its structure or the policies in the syllabus?**
+
+<br>
+
+**SLIDE**: I've split our course plan into sections by topic
+
+:::
+
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
 
 ![](Images/01_2-Syllabus_Topics.png){style="display: block; margin: 0 auto"}
 
 ::: notes
 
-**Any questions on the course policies in the syllabus or anything else on Canvas related to the course?**
+In Section 1 we will set a baseline for the class
+
+- We can't begin to interrogate the wilderness in useful ways until we clarify our prior assumptions
+
+- e.g. whatis the wilderness to you?
 
 <br>
 
-**SLIDE**: Getting organized for the field trip
+In Section 2 we'll unpack the competing perspectives of wilderness that continue to shape our world today
+
+- While many of the readings will be drawn from history, I promise you these debates remain VERY current
+
+<br>
+
+In Section 3 we'll explore a series of current day challenges we definitely haven't solved yet
+
+<br>
+
+Concerns about environmental justice boil down to a very simple problem
+
+- Every modern economy produces pollution, and every society has to make decisions about how much pollution to allow and where to allow it
+
+- In this section of the class we'll explore how our society decides these questions and how the impacts have been shared
+
+<br>
+
+Concerns about capitalism boil down to some very old ideas about whether you can run an economy on never-ending consumption if you live on a planet with finite resources
+
+- This is a REALLY thorny problem that we don't have good answers for.
+
+<br>
+
+Then, in the final section of the semester, each of you will choose and analyze a local environmental problem using the material from our semester
+
+<br>
+
+**Questions on the big picture plan?**
+
+<br>
+
+Today we kick off our work in the first section of the class
+
+- We need to get on the same page as a class in terms of defining our key concepts
+
+<br>
+
+**SLIDE**: In order to help us do that we'll need to get out into the world!
 
 :::
 
 
 
-## Next Thursday (Aug 28) {background-image="Images/background-forest_v3.png" .center}
+
+## Next Thursday (Aug 27) {background-image="Images/background-forest_v3.png" .center}
 
 <br>
 
@@ -67,17 +147,19 @@ Prep for Class
 
 ::: notes
 
-Next Thursday our first field trip of the semester
+Next Thursday is our first field trip of the semester
 
 - We're meeting at the Springfield Conservation Nature Center
 
-- We'll gather there at 9:35a and spend an hour (time to travel back to campus)
+- We'll gather there at noon and spend an hour exploring the site with the staff
 
 <br>
 
 **Does everybody have a car?**
 
-- **Anybody willing to car pool?**
+<br>
+
+I will give extra credit to anybody who car pools!
 
 <br>
 
@@ -101,31 +183,13 @@ For today I asked each of you to explore our campus and submit photo evidence of
 
 <br>
 
-*Split class into small groups (4 each?)*
-
-- *PUBLISH: Pure nature document on Canvas*
+*Split class into small groups (3-4 each?)*
 
 - Go sit with your group
 
 <br>
 
-On the Canvas Modules page I have added a document link that includes all of the class submissions to the first prompt.
-
-- Open it up!
-
-<br>
-
 **SLIDE**: Prompt 1
-
-<br>
-
-Canvas Assignment: Reflecting on our Backyard
-
-1. Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form. Include the photo and 2+ sentences explaining your selection.
-
-2. Take a photo of something on campus that represents wilderness or nature in a slightly lesser form (e.g. still natural, but being managed or controlled). Include the photo and 2+ sentences explaining your selection.
-
-3. Take a photo of something on campus that is clearly NOT an example of the wilderness or nature in any form. Include the photo and 2+ sentences explaining your selection.
 
 :::
 
@@ -134,7 +198,7 @@ Canvas Assignment: Reflecting on our Backyard
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**"Wilderness" / "nature" in its "purest" form**
+**"Wilderness" or "nature" in its purest form**
 
 1. Review the cases, and
 
@@ -157,6 +221,18 @@ Let's build a big list of qualities of "pure" nature!
 
 **SLIDE**: Definition time
 
+<br>
+
+Canvas DISCUSSION: Reflecting on our Backyard - Pure Nature or Wilderness (2pts)
+
+Take a photo of something on Drury's campus that you believe represents the wilderness or nature in its purest form.
+
+Include the photo in your post and explain:
+
+1) What specifically in the photo you want us to focus on, and
+2) WHY this represents pure nature or wilderness.
+
+
 :::
 
 
@@ -164,7 +240,7 @@ Let's build a big list of qualities of "pure" nature!
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Define "wilderness" / "nature" in "purest" form**
+**Define "pure wilderness / nature"**
 
 - Aim for one complete sentence
 :::
@@ -190,9 +266,11 @@ Ok, groups, if these are the qualities we are interested in I want you to write 
 
 <br>
 
-*PUBLISH the "not nature" cases*
+*Mix up the groups!*
 
-- Ok, switch to the document I posted focused on your third cases (e.g. the examples of things that are NOT nature)
+- Go sit with your new group!
+
+- Introduce yourselves
 
 <br>
 
@@ -205,7 +283,7 @@ Ok, groups, if these are the qualities we are interested in I want you to write 
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**The absence of "wilderness" / "nature"**
+**The absence of "wilderness" or "nature"**
 
 1. Review the cases, and
 
@@ -214,9 +292,19 @@ Ok, groups, if these are the qualities we are interested in I want you to write 
 
 ::: notes
 
-Let's once again build a big list of qualities
+Now we jump to the opposite extreme, the absence of wilderness
+
+<br>
+
+Open up the third discussion board
+
+- Let's once again build a big list of qualities
 
 - Groups, review the cases and make a list of shared qualities
+
+<br>
+
+Let's build a big list of qualities of the "absence" of nature!
 
 - *ON BOARD*
 
@@ -231,7 +319,7 @@ Let's once again build a big list of qualities
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Define the absence of "wilderness" / "nature"**
+**Define the "absence of wilderness / nature"**
 
 - Aim for one complete sentence
 :::
@@ -246,13 +334,19 @@ Ok, groups, if these are the qualities we are interested in I want you to write 
 
 <br>
 
-PRESENT and DISCUSS each
+*PRESENT and DISCUSS each*
 
 <br>
 
-*PUBLISH middle cases document*
+Mix up the groups one last time!
 
-- **SLIDE**: Developing your scale
+- Make a group of 3 or 4 and aim for NEW people!
+
+- Go!
+
+<br>
+
+**SLIDE**: Developing your scale
 
 :::
 
@@ -274,7 +368,7 @@ Imagine a 10 point scale bounded by these two definitions (e.g. scale from not n
 
 <br>
 
-Everybody open our final shared document that holds all our in-between cases
+Everybody open our second discussion board that holds all our in-between cases
 
 - Let's step through the cases
 
