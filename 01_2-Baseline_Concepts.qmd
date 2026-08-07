@@ -63,7 +63,7 @@ Welcome back all!
 
 ### NO AI
 
-![](Images/01_1-No_AI_Tools.jpg){width="450"}
+![](Images/01_2-no_ai.png)
 
 :::
 
