@@ -35,8 +35,6 @@ Prep for Class
 
     - Cole, T. (1841, June). The Lament of the Forest. The Knickerbocker: Or, New-York Monthly Magazine, 17, 516–519.
     
-3. FALL 2026: Change the discussion of the expulsion of garden of Eden since we are now doing that last week (around line 146)
-
 <br>
 
 **SLIDE**: Once again, let's review the path we have walked thus far
@@ -62,7 +60,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -149,21 +147,9 @@ The ratings exercise depends on which elements you choose as most important and 
 
 ::: notes
 
-Here we see Thomas Cole's famous painting, Expulsion from the Garden of Eden (1828)
+Once again, here we see Thomas Cole's famous painting, Expulsion from the Garden of Eden (1828)
 
-- Adam and Eve are being thrust into the most unforgiving looking wilderness we can imagine
-
-<br>
-
-**Compare and contrast Eden and the wilderness here for me**
-
-- **How specifically are they different?**
-
-<br>
-
-*FOR FALL 2026*
-
-**Remind me, how does Eden compare to the wilderness in this story?**
+- **Remind me, how does Eden compare to the wilderness in this story?**
 
 <br>
 
@@ -173,17 +159,40 @@ Here we see Thomas Cole's famous painting, Expulsion from the Garden of Eden (18
 
 The Edenic perspective views wilderness as:
 
-1. A place without God e.g. a place of temptation, suffering and danger, and
+1. A place without God
 
-2. A place that exists to serve the needs of humanity
+2. A place of temptation, suffering and danger, and
+
+3. A place that exists to serve the needs of humanity
 
 <br>
 
-This implies to me that maximizing human control requires:
+**SLIDE**: This means the Edenic mission in the wilderness is...
 
-1. economic exploitation of the resources, and 
+:::
 
-2. human dominance of everything we find out "there"
+
+
+
+## {background-image="Images/04_1-Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg"}
+
+[**The Edenic Narrative**]{style="color:white;"}
+
+- [**We should dominate all aspects of the wilderness, and**]{style="color:white;"}
+
+- [**We should maximally exploit all of its resources**]{style="color:white;"}
+
+::: notes
+
+Maximizing human control of the wilderness, including:
+
+1. Economic exploitation of all its resources, and 
+
+2. Human domination of everything we find out "there"
+
+<br>
+
+**Everybody with me on this?**
 
 <br>
 
@@ -206,7 +215,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -396,6 +405,26 @@ Groups take a few minutes to discuss the excerpt from Henry David Thoreau's *The
 
 **SLIDE**: Ok, don't lose sight of this, but now let's jump to the Muir piece.
 
+<br>
+
+*Notes from the reading, KTAADN notes for p223*
+
+- "Leaving this at last, I began to work my way, scarcely less arduous than Satan’s anciently through Chaos, up the nearest though not the highest peak. At first scrambling on all fours over the tops of ancient black spruce trees (Abies nigra), old as the flood, from two to ten or twelve feet in height, their tops flat and spreading, and their foliage blue, and nipped with cold, as if for centuries they had ceased growing upward against the bleak sky, the solid cold" (p27).
+
+- "It reminded me of the creations of the old epic and dramatic poets, of Atlas, Vulcan, the Cyclops, and Prometheus. Such was Caucasus and the rock where Prometheus was bound. Æschylus had no doubt visited such scenery as this. It was vast, Titanic, and such as man never inhabits. Some part of the beholder, even some vital part, seems to escape through the loose grating of his ribs as he ascends. He is more lone than you can imagine. There is less of substantial thought and fair understanding in him than in the plains where men inhabit. His reason is dispersed and shadowy, more thin and subtile, like the air. Vast, Titanic, inhuman Nature has got him at disadvantage, caught him alone, and pilfers him of some of his divine faculty. She does not smile on him as in the plains. She seems to say sternly, Why came yehere before your time. This ground is not prepared for you. Is it not enough that I smile in the valleys? I have never made this soil for thy feet, this air for thy breathing, these rocks for thy neighbors. I cannot pity nor fondle thee here, but forever relentlessly drive thee hence to where I am kind. Why seek me where I have not called thee, and then complain because you find me but a stepmother? Shouldst thou freeze or starve, or shudder thy life away, here is no shrine, nor altar, nor any access to my ear" (28-29).
+
+- "The tops of mountains are among the unfinished parts of the globe, whither it is a slight insult to the gods to climb and pry into their secrets, and try their effect on our humanity. Only daring and insolent men, perchance, go there. Simple races, as savages, do not climb mountains,—their tops are sacred and mysterious tracts never visited by them. Pomola is always angry with those who climb to the summit of Ktaadn" (29).
+
+- "Perhaps I most fully realized that this was primeval, untamed, and forever untamable Nature, or whatever else men call it, while coming down this part of the mountain. We were passing over “Burnt Lands,” burnt by lightning, perchance, though they showed no recent marks of fire, hardly so much as a charred stump, but looked rather like a natural pasture for the moose and deer, exceedingly wild and desolate, with occasional strips of timber crossing them, and low poplars springing up, and patches of blueberries here and there. I found myself traversing them familiarly, like some pasture run to waste, or partially reclaimed by man; but when I reflected what man, what brother or sister or kinsman of our race made it and claimed it, I expected the proprietor to rise up and dispute my passage. It is difficult to conceive of a region uninhabited by man. We habitually presume his presence and influence everywhere. And yet we have not seen pure Nature, unless we have seen her thus vast and drear and inhuman, though in the midst of cities. Nature was here something savage and awful, though beautiful. I looked with awe at the ground I trod on, to see what the Powers had made there, the form and fashion and material of their work. This was that Earth of which we have heard, made out of Chaos and Old Night. Here was no man’s garden, but the unhandseled globe. It was not lawn, nor pasture, nor mead, nor woodland, nor lea, nor arable, nor waste land. It was the fresh and natural surface of the planet Earth, as it was made forever and ever,—to be the dwelling of man, we say,—so Nature made it, and man may use it if he can. Man was not to be associated with it. It was Matter, vast, terrific,—not his Mother Earth that we have heard of, not for him to tread on, or be buried in,—no, it were being too familiar even to let his bones lie there,—the home, this, of Necessity and Fate. There was clearly felt the presence of a force not bound to be kind to man. It was a place for heathenism and superstitious rites,—to be inhabited by men nearer of kin to the rocks and to wild animals than we. We walked over it with a certain awe, stopping, from time to time, to pick the blueberries which grew there, and had a smart and spicy taste. Perchance where our wild pines stand, and leaves lie on their forest floor, in Concord, there were once reapers, and husbandmen planted grain; but here not even the surface had been scarred by man, but it was a specimen of what God saw fit to make this world. What is it to be admitted to a museum, to see a myriad of particular things, compared with being shown some star’s surface, some hard matter in its home! I stand in awe of my body, this matter to which I am bound has become so strange to me. I fear not spirits, ghosts, of which I am one,—that my body might,—but I fear bodies, I tremble to meet them. What is this Titan that has possession of me? Talk of mysteries! Think of our life in nature,—daily to be shown matter, to come in contact with it,—rocks, trees, wind on our cheeks! the solid earth! the actual world! the common sense! Contact!
+
+Contact! Who are we? where are we?" (30-31).
+
+- "After such a voyage, the troubled and angry waters, which once had seemed terrible and not to be trifled with, appeared tamed and subdued; they had been bearded and worried in their channels, pricked and whipped into submission with the spike-pole and paddle, gone through and through with impunity, and all their spirit and their danger taken out of them, and the most swollen and impetuous rivers seemed but playthings henceforth. I began, at length, to understand the boatman’s familiarity with, and contempt for, the rapids" (32-33).
+
+- "Thus a man shall lead his life away here on the edge of the wilderness, on Indian Millinocket Stream, in a new world, far in the dark of a continent, and have a flute to play at evening here, while his strains echo to the stars, amid the howling of wolves; shall live, as it were, in the primitive age of the world, a primitive man" (33).
+
+- "What is most striking in the Maine wilderness is the continuousness of the forest, with fewer open intervals or glades than you had imagined. Except the few burnt lands, the narrow intervals on the rivers, the bare tops of the high mountains, and the lakes and streams, the forest is uninterrupted. It is even more grim and wild than you had anticipated, a damp and intricate wilderness, in the spring everywhere wet and miry. The aspect of the country, indeed, is universally stern and savage, excepting the distant views of the forest from hills, and the lake prospects, which are mild and civilizing in a degree. The lakes are something which you are unprepared for; they lie up so high, exposed to the light, and the forest is diminished to a fine fringe on their edges, with here and there a blue mountain, like amethyst jewels set around some jewel of the first water,—so anterior, so superior, to all the changes that are to take place on their shores, even now civil and refined, and fair as they can ever be. These are not the artificial forests of an English king,—a royal preserve merely. Here prevail no forest laws but those of nature. The aborigines have never been dispossessed, nor nature disforested" (34-35).
+
 :::
 
 
@@ -539,7 +568,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -581,7 +610,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +

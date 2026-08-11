@@ -65,7 +65,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -128,7 +128,7 @@ Supporting the speed limit with street design transformed Main Street into Lanca
 
 <br>
 
-**SLIDE**: The next part of our class has focused on exploring competing historical perspectives on wilderness
+**SLIDE**: The second section of our class has focused on exploring competing historical perspectives on wilderness
 
 :::
 
@@ -174,7 +174,37 @@ As I hope I've made clear enough to you, these are not toy exercises meant to re
 
 
 
-## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+## {background-image="Images/background-forest_v3.png" .center}
+
+::: {.r-fit-text}
+**Concentrated Animal Feeding Operations (CAFO)**
+:::
+
+![](Images/05_1-CAFO_aerial.avif){style="display: block; margin: 0 auto"}
+
+::: notes
+
+A Concentrated Animal Feeding Operation (CAFO), also known as a factory farm
+
+- Applying factory processes to farming means finding ways to maximize your efficiency
+
+- This puts the focus on reducing costs and increasing production
+
+<br>
+
+CAFOs are a BIG reason why meat at the grocery store has tended to get cheaper and cheaper over time
+
+- Huge benefits to families trying to buy groceries on fixed incomes
+
+<br>
+
+**SLIDE**: On the other hand, this raises some serious objections
+
+:::
+
+
+
+## CAFO Problem 1 {background-image="Images/background-forest_v3.png" .center}
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -193,33 +223,62 @@ As I hope I've made clear enough to you, these are not toy exercises meant to re
 
 ::: notes
 
-A Concentrated Animal Feeding Operation (CAFO), also known as a factory farm
+FIRST, many object to the treatment of animals like this on ethical terms
 
-- Huge efficiencies to farming at huge numbers and denying those animals much ability to move
+- The animals are typically given very little space to move 
 
-<br>
+- The feeding is constant
 
-These are why meat at the grocery store has tended to get cheaper and cheaper over time
-
-- Huge benefits to families trying to buy groceries on fixed incomes
+- There is no opportunity for exercise
 
 <br>
 
-**SLIDE**: The problem
+**SLIDE**: Second
 
 :::
 
 
 
-## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+## CAFO Problem 2 {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/05_1-CAFO-bacterial_resistance.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+SECOND, maintaining a massive animal population in close quarters means diseases spread easily and rapidly
+
+- SO, most CAFOs use subtherapeutic dosing
+
+- This means routine, low-dose antibiotic use in all of the animals
+
+- Giving low doses of antibiotics to healthy animals kills weak bacteria but allows resilient strains to survive and multiply
+
+- HENCE, on a MASSIVE scale these CAFOs are breeding bacteria that are resistant to antibiotics
+
+<br>
+
+The impacts are massive
+
+- The WHO estimates that in 2021 antimicrobial resistance (AMR) was associated with more than 4.7 million deaths globally
+
+- In the US the CDC estimates more than 2.8 million antimicrobial-resistant infections occur each year
+
+- And the numbers are increasing rapidly.
+
+<br>
+
+**SLIDE**: Problem 3
+
+:::
+
+
+
+
+## CAFO Problem 3 {background-image="Images/background-forest_v3.png" .center}
 
 ![](Images/05_1-McVan-hog-cafo-manure-lagoons.jpg){style="display: block; margin: 0 auto"}
 
 ::: notes
-
-FIRST, you may object to the treatment of animals like this on ethical terms
-
-SECOND, massive animal populations in close quarters require extensive antibiotics to stay healthy which raises the risks of antibiotic resistance spreading
 
 THIRD, CAFOS generate millions of tons of manure every year. 
 
@@ -238,7 +297,7 @@ THIRD, CAFOS generate millions of tons of manure every year.
 
 
 
-## The CAFO Problem {background-image="Images/background-forest_v3.png" .center}
+## {background-image="Images/background-forest_v3.png" .center}
 
 :::: {.columns}
 ::: {.column width="60%"}
@@ -247,6 +306,8 @@ THIRD, CAFOS generate millions of tons of manure every year.
 
 ::: {.column width="40%"}
 ![](Images/05_1-lagoon_overflow2.jpg)
+
+<br>
 
 ![](Images/05_1-waterkeeper_matthew_hog_farm.jpg)
 :::
@@ -262,7 +323,7 @@ Does anybody think flooding rain is an unusual event in rural farm communities?
 
 <br>
 
-**SLIDE**: Anybody heard of Missouri Guardrails?
+**SLIDE**: **SO, has anybody heard of Missouri Guardrails?**
 
 :::
 
@@ -687,7 +748,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -782,7 +843,7 @@ Importantly, this reinforces our key idea!
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](Images/05_1-Bass_Pro_Exterior.jpg)
+![](Images/05_1-WondersOfWildlife_Exterior.jpg)
 :::
 
 ::: {.column width="50%"}
@@ -795,7 +856,7 @@ Importantly, this reinforces our key idea!
 
 Alright class, let's get back out into the world!
 
-- Thursday we will meet at Bass Pro inside the front entrance at 9:30a
+- Thursday we will meet at Bass Pro inside the front entrance to the aquarium at noon
 
 <br>
 

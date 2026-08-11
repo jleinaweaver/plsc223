@@ -83,9 +83,9 @@ IFF everyone in class submits their evals for this class I will give everyone EC
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Springfield Noble Hills Sanitary Landfill**
+**Field Trip: Springfield Noble Hills Sanitary Landfill**
 
-- Thursday: Sarah Sims joining us in class
+- Thursday, Nov 19th at noon
 :::
 
 ![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
@@ -93,13 +93,23 @@ IFF everyone in class submits their evals for this class I will give everyone EC
 
 ::: notes
 
-*Field trip slide moved to end*
+Thursday we visit the landfill!
+
+- Springfield Noble Hills Landfill
+
+- Meet at 9:30a
 
 <br>
 
-Due to the stormy forecast I've asked Sarah Sims from the Department of Environmental Services to come to us on Thursday
+Key Notes:
 
-- SO, come to class as normal on Thursday!
+1. Be careful as Apple maps has led people to the wrong entrance in the past!
+
+2. Wear boots and clothes that can get dirty!
+
+3. Driving into the landfill is rocky and unpaved beyond the parking lot SO carpool by truck / SUV
+
+4. **There is a release on our Modules page you must sign and bring with you to the tour**
 
 <br>
 
@@ -264,9 +274,23 @@ Today I want to explore the final few chapters of Dauvergne's book which aim to 
 
 <br>
 
-Let's go find current examples!
+**SLIDE**: Let's go find current examples!
 
-- Everybody hit the internet for a minute and go find us examples of green groups active mindbombing campaigns
+:::
+
+
+
+## Dauvergne's (2016) Arguments {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+### Ch 10: Mindbombing the Wealthy
+
+- Find us recent examples of green groups "mindbombing the wealthy"
+
+::: notes
+
+Everybody hit the internet for a minute and find us more recent examples of green groups active mindbombing campaigns
 
 - *Share and discuss each, you pull them up on the big screen*
 
@@ -328,15 +352,29 @@ Let's go find current examples!
 
 ::: notes
 
-Let's talk about the case Dauvergne makes in chapter 11
+In chapter 11 Dauvergne argues that corporate partnerships with green NGOs represent the "forefront of the environmentalism of the rich"
+
+- He gives us examples of the World Wildlife Federation, Coca cola and other corporate partnerships
 
 <br>
 
-Dauvergne argues that corporate partnerships with green NGOs represent the "forefront of the environmentalism of the rich"
+*Split class in half*
 
-- **What are the environmental pros and cons of pursuing these deals?**
+Corporate money and partnerships with Green NGOS:
 
-- (**SLIDE**)
+- Class Side A: Make a list on the board of all the positive benefits of pursuing these kinds of deals
+
+- Class Side B: Make a list on the board of all the costs from pursuing these kinds of deals
+
+- Work directly on the board! Go!
+
+<br>
+
+*Present and Discuss each*
+
+<br>
+
+(**SLIDE**: My notes)
 
 :::
 
@@ -512,7 +550,7 @@ I'd like to now circle back to the environmental advocacy material
 
 
 
-## Due Next Tuesday (Nov 25th) {background-image="Images/background-forest_v3.png" .center}
+## Due Next Tuesday (Nov 24th) {background-image="Images/background-forest_v3.png" .center}
 
 <br>
 
@@ -539,46 +577,3 @@ Explain the local environmental problem you have selected for the final paper.
 
 :::
 
-
-
-
-## Old slides
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-::: {.r-fit-text}
-**Field Trip: Springfield Noble Hills Sanitary Landfill**
-
-- Thursday, Nov 20th at 9:30a
-:::
-
-![](Images/13_2-Landfill.jpeg){style="display: block; margin: 0 auto"}
-
-
-::: notes
-
-*Field trip slide moved to end*
-
-Thursday we visit the landfill!
-
-- Springfield Noble Hills Landfill
-
-- Meet at 9:30a
-
-<br>
-
-Key Notes:
-
-1. Be careful as Apple maps has led people to the wrong entrance in the past!
-
-2. Wear boots and clothes that can get dirty!
-
-3. Driving into the landfill is rocky and unpaved beyond the parking lot SO carpool by truck / SUV
-
-4. **There is a release on our Modules page you must sign and bring with you to the tour**
-
-<br>
-
-**SLIDE**: One more time, let's recap!
-
-:::

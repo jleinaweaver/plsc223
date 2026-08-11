@@ -33,11 +33,13 @@ Prep for Class
 
 1. Check Canvas submissions
 
-2. Have all three google docs from last class open for yourself to refer to
+2. Have all three discussion boards from last class open for yourself to refer to
+
+3. Make sure to save lots of time to share and discuss the wilderness experiences as a chance to both brainstorm for the paper AND the class to get to know each other better.
 
 <br>
 
-**SLIDE**: Final details on field trip
+**SLIDE**: Don't forget, Thursday we travel!
 
 :::
 
@@ -46,35 +48,34 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 <br>
 
 ::: {.r-fit-text}
-**Springfield Conservation Nature Center**
 
-- Thursday (Aug 28)
+**SGF Conservation Nature Center**
 
-- 9:35a - 10:35a
+- Thursday (Aug 27th)
+
+- Noon - 1:15p
 :::
-
-<br>
 
 ![](Images/02_1-Nature-Center.jpg){style="display: block; margin: 0 auto"}
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 ![](Images/02_1-Map_to_Nature_Center.png){style="display: block; margin: 0 auto"}
 :::
 ::::
 
 ::: notes
 
-Thursday our first field trip of the semester
+Thursday is our first field trip of the semester
 
 - We're meeting at the Springfield Conservation Nature Center
 
-- We'll gather there at 9:35a and spend an hour (time to travel back to campus)
+- We'll gather there at noon and spend an hour (with time set aside to travel back to campus)
 
 <br>
 
@@ -84,52 +85,67 @@ Thursday our first field trip of the semester
 
 <br>
 
-**SLIDE**: Refresh our work from last week
+**SLIDE**: Connections to last class
 
 :::
-
 
 
 
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**What is "the environment"?**
-
-- e.g. "nature" or "wilderness"
+**Finding Wilderness in Drury's Environment**
 :::
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+![](Images/01_1-Drury_Campus.jpeg)
+
+:::
+
+::: {.column width="35%"}
+
+<br>
+
+::: {.r-fit-text}
+
+- "Pure"
+
+- "Managed"
+
+- "Not"
+
+:::
+:::
+::::
 
 ::: notes
 
-Let's kick off our work today with a refresher from last week
+Last class I sent you out onto our campus to explore and reflect on Drury's "environment"
 
-- Everybody open up our "pure nature" document on Canvas
-
-<br>
-
-**What are the "best" examples of pure wilderness on Drury's campus on this document? Why?**
+- I asked each of you to find me an example of 1) "pure wilderness," 2)  "managed nature," and 3) "the absence of wilderness"
 
 <br>
 
-Open up the "not" nature document
+**What were some of your favorite examples of "pure wilderness" on Drury's campus?**
 
-- **What are the "most" not nature of the photos that were submitted? why?**
-
-<br>
-
-**On balance, where would you classify Drury's campus in terms of "pure nature," "managed nature" and "not nature"? Make your case!**
+- **Why do these ones stand out for you?**
 
 <br>
 
-**Would it be "better" if Drury were closer to "pure nature"? Why or why not?**
-
-- **Better for who?**
-
-- **Better for what?**
+**And what was an example of something that completely lacks wilderness?**
 
 <br>
 
-**SLIDE**: For today I gave you the prologoue from Roderick Frazier Nash's book
+The aim of this exercise was to:
+
+1. Serve as a warm-up for exploring the concepts at the heart of this class,
+
+2. Get us out and onto our campus in a deliberate way where we observe our community without just walking through it, and
+
+3. **SLIDE**: To set us up for the Nash reading you did for today!
 
 :::
 
@@ -142,7 +158,7 @@ Open up the "not" nature document
 
 ::: notes
 
-Nash's book is a phenomenal exploration of the American relationship with wilderness across time
+Roderick Frazier Nash's book is a phenomenal exploration of the American relationship with wilderness across time
 
 - I was super tempted to assign this book as a throughline for our class, but it gets pretty wonky pretty darn fast
 
@@ -150,11 +166,25 @@ Nash's book is a phenomenal exploration of the American relationship with wilder
 
 <br>
 
-So, we stick with the prologue!
+So, we'll stick with the prologue!
 
 - I really appreciate the clarity, depth and conciseness of the prologue as a deep dive into our key concept, wilderness
 
-- **SLIDE**: Let's dig into the reading as an academic argument.
+<br>
+
+*Split class into small groups (3 per)*
+
+- Go sit with your group!
+
+<br>
+
+Roderick Frazier Nash is a professor emeritus of history and environmental studies at the University of California Santa Barbara
+
+- That means his book is an academic argument
+
+- He is trying to convince you that his work has generated new, useful knowledge about the world
+
+- **SLIDE**: SO, let's analyze the prologue in those terms!
 
 :::
 
@@ -170,9 +200,7 @@ So, we stick with the prologue!
 
 ::: notes
 
-*Split class into small groups (3 per)*
 
-- Go sit with your group!
 
 <br>
 
@@ -188,7 +216,12 @@ The Nash book is definitely an academic argument and that means it should have a
 
 - *Give them a chance to throw out some ideas*
 
-- *Note for you: The wilderness as spectrum is an extension of the argument you want to start with, e.g. if you accept wilderness is a quality then our best approach is the spectrum*
+<br>
+
+*Notes for you*
+
+- *The argument is that wilderness is a quality, not an object*
+- *The spectrum of wilderness is what follows from this argument*
 
 <br>
 
@@ -239,6 +272,10 @@ Groups, report back!
 <br>
 
 **SLIDE**: Your version (3 premises)
+
+- *1) The origination and use of “wilderness” as a label differed across cultures*
+- *2) The meaning of wilderness has evolved over time*
+- *3) No single classification of wilderness accepted broadly*
 
 <br>
 
@@ -312,7 +349,9 @@ I want to highlight these three premises (big ideas)
 
 <br>
 
-If the intuition held by so many is wilderness is a concrete thing we can identify and agree on, then these are serious problems!
+I would guess that most peoples' intuitions about wilderness are that it is a "thing" in the world
+
+- If you want to argue the wilderness is a specific type of thing, then these are three VERY serious problems you must overcome
 
 <br>
 
@@ -334,9 +373,9 @@ If the intuition held by so many is wilderness is a concrete thing we can identi
     
     - Places that make us wild ("bewilder")
 
-2. The meaning of wilderness has evolved over time 
+2. [The meaning of wilderness has evolved over time]{style="color:gray;"}
 
-3. No single classification of wilderness accepted broadly
+3. [No single classification of wilderness accepted broadly]{style="color:gray;"}
 
 Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
 
@@ -366,21 +405,15 @@ These are all discrete and SEPARATE definitions of wilderness.
 
 ## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
 
-1. The origination and use of "wilderness" as a label differed across cultures
+1. [The origination and use of "wilderness" as a label differed across cultures]{style="color:gray;"}
 
-    - Lost, unruly, disordered (Old Swedish describe boiling water)
-    
-    - Creatures not controlled by man ("wild-deor-ness")
-    
-    - Places that make us wild ("bewilder")
-    
 2. The meaning of wilderness has evolved over time 
 
-    - Bible: A treeless wasteland; a desert
+    - Bible (13th-14th C): A treeless wasteland; a desert
     
-    - Dictionaries Today: Undeveloped lands
+    - Dictionaries Today: Uncultivated or undeveloped lands; places where you feel lost
 
-3. No single classification of wilderness accepted broadly
+3. [No single classification of wilderness accepted broadly]{style="color:gray;"}
 
 Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
 
@@ -397,11 +430,67 @@ Expanding on P2
 
 <br>
 
+**SLIDE**: P3
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center .smaller}
+
+1. [The origination and use of "wilderness" as a label differed across cultures]{style="color:gray;"}
+
+2. [The meaning of wilderness has evolved over time]{style="color:gray;"}
+
+3. No single classification of wilderness accepted broadly
+
+    - An area that can “absorb a two weeks’ pack trip” (Leopold 1921)
+    
+    - An area so large you cannot traverse it in one day (Marshall 1930)
+    
+    - Areas over 100,000 acres containing no roads usable by the public with “no significant ecological disturbance from on-site human activity” (ORRR Comission 1962)
+    
+    - An area where the earth and its community of life are untrammeled by man; must retain its primeval character and influence (US Statute 1964)
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
+
 Expanding on P3
 
 - Again, we are confronted by the fact that even today, and despite many attempts, we do not have a single, widely adopted consensus definition for wilderness as a "thing"
 
+    - Naturalist Aldo Leopold (1921): An area that can “absorb a two weeks’ pack trip”
+    
+    - Explorer Robert Marshall (1930): an area so large you cannot traverse it in one day (without mechanical means)
+    
+    - In the 1920s and 1930s the US Forst Service experimented with terms like primitive, roadless and natural but it didn't clarify things
+    
+    - The Outdoor Recreation Resources Review Commission (1962): Areas over 100,000 acres containing no roads usable by the public with “no significant ecological disturbance from on-site human activity”
+    
+    - In 1964 Congress enacted a statute defining wilderness as an area where the earth and its community of life are untrammeled by man; must retain its primeval character and influence.
+
 <br>
+
+**SLIDE**: Bottom line
+
+:::
+
+
+
+## Nash's (2014) Argument {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+1. The origination and use of "wilderness" as a label differed across cultures
+
+2. The meaning of wilderness has evolved over time 
+
+3. No single classification of wilderness accepted broadly
+
+Therefore, wilderness is an evolving, subjective "quality" NOT an object we can simply identify
+
+::: notes
 
 **Ok, bottom line, are you convinced by Nash's argument? Why or why not?**
 
@@ -429,7 +518,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -493,7 +582,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -570,7 +659,7 @@ Ok, this wider exploration of the environment leads us straight into our first p
 
 Make an argument that the wilderness is important to our community
 
-- Due next Friday (Sep 5th)
+- Due next Friday (Sep 4th)
 
 ::: notes
 
@@ -643,6 +732,7 @@ EACH premise must be supported by multiple examples of high quality evidence
 
 ::: {.r-fit-text}
 **Six Paragraph Argument Paper**
+:::
 
 1. Introduction Paragraph
 
@@ -655,7 +745,6 @@ EACH premise must be supported by multiple examples of high quality evidence
 5. Counter-argument
 
 6. Conclusion Paragraph
-:::
 
 ::: notes
 
@@ -790,32 +879,47 @@ Make an argument that the wilderness is important to our community.
 
 
 
+## {background-image="Images/02_1-hiking.webp"}
 
-## Share a Wilderness Experience {background-image="Images/background-forest_v3.png" .center}
+**Share a Wilderness Experience**
 
-![](Images/02_1-hiking.webp)
+::: {.incremental}
+
+1. Describe your experience
+
+2. Generalize from your experience
+
+:::
 
 ::: notes
 
 Everybody open up the discussion board of wilderness experiences
 
-- This is a kind of group brainstorming for the first paper AND a chance to get to know your classmates better
+- This is BOTH a group brainstorming exercise for the first paper, AND 
+
+- A chance to get to know your classmates better!
 
 <br>
 
-*ON BOARD: Three headers (purely wild, perfectly balanced, purely civilized)*
+I will ask each of you to share with us what you submitted on Canvas
+
+- **REVEAL**: First, tell us about the wilderness experience you had
+
+- **REVEAL**: THEN, generalize from the experience for us
+
+    - That experience was important to you, so, can we extrapolate from that a reason the wilderness is important to everyone?
+    
+<br>
+
+**Make sense?**
+
+- Let's go!
+
+- *PRESENT and DISCUSS each*
 
 <br>
 
-As we hear each of these I want us to do two things:
-
-1. Place this experience on the spectrum of environments
-
-2. List the broader reasons revealed by this experience for why wilderness is important to society
-
-<br>
-
-*PRESENT and DISCUSS each*
+**SLIDE**: For next class
 
 :::
 

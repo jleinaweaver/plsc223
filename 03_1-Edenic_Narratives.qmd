@@ -106,7 +106,7 @@ d1 <- tibble(
 )
 
 ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 8) +
+  geom_point(size = 0) +
   theme_void() +
   coord_cartesian(xlim = c(-4, 4)) +
   geom_label(aes(label = labels), size = 7) +
@@ -533,7 +533,30 @@ I genuinely think it is
 
 **Is there a version of P2 we could add that would do a similar job but without a straw man?**
 
-- (Wilderness advocates tend to be difficult to negotiate with because they are often inconsistent in the environments they choose to care about and the uses they find acceptable)
+- (**SLIDE**)
+
+:::
+
+
+
+
+## Wernick (1965) {background-image="Images/background-forest_v3.png" .center .smaller}
+
+- Wilderness represents an oppressive darkness constantly assaulting us and breeding war and oppression
+
+- [Wilderness advocates are often inconsistent in the environments they choose to care about and the uses they find acceptable]{style="color:blue;"}
+
+- Wilderness preservation is just one legitimate use of our resources no better than building roads, mining or erecting cities
+
+- Wilderness preservation is a minority viewpoint
+
+Therefore, we should take full advantage of the resources available in the wilderness
+
+::: notes
+
+I think this makes the argument FAR stronger!
+
+- **Everybody with me on this?**
 
 <br>
 
@@ -690,9 +713,78 @@ Your assignment for next class is to take the big ideas from this narrative appr
 
 - Edenic narrative: The value of the wilderness is maximized through use
 
-- The details are on Canvas
+<br>
+
+**SLIDE**: Let me clarify here what I'm looking for!
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+**Are 'all natural' products examples of the Edenic Narrative?**
+
+![](Images/03_1-natural_foods.webp){style="display: block; margin: 0 auto"}
+
+::: notes
+
+Let's say you submit a loaf of bread that markets itself as "all natural".
+
+- **Is that consistent with the Edenic narrative? Why or why not?**
 
 <br>
+
+(No!)
+
+- The Edenic narrative IS the argument that while Eden was perfect, it no longer exists!
+
+- The wilderness of the world we live in is meant to be dominated by us, not celebrated!
+
+- **Does that make sense?**
+
+<br>
+
+**SLIDE**: And on the services side...
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+**Are 'back to nature' services examples of the Edenic Narrative?**
+
+![](Images/03_1-glamping.jpg){style="display: block; margin: 0 auto"}
+
+::: notes
+
+**And if you find a service that sells itself as helping you get closer to nature, is that consistent with the Edenic narrative?**
+
+- (Nope! Same as above!)
+
+- Edenic doesn't mean nature is to be celebrated, it is to be made useful!
+
+<br>
+
+**SLIDE**: Back to the assignment
+
+:::
+
+
+
+## For Next Class {background-image="Images/background-forest_v3.png" .center}
+
+<br>
+
+**Edenic Narratives**
+
+1. Arguments for Consumers: Find a product or service
+
+2. Arguments for Citizens: Find an argument or call to action
+
+
+::: notes
 
 **Questions on the assignment?**
 
