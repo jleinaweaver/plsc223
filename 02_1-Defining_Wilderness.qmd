@@ -883,19 +883,13 @@ Make an argument that the wilderness is important to our community.
 
 **Share a Wilderness Experience**
 
-::: {.incremental}
-
-1. Describe your experience
-
-2. Generalize from your experience
-
-:::
-
 ::: notes
 
-Everybody open up the discussion board of wilderness experiences
+*Have the class circle up, face each other!*
 
-- This is BOTH a group brainstorming exercise for the first paper, AND 
+<br>
+
+Let's kick things off by hearing about your experiences!
 
 - A chance to get to know your classmates better!
 
@@ -903,11 +897,39 @@ Everybody open up the discussion board of wilderness experiences
 
 I will ask each of you to share with us what you submitted on Canvas
 
-- **REVEAL**: First, tell us about the wilderness experience you had
+- Let's do it!
 
-- **REVEAL**: THEN, generalize from the experience for us
+<br>
 
-    - That experience was important to you, so, can we extrapolate from that a reason the wilderness is important to everyone?
+**SLIDE**: Now let's move from the cases to the big ideas!
+
+:::
+
+
+
+
+
+## {background-image="Images/02_1-hiking.webp"}
+
+**Generalize About the Wilderness Experience**
+
+::: {.incremental}
+
+What makes the wilderness important to us and our wider society?
+
+:::
+
+::: notes
+
+Everybody open up the discussion board of wilderness experiences
+
+- This is now a group brainstorming exercise for the first paper!
+
+<br>
+
+Reflect on all the cases that were submitted for today and let's generalize from these experiences
+
+- That experience was important to you, so, can we extrapolate from that a reason the wilderness is important to everyone?
     
 <br>
 

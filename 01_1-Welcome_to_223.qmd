@@ -369,6 +369,18 @@ The time you spend in the gym getting stronger and more flexible makes you a bet
 
 <br>
 
+**SLIDE**: Don't cheat yourself
+
+:::
+
+
+
+## This is Not the Exercise you Need {background-image="Images/background-forest_v3.png" .center}
+
+![](Images/01_1-forklift.gif){style="display: block; margin: 0 auto"}
+
+::: notes
+
 Using AI tools is like bringing a forklift into the weight room. 
 
 - Yeah, you lifted the weights, but it was a waste of your time.

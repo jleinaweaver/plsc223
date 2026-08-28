@@ -31,6 +31,8 @@ Prep for Class
 
 1. Review Canvas submissions
 
+2. Markers x 4
+
 <br>
 
 Welcome back all!
@@ -183,7 +185,7 @@ For today I asked each of you to explore our campus and submit photo evidence of
 
 <br>
 
-*Split class into small groups (3-4 each?)*
+*Split class into four groups (maximize board space)*
 
 - Go sit with your group
 
@@ -213,13 +215,25 @@ For today I asked each of you to explore our campus and submit photo evidence of
 
 <br>
 
-Let's build a big list of qualities of "pure" nature!
+Work directly on the board!
 
-- *ON BOARD*
+- Go!
 
 <br>
 
-**SLIDE**: Definition time
+*PRESENT and DISCUSS each*
+
+<br>
+
+*Mix up the groups! (new four groups)*
+
+- Go sit with your new group!
+
+- Introduce yourselves
+
+<br>
+
+**SLIDE**: Let's now shift to the other end of the spectrum
 
 <br>
 
@@ -231,50 +245,6 @@ Include the photo in your post and explain:
 
 1) What specifically in the photo you want us to focus on, and
 2) WHY this represents pure nature or wilderness.
-
-
-:::
-
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-::: {.r-fit-text}
-**Define "pure wilderness / nature"**
-
-- Aim for one complete sentence
-:::
-
-::: notes
-
-Ok, groups, if these are the qualities we are interested in I want you to write me a concise definition of the concept
-
-- Aim for one complete sentence
-
-- Go!
-
-<br>
-
-*PRESENT and DISCUSS each*
-
-- *YOU help steer groups towards different perspectives:*
-    
-    - Nature as resources for human use
-    - Nature as all non-human entities with an emphasis on equal protection (not anthropocentric)
-    - Nature as unspoiled (e.g. the absence of human interference)
-    - Nature as an ecological system with an interplay between living and non-living things
-
-<br>
-
-*Mix up the groups!*
-
-- Go sit with your new group!
-
-- Introduce yourselves
-
-<br>
-
-**SLIDE**: Next prompt
 
 :::
 
@@ -304,9 +274,15 @@ Open up the third discussion board
 
 <br>
 
-Let's build a big list of qualities of the "absence" of nature!
+*PRESENT and DISCUSS each*
 
-- *ON BOARD*
+<br>
+
+*Mix up the groups one last time! (new four groups)*
+
+- Go sit with your new group!
+
+- Introduce yourselves
 
 <br>
 
@@ -316,33 +292,49 @@ Let's build a big list of qualities of the "absence" of nature!
 
 
 
+
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**Define the "absence of wilderness / nature"**
+**Define "pure wilderness / nature"**
 
 - Aim for one complete sentence
 :::
 
 ::: notes
 
-Ok, groups, if these are the qualities we are interested in I want you to write me a concise definition of the concept
+Ok, groups, I want you to reflect on our cases, discussions and lists of characteristics
+
+- THEN I want you to write me a concise definition of the concept on the board
 
 - Aim for one complete sentence
 
+- The goal here is NOT to reach a consensus across the groups, I want to explore the differences!
+
 - Go!
 
 <br>
 
-*PRESENT and DISCUSS each*
+*PRESENT each*
 
 <br>
 
-Mix up the groups one last time!
+Ok, part of this exercise today is to encourage us to explore the contested nature of the concept itself
 
-- Make a group of 3 or 4 and aim for NEW people!
+- By that I mean, there are multiple ways wilderness or nature can be defined and I want to make sure we unpack them too!
 
-- Go!
+- SO, help me tweak each definition on the board to cover slightly different ground than the others!
+
+- *DISCUSS and TWEAK*
+
+    - Nature as a resource for human use and development
+    - Nature only so long as unspoiled by human interference
+    - Nature as an ecological system with an interplay between living things
+    - Nature as requiring the equal protection of all living AND non-living things (moving beyond anthropocentrism)
+
+<br>
+
+**Do we have four somewhat different definitions?**
 
 <br>
 
@@ -364,17 +356,45 @@ Mix up the groups one last time!
 
 ::: notes
 
-Imagine a 10 point scale bounded by these two definitions (e.g. scale from not nature to pure nature)
+Imagine a 10 point scale that measures your definition in practice
 
 <br>
 
-Everybody open our second discussion board that holds all our in-between cases
+First task, groups focus on the cases in our "pure nature" discussion board
+
+- Get ready to report back to us on two things:
+
+1. Which cases would your definition classify as a perfect ten?
+
+2. What cases in this discussion board would your definition give the lowest scores to?
+
+- Go!
+
+- *REPORT back and DISCUSS*
+
+<br>
+
+Now switch to the "not wilderness" discussion board and let's repeat the task
+
+- Groups, would every submitted case get a "1"?
+
+1. Which cases would your definition classify as a one?
+
+2. What cases in this discussion board would your definition give the highest scores to?
+
+- Go!
+
+- *REPORT back and DISCUSS*
+
+<br>
+
+Ok, last task, open our second discussion board that holds all our in-between cases
 
 - Let's step through the cases
 
 - Groups, you tell us where you would put this example on your version of the ten point scale and why
 
-- *PRESENT and DISCUSS each*
+- *DEBATE each*
 
 <br>
 
