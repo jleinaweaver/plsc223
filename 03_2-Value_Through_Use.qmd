@@ -104,63 +104,46 @@ The wilderness is not a "thing," it is a quality.
 
 <br>
 
-**Why have I been arguing to you that shifting your focus in this way is a big deal?**
+**For Nash, what characterizes a "purely civilized" environment?**
 
-- (**SLIDE**: Cronon's argument)
-
-:::
-
-
-
-## {background-image="Images/background-forest_v3.png" .center}
-
-:::: {.columns}
-::: {.column width="40%"}
-
-![](Images/03_2-Cronon.jpg)
-
-:::
-
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="50%"}
-
-![](Images/02_1-cronon_uncommonground2.jpg)
-
-:::
-::::
-
-::: notes
-
-William Cronon is a distinguished historian who has long studied humanity's relationship to nature across time.
-
-- His book *Uncommon Ground* is quite brilliant and we'll read some parts from it later this semester
+- (the highest levels of human interference or shaping of the environment)
 
 <br>
 
-I bring him up simply to note an extension of Nash's spectrum
+**And on the other end, what characterizes a "purely wild" environment?**
 
-- Cronon very much agrees with Nash that "wilderness” is a social construct, and he argues that recognizing that fact compels us to act!
+- (meaning the absence of human influence on the environment)
 
 <br>
 
-**SLIDE**: Act how? We must stop putting wilderness on a pedestal
+Ok, so why do I keep hammering you with this approach to defining wilderness?
+
+- **SLIDE**: 
 
 :::
+
+
+
 
 
 
 ## {background-image="Images/03_2-tree_lined_street_v2.png" .center}
 
+::: {.fragment}
 ### [We must abandon "the dualism that sees the tree in the garden as artificial...and the tree in the wilderness as natural... Both trees in some ultimate sense are wild; both in a practical sense now depend on our management and care" (Cronon 1996, 24).]{style="color:white;"}
+:::
 
 ::: notes
 
-As someone deeply invested in solving problems in our community I REALLY love this idea
+I think the historian and naturalist William Cronon nails it with this quote
 
-- Fighting about what is or isn't wilderness is a waste of time
+- **REVEAL**
+
+- As someone deeply invested in solving problems in our community I REALLY love this idea
+
+<br>
+
+Fighting about what is or isn't wilderness is a waste of time
 
 <br>
 
@@ -190,7 +173,7 @@ Bottom line from the Nash perspective, protecting and promoting wilderness is a 
 
 <br>
 
-**SLIDE**: Last week we moved from conceptualizing wilderness in broad terms and began exploring our first historical perspective on wilderness
+**SLIDE**: This week we moved from conceptualizing wilderness in broad terms and began exploring our first historical perspective on wilderness
 
 :::
 
@@ -200,74 +183,92 @@ Bottom line from the Nash perspective, protecting and promoting wilderness is a 
 
 ::: notes
 
-Talk to me about the Edenic narrative of wilderness.
-
-- **What were your takeaways about this perspective?**
+Let's recap the Edenic narrative of wilderness
 
 <br>
 
-- **What was Eden and how did it relate to wilderness?**
+**How does the Old Testament present the wilderness?**
 
-- **If the wilderness is the absence of God, per the Bible and the Bradford diary, then what is our duty when we encounter wilderness?**
+- (The absence of god; A place of corruption)
 
-<br>
+- (A desert or wasteland where your survival is threatened)
 
-Wernick (1965) takes this even further!
-
-- **What was Wernick's argument?**
-
-    - (Spoil the wilderness)
-    
-- **Strengths and weaknesses of this argument?**
-
-    - (Weaknesses: Too many straw men)
-    - (Strengths: Inconsistency in behavior of the wilderness defenders, societal needs are equally important to natural ones)
+- (KJ, Genesis 1:28: "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.")
 
 <br>
 
-**And what was White's (1967) argument?**
+**When William Bradford looked out into the wilderness beyond the borders of his colonial home, what did he see?**
 
-- (Modern science and culture in the West dramatically shaped by Christian perspectives on the environment (nature created for man's exploitation) and that has led us to ecological catastrophe)
+- (Emptiness and death)
 
-- **Strengths and weaknesses of this argument?**
-
-    - (Huge generalizations BUT well sourced, well written and plausible)
+- ("Besides, what could they see but a hideous and desolate wilderness, fall of wild beasts and wild men—and what multitudes there might be of them they knew not" (Chapter IX).)
 
 <br>
 
-**SLIDE**: Leads us to your assignment for today
+There is clearly an Old Testament perspective being expressed by Bradford when he looks at the wilderness
+
+- But let's hold our conversation about the White (1967) argument until the end of class
+
+<br>
+
+If the wilderness is the absence of God and a threat to our very survival, then the Edenic narrative is a story in which we must spoil the wilderness!
+
+- **What does Wernick mean by "spoil"?**
+
+- (He means we should make it productive, e.g. make it useful to improve human lives and well being.)
+
+<br>
+
+**What did you think were the strongest parts of Wernick's argument?**
+
+- (Wilderness can be very dangerous)
+
+- (Wilderness advocates are often inconsistent)
+
+- (Wilderness preservation is just one legitimate use of our resources no better than building roads, mining or erecting cities)
+
+<br>
+
+Wernick might be a bad writer in terms of developing a convincing argument, BUT
+
+- He's not wrong that we live in a world full of need and the wilderness offers resources that could be used to address those needs
+
+<br>
+
+Let's now track the edenic narrative in our world today
+
+- **SLIDE**
 
 :::
 
 
 
-## For Today {background-image="Images/background-forest_v3.png" .center}
+## {background-image="Images/background-forest_v3.png" .center}
 
-<br>
+::: {.r-fit-text}
+**The Frequency and Impact of Edenic Narratives**
 
-**Edenic Narratives of Wilderness**
+1. Arguments Targeting Consumers
 
-:::: {.columns}
-::: {.column width="50%"}
-![](Images/03_2-Car_ad_Wilderness.jpg)
+2. Arguments Targeting Citizens
 :::
 
-::: {.column width="50%"}
-![](Images/03_2-Oil_Ad.jpg){.absolute width="350"}
-:::
-::::
 
 ::: notes
 
 Your assignment for today was to find us examples of this Edenic narrative in the world around us
 
-1. Arguments for Consumers: Find a product or service
+1. Find a product or service that sells itself to you rooted in the arguments of the edenic narrative
 
-2. Arguments for Citizens: Find an argument or call to action
+2. Find an argument or call to public action that frames itself using the assumptions of the edenic narrative
 
 <br>
 
-**In essence, this exercise is meant to both reinforce our understanding of the first perspective AND to see how far White's argument extends to the modern day!**
+This exercise is meant to both:
+
+1. Reinforce our understanding of the first perspective, AND 
+
+2. To see how far these arguments extend to the modern day!
 
 <br>
 
@@ -415,31 +416,41 @@ Groups, take a few minutes to review the political arguments submitted on Canvas
 
 <br>
 
-**SLIDE**: Wrapping up
+**SLIDE**: Now let's go back to White's (1967) argument!
 
 :::
 
 
 
-## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
-
-<br>
+## {background-image="Images/background-forest_v3.png" .center}
 
 ### Does our evidence today reinforce or conflict with White's (1967) argument?
 
 :::: {.columns}
 ::: {.column width="50%"}
-![](Images/03_2-Car_ad_Wilderness.jpg)
+![](Images/03_2-christianity_usa_v1.png)
 :::
 
 ::: {.column width="50%"}
-![](Images/03_2-Oil_Ad.jpg){.absolute width="350"}
+![](Images/03_2-Car_ad_Wilderness.jpg)
 :::
 ::::
 
 ::: notes
 
-**Based on our work today are you more or less convinced by White's argument that our shared historical, religious roots are leading us to ecological catastrophe? Why or why not?**
+White's (1967) argument finds the roots of our current environmental catastrophes in the distant past
+
+- Specifically he notes that the development of western science and technology was “cast in a matrix of Christian theology”
+
+- A theology that taught us that God had created the world to serve man’s purposes
+
+<br>
+
+Now, White's evidence and focus is on the medeival period
+
+- **My question, is does our evidence suggest this problematic connection has continued up to today?**
+
+- **In other words, are you persuaded that majority Christian societies are ones where environmental protection will be harder to design? Why or why not?**
 
 <br>
 
