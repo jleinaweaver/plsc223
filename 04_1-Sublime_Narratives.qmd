@@ -35,9 +35,21 @@ Prep for Class
 
     - Cole, T. (1841, June). The Lament of the Forest. The Knickerbocker: Or, New-York Monthly Magazine, 17, 516–519.
     
+3. Readings
+
+    1. Thoreau, H. D. (1906). The Maine Woods. Houghton Mifflin Company. https://www.gutenberg.org/files/42500/42500-h/42500-h.htm#chap01 (Read his description of climbing Mount Katahdin, p26-35)
+    
+    2. Muir, J. (1917). My First Summer in the Sierra: Vol. II (Sierra Edition). Houghton Mifflin Company. https://www.gutenberg.org/files/32540/32540-h/32540-h.htm (Read "June 18" to "June 23", p58-61 and "July 20" p128-134 per the original book pages referenced in the margins of the pdf)
+    
+    3. Cole, T. (1836, January). Essay on American Scenery. American Monthly Magazine, 1, 1–12.
+    
+    4. William M. Denevan, “The Pristine Myth: The Landscape of the Americas in 1492,” Annals of the Association of American Geographers 82 (1992): 369-85
+    
+    5. OPTIONAL: Cole, T. (1841, June). The Lament of the Forest. The Knickerbocker: Or, New-York Monthly Magazine, 17, 516–519. 
+
 <br>
 
-**SLIDE**: Once again, let's review the path we have walked thus far
+**SLIDE**: Ok, quick refresher!
 
 :::
 
@@ -46,10 +58,52 @@ Prep for Class
 ## {background-image="Images/background-forest_v3.png" .center}
 
 ::: {.r-fit-text}
-**A Spectrum of Environments (Nash 2014)**
+**What is the wilderness?**
 :::
 
+::: notes
+
+**Hit me, what is the wilderness?**
+
+- (Per Roderick Frazier Nash's argument: The wilderness is a quality of something, not a concrete thing to be identified)
+
 <br>
+
+I don't know, guys, I'm pretty sure I know what the wilderness is
+
+- **SLIDE**: It looks like this
+
+:::
+
+
+
+## {background-image="Images/04_1-primeval_forest.jpg" .center}
+
+::: notes
+
+**According to Nash, why can't I simply treat wilderness as a "thing"?**
+
+- The origination and use of “wilderness” as a label differed across cultures
+
+- The meaning of wilderness has evolved over time
+
+- No single classification of wilderness accepted broadly
+
+<br>
+
+If "wilderness" refers to a specific thing, then the word has failed us because almost nobody means the same "thing" when they use it!
+
+<br>
+
+**SLIDE**: Nash encourages us to think about a spectrum of environments
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+**A Spectrum of Environments (Nash 2014)**
 
 ```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
 ## Manual DAG
@@ -67,27 +121,85 @@ ggplot(data = d1, aes(x = x, y = y)) +
   annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
 ```
 
+![](Images/04_1-lakeChelanHiking.jpg){style="display: block; margin: 0 auto" width="600"}
+
 ::: notes
 
-**Big picture, what is our takeaway about the "wilderness" concept from Nash's historical analysis?**
+**How do I apply the spectrum to this image?**
 
-- (The wilderness is a quality of something, not a concrete thing to be identified)
-
-<br>
-
-**In the spectrum, how does Nash define "purely civilized"?**
-
-- (meaning the highest levels of human interference or shaping of the environment)
+- **What does it help me see?**
 
 <br>
 
-**And how does Nash define the "purely wild"?**
+A single landscape includes elements from across the spectrum!
 
-- (meaning the absence of human influence on the environment)
+- The hiking trail represents greater levels of human interference or shaping of the environment
+
+- The mountaintop represents much less human interference or shaping of the environment
 
 <br>
 
-**And what does Cronon argue is our important takeaway from recognizing all of this?**
+This gets even more complicated when I tell you:
+
+- This lake is man made... But now hosts a vibrant ecosystem...
+
+- There has been some clearing of trees and rubble from the mountain for safety the safety of humans... AND of local plants and animals...
+
+- Plus climate change, and runoff into the lake, and...
+
+<br>
+
+So, this "wilderness" as a thing actually contains a ton of wild variation
+
+- AND my appreciation of the place is increased by recognizing the interplay between human shaping and nature shaping of the environment
+
+<br>
+
+**Make sense?**
+
+<br>
+
+**SLIDE**: A tougher case...
+
+:::
+
+
+
+## {background-image="Images/background-forest_v3.png" .center}
+
+**A Spectrum of Environments (Nash 2014)**
+
+```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
+## Manual DAG
+d1 <- tibble(
+  x = c(-3, 3),
+  y = c(1, 1),
+  labels = c("Purely\nCivilized", "Purely\nWild")
+)
+
+ggplot(data = d1, aes(x = x, y = y)) +
+  geom_point(size = 0) +
+  theme_void() +
+  coord_cartesian(xlim = c(-4, 4)) +
+  geom_label(aes(label = labels), size = 7) +
+  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
+```
+
+![](Images/04_1-central_park.webp){style="display: block; margin: 0 auto" width="600"}
+
+::: notes
+
+**How do I apply the spectrum to this photo of Central Park in NYC?**
+
+- **What does it help me see?**
+
+<br>
+
+A completely artificial creation BUT one that is trying its best to bring some wilderness into the heart of a massive city
+
+<br>
+
+**And what is the practical value of shifting our understanding of from wilderness as a thing to wilderness as a quality?**
 
 - (**SLIDE**)
 
@@ -192,7 +304,35 @@ Maximizing human control of the wilderness, including:
 
 <br>
 
-**Everybody with me on this?**
+Last class we shared examples of products and services being marketed to us using the Edenic narrative
+
+<br>
+
+**Give me an example that stood out to you**
+
+- (The helicopter machine gun pig hunting tours!)
+
+- (Forcing dolphins to entertain our children!)
+
+<br>
+
+**Generally speaking, how effective do you believe edenic messaging is on the American public?**
+
+- (Drill, baby, drill, am I right?)
+
+<br>
+
+**What are the benefits to society of adopting the Edenic narrative as your perspective on wilderness?**
+
+- **In other words, who or what benefits from this perspective?**
+
+- (Might maximize short term growth and provide immediate economic benefits to society)
+
+<br>
+
+**And who or what loses from organizing our decision-making using the edenic narrative?**
+
+- (ecological catastrophe, long-term risk)
 
 <br>
 
@@ -249,50 +389,6 @@ To me, this perspective would view the SGF Conservation Nature Center on the wil
 THIS is one of the big reasons we spend these early weeks exploring and reflecting on the perspectives
 
 - Each different perspective is a shortcut to understanding the debates about the environment we see around us today
-
-<br>
-
-**SLIDE**: With that in mind, let's talk about our evidence of the Edenic narrative in the world around us
-
-:::
-
-
-
-## {background-image="Images/04_1-2024_Subaru_Compact_SUV_desert_xl.png" .center}
-
-::: notes
-
-Nothing says AI generated freedom like watching a car drive through a wilderness!
-
-<br>
-
-**Give me specific examples of this perspective in our consumer lives (e.g. products or services for sale)**
-
-<br>
-
-**Give me specific examples of this perspective in our political discourse**
-
-<br>
-
-**Which kinds of Edenic arguments do you find most compelling? Why?**
-
-<br>
-
-**What are the benefits of adopting this perspective?**
-
-- **In other words, if society decided this was the "correct" lens for making resource decisions, who would benefit? How?**
-
-- (Might maximize short term growth and provide immediate economic benefits to society)
-
-<br>
-
-**Contra those, what are the dangers to society decided this was the "correct" lens for making resource decisions?**
-
-- (ecological catastrophe, long-term risk)
-
-<br>
-
-**Anything I didn't mention about this perspective you want to make sure we keep in mind moving forward?**
 
 <br>
 
@@ -362,7 +458,7 @@ Mount Katahdin
 
 <br>
 
-**SLIDE**: Prompts
+**SLIDE**: Reflections
 
 :::
 
@@ -373,9 +469,7 @@ Mount Katahdin
 ::: {.r-fit-text}
 Thoreau, H. D. (1906). *The Maine Woods*.
 
-1. What is the wilderness?
-
-2. What is the value of wilderness?
+- Climbing Mount Katahdin (p26-35)
 :::
 
 ::: notes
@@ -386,14 +480,15 @@ Henry David Thoreau is a towering figure in the American intellectual history of
 
 - (A very dry read, but important nontheless...)
 
-
 <br>
 
 Groups take a few minutes to discuss the excerpt from Henry David Thoreau's *The Main Woods* that recounts his climbing of Mount Katahdin
 
 - The aim is to get a sense of how Thoreau defines wilderness AND how he conceives of its value
 
-- Be ready to report back on your conclusions and where in the text you find evidence for them
+- Find me the quotes that stood out for you
+
+- What do we learn about Thoreau from his writing here?
 
 <br>
 
@@ -406,6 +501,13 @@ Groups take a few minutes to discuss the excerpt from Henry David Thoreau's *The
 **SLIDE**: Ok, don't lose sight of this, but now let's jump to the Muir piece.
 
 <br>
+
+*My favorites*
+
+- "The tops of mountains are among the unfinished parts of the globe, whither it is a slight insult to the gods to climb and pry into their secrets, and try their effect on our humanity. Only daring and insolent men, perchance, go there" (29).
+- "It is difficult to conceive of a region uninhabited by man. We habitually presume his presence and influence everywhere. And yet we have not seen pure Nature, unless we have seen her thus vast and drear and inhuman, though in the midst of cities. Nature was here something savage and awful, though beautiful. I looked with awe at the ground I trod on, to see what the Powers had made there, the form and fashion and material of their work. This was that Earth of which we have heard, made out of Chaos and Old Night. Here was no man’s garden, but the unhandseled globe. It was not lawn, nor pasture, nor mead, nor woodland, nor lea, nor arable, nor waste land. It was the fresh and natural surface of the planet Earth, as it was made forever and ever,—to be the dwelling of man, we say,—so Nature made it, and man may use it if he can" (29).
+- "Some part of the beholder, even some vital part, seems to escape through the loose grating of his ribs as he ascends. He is more lone than you can imagine. There is less of substantial thought and fair understanding in him than in the plains where men inhabit. His reason is dispersed and shadowy, more thin and subtile, like the air. Vast, Titanic, inhuman Nature has got him at disadvantage, caught him alone, and pilfers him of some of his divine faculty. She does not smile on him as in the plains. She seems to say sternly, Why came ye here before your time. This ground is not prepared for you" (28-29).
+- "I stand in awe of my body, this matter to which I am bound has become so strange to me. I fear not spirits, ghosts, of which I am one,—that my body might,—but I fear bodies, I tremble to meet them. What is this Titan that has possession of me? Talk of mysteries! Think of our life in nature,—daily to be shown matter, to come in contact with it,—rocks, trees, wind on our cheeks! the solid earth! the actual world! the common sense! Contact!" (29).
 
 *Notes from the reading, KTAADN notes for p223*
 
@@ -447,7 +549,7 @@ The Sierra Nevada mountains
 
 <br>
 
-**SLIDE**: Prompts
+**SLIDE**: Reflections
 
 :::
 
@@ -458,9 +560,7 @@ The Sierra Nevada mountains
 ::: {.r-fit-text}
 Muir, J. (1917). *My First Summer in the Sierra: Vol. II*
 
-1. What is the wilderness?
-
-2. What is the value of wilderness?
+- "June 18" to "June 23" and "July 20"
 :::
 
 ::: notes
@@ -477,9 +577,9 @@ You simply cannot write a history of American environmentalism without consideri
 
 Groups take a few minutes to discuss the excerpt from Muir's diary from exploring the Sierra Nevadas
 
-- The aim is to get a sense of how Muir defines wilderness AND how he conceives of its value
+- Find me the quotes that stood out for you
 
-- Be ready to report back on your conclusions and where in the text you find evidence for them
+- What do we learn about Muir from his writing here?
 
 <br>
 
@@ -490,6 +590,20 @@ Groups take a few minutes to discuss the excerpt from Muir's diary from explorin
 <br>
 
 **SLIDE**: On to Thomas Cole's essay on the wilderness
+
+<br>
+
+*My favorites*
+
+*What is the wilderness?*
+
+- "The mountains, too, along the eastern sky, and the domes in front of them, and the succession of smooth rounded waves between, swelling higher,
+
+*What is the value of wilderness?*
+
+- "June 23. Oh, these vast, calm, measureless mountain days, inciting at once to work and rest! Days in whose light everything seems equally divine, opening a thousand windows to show us God. Nevermore, however weary, should one faint by the way who gains the blessings of one mountain day; whatever his fate, long life, short life, stormy or calm, he is rich forever."
+
+- "July 20. These blessed mountains are so compactly filled with God’s beauty, no petty personal hope or experience has room to be. Drinking this champagne water is pure pleasure, so is breathing the living air, and every movement of limbs is pleasure, while the whole body seems to feel beauty when exposed to it as it feels the camp-fire or sunshine, entering not by the eyes alone, but equally through all one’s flesh like radiant heat, making a passionate ecstatic pleasure-glow not explainable."
 
 :::
 
@@ -507,7 +621,7 @@ Thomas Cole (February 1, 1801 – February 11, 1848) was an American artist and 
 
 <br>
 
-**SLIDE**: Prompts
+**SLIDE**: Reflections
 
 :::
 
@@ -516,20 +630,16 @@ Thomas Cole (February 1, 1801 – February 11, 1848) was an American artist and 
 ## {background-image="Images/04_1-Thomas_Cole_Landscape_v2.png" .center}
 
 ::: {.r-fit-text}
-Cole, T. (1836, January). *Essay on American Scenery*.
-
-1. What is the wilderness?
-
-2. What is the value of wilderness?
+Cole, T. (1836, January). Essay on American Scenery.
 :::
 
 ::: notes
 
 Alright groups, let's do this one more time
 
-- The aim is to get a sense of how Cole defines wilderness AND how he conceives of its value
+- Find me the quotes that stood out for you
 
-- Be ready to report back on your conclusions and where in the text you find evidence for them
+- What do we learn about Cole from his writing here?
 
 <br>
 
@@ -545,49 +655,114 @@ Alright groups, let's do this one more time
 
 <br>
 
-**SLIDE**: Back to the Nature Center
+**SLIDE**: From reflections, to summary!
 
 :::
 
 
 
-## {background-image="Images/background-forest_v3.png" .center}
+
+## {background-image="Images/04_1-Sierra_Nevada_Mountains_v2.png" .center}
 
 ::: {.r-fit-text}
-**A Spectrum of Environments (Nash 2014)**
+**The Sublime Narrative**
+
+- What is the wilderness?
+
+- How do I know it when I've found it?
+
 :::
-
-<br>
-
-```{r, fig.align = 'center', fig.width = 6, fig.height=1.25}
-## Manual DAG
-d1 <- tibble(
-  x = c(-3, 3),
-  y = c(1, 1),
-  labels = c("Purely\nCivilized", "Purely\nWild")
-)
-
-ggplot(data = d1, aes(x = x, y = y)) +
-  geom_point(size = 0) +
-  theme_void() +
-  coord_cartesian(xlim = c(-4, 4)) +
-  geom_label(aes(label = labels), size = 7) +
-  annotate("segment", x = -1.9, xend = 1.9, y = 1, yend = 1, arrow = arrow(ends = "both"))
-```
 
 ::: notes
 
-Ok, sum this all up for me.
+Groups, reflect on our discussions of the readings and get ready to report back to me on this big question
 
-- **What are the assumptions you accept if you adopt the sublime perspective on wilderness?**
+- Assuming these three writings represent the sublime narrative in action, what is the wilderness from this perspective?
 
 <br>
+
+*DISCUSS*
+
+- The wilderness is a non-human place (alien to our civilization)
+
+- It is a land shaped by natural processes, NOT the hand of man
+
+- Thoreau: 
+
+    - "the unfinished parts of the globe" (29)
+    
+    - "This was that Earth of which we have heard, made out of Chaos and Old Night. Here was no man’s garden, but the unhandseled globe. It was not lawn, nor pasture, nor mead, nor woodland, nor lea, nor arable, nor waste land. It was the fresh and natural surface of the planet Earth, as it was made forever and ever,—to be the dwelling of man, we say,—so Nature made it, and man may use it if he can” (29).
+
+<br>
+
+**SLIDE**: Prompt 2
+
+:::
+
+
+
+
+## {background-image="Images/04_1-Sierra_Nevada_Mountains_v2.png" .center}
+
+::: {.r-fit-text}
+**The Sublime Narrative**
+
+- What is the value of wilderness?
+
+- Why do we need it?
+
+:::
+
+::: notes
+
+Groups, reflect on our discussions of the readings and get ready to report back to me on this big question
+
+- Assuming these three writings represent the sublime narrative in action, what is the VALUE of wilderness from this perspective?
+
+<br>
+
+*DISCUSS*
+
+- Wilderness is terrifying, but in a good way!
+
+- We enter as pilgrims seeking god (alien to civilization) 
+
+- Thoreau
+
+    - “Some part of the beholder, even some vital part, seems to escape through the loose grating of his ribs as he ascends. He is more lone than you can imagine. There is less of substantial thought and fair understanding in him than in the plains where men inhabit. His reason is dispersed and shadowy, more thin and subtile, like the air. Vast, Titanic, inhuman Nature has got him at disadvantage, caught him alone, and pilfers him of some of his divine faculty. She does not smile on him as in the plains. She seems to say sternly, Why came ye here before your time. This ground is not prepared for you” (28-29).
+
+    - “I stand in awe of my body, this matter to which I am bound has become so strange to me. I fear not spirits, ghosts, of which I am one,—that my body might,—but I fear bodies, I tremble to meet them. What is this Titan that has possession of me? Talk of mysteries! Think of our life in nature,—daily to be shown matter, to come in contact with it,—rocks, trees, wind on our cheeks! the solid earth! the actual world! the common sense! Contact!” (29).
+    
+    - “The tops of mountains are among the unfinished parts of the globe, whither it is a slight insult to the gods to climb and pry into their secrets, and try their effect on our humanity. Only daring and insolent men, perchance, go there. Simple races, as savages, do not climb mountains,—their tops are sacred and mysterious tracts never visited by them. Pomola is always angry with those who climb to the summit of Ktaadn” (29).
+    
+<br>
+
+**SLIDE**: In sum
+
+:::
+
+
+
+
+## {background-image="Images/04_1-Sierra_Nevada_Mountains_v2.png"}
+
+**The Sublime Narrative**
+
+- The wilderness is a non-human place we enter as pilgrims seeking god (alien to civilization) 
+
+- Its value is linked to its purity (e.g. absence of our interference)
+
+::: notes
 
 - Wilderness is terrifying, but in a good way!
 
 - The value of wilderness is in its alien / non-human nature
 
 - We enter it as pilgrims ready to be dominated and awestruck
+
+<br>
+
+**Make sense?**
 
 <br>
 
