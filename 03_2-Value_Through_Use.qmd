@@ -31,6 +31,8 @@ Prep for Class
 
 1. Review Canvas submissions
 
+2. Have the class circle up seminar style
+
 <br>
 
 **SLIDE**: Paper 1 due tomorrow
@@ -276,15 +278,47 @@ This exercise is meant to both:
 
 <br>
 
-*Split class into groups of four*
+**SLIDE**: Let's start by talking about our lives as consumers!
 
-- *Five groups of four are what 300 can handle in separate clusters*
+:::
 
-- Go sit with your group!
+
+
+## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
 
 <br>
 
-**SLIDE**: Let's start by talking about our lives as consumers!
+### Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature
+
+::: {.incremental}
+
+1. What did you find?
+
+2. Why is this connected to the edenic narrative?
+
+3. How effective was this marketing on you? Would you buy it?
+
+:::
+
+::: notes
+
+**REVEAL**: In a moment we'll go around the room to here what you found
+
+- **REVEAL**: I want you to make the argument explicit
+
+- **REVEAL**: AND, I want you to evaluate the marketing
+
+<br>
+
+**Make sense?**
+
+- Alright, let's go!
+
+- No computers, let's all discuss what we've found
+
+<br>
+
+**SLIDE**: Reflections on the consumer side
 
 <br>
 
@@ -295,66 +329,6 @@ Find us two examples of this week's perspective, whether implicitly suggested or
 1. Arguments for Consumers: Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature. Submit: 1) A web link to the product/service/experience, and 2) An explanation of HOW the marketing for this item connects it to the Edenic narratives we explored last class (3+ sentences).
 
 2. Arguments for Citizens: Find an example of someone arguing that we should "open up" or increase our use of a specific wilderness or natural area in order to extract more value from it. Submit: 1) A link to the argument, 2) a brief summary of the argument (2+ sentences), and 3) An explanation of HOW this argument connects it to the Edenic narratives we explored last class (3+ sentences).
-
-:::
-
-
-
-## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
-### Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature
-
-::: {.fragment}
-- How common is the Edenic narrative in our consumer lives?
-:::
-
-::: notes
-
-Groups, start by focusing on the consumer side of our lives (e.g. Canvas Assignment Q1)
-
-- Take some time to review all the submitted cases and get ready to report back your experience of doing this assignment
-
-- **REVEAL: Specifically, I want you to tell me, how common is the Edenic narrative in the marketing of products and services to American consumers?**
-
-<br>
-
-*REPORT back and DISCUSS*
-
-<br>
-
-**SLIDE**: Review 2
-
-:::
-
-
-
-## Edenic Narratives of Wilderness {background-image="Images/background-forest_v3.png" .center}
-
-<br>
-
-### Find a product, service or experience for sale that is designed to help us extract the most value from wilderness or nature
-
-- Which specific messages were most effective on you? Why?
-
-::: notes
-
-Groups, dig back into the cases and get ready to report back
-
-- **Which specific messages work most effectively on you?**
-
-- **In other words, what makes you want to spend some money? Why?**
-
-<br>
-
-*REPORT back and DISCUSS*
-
-- *ON BOARD*
-
-<br>
-
-**SLIDE**: Reflect on this as a class
 
 :::
 
@@ -394,25 +368,29 @@ Groups, dig back into the cases and get ready to report back
 
 ### Find an example of someone arguing that we should "open up" or increase our use of a specific wilderness or natural area in order to extract more value from it
 
-- List 1: Reasons you find compelling
+::: {.fragment}
 
-- List 2: Reasons that do not work on you at all
+- What are the strongest reasons to preserve wilderness in your submission?
+
+:::
 
 ::: notes
 
-Groups, take a few minutes to review the political arguments submitted on Canvas (Q2)
+Everybody start by reflecting on the argument you submitted to canvas
 
-- Reflect on the arguments and build two lists to share with us
+- **REVEAL**: Focus on what you submitted and make a list of the strongest reasons to use the wilderness in your submission
 
-- Flag the specific messages that you find most compelling and those that don't work on you at all
-
-- Importantly, you don't have to agree with the conclusion of the argument!
+- Go!
 
 <br>
 
-*PRESENT and DISCUSS each*
+Ok, grab a marker and let's get all these reasons on the board!
 
-- *ON BOARD*
+<br>
+
+*DISCUSS*
+
+- **What do you find strongest from all the submissions on the board? Why**
 
 <br>
 

@@ -49,7 +49,43 @@ Prep for Class
 
 <br>
 
-**SLIDE**: Ok, quick refresher!
+**SLIDE**: Head's up on our next field trip
+
+:::
+
+
+
+## For Next Thursday (Sep 17th) {background-image="Images/background-forest_v3.png" .center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](Images/05_1-WondersOfWildlife_Exterior.jpg)
+:::
+
+::: {.column width="50%"}
+![](Images/05_1-Bass_Pro_Directions.png)
+:::
+
+::::
+
+::: notes
+
+Early head's up!
+
+- Next week Thursday, NOT this Thursday
+
+- We're heading to Bass Pro
+
+<br>
+
+**Does anybody need a ride to get there?**
+
+- Let's be environmental, I will give EC to carpoolers!
+
+<br>
+
+**SLIDE**: Ok, back to our material!
 
 :::
 
@@ -288,11 +324,14 @@ The Edenic perspective views wilderness as:
 
 ## {background-image="Images/04_1-Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg"}
 
-[**The Edenic Narrative**]{style="color:white;"}
+::: {.r-fit-text}
+[**The Edenic Narrative of Wilderness**]{style="color:white;"}
+:::
 
-- [**We should dominate all aspects of the wilderness, and**]{style="color:white;"}
+- [**The wilderness is a godless and disorganized place of danger and temptation**]{style="color:white;"}
 
-- [**We should maximally exploit all of its resources**]{style="color:white;"}
+- [**We must dominate the wilderness (maximally exploit all of its resources)**]{style="color:white;"}
+
 
 ::: notes
 
@@ -748,7 +787,7 @@ Groups, reflect on our discussions of the readings and get ready to report back 
 
 **The Sublime Narrative**
 
-- The wilderness is a non-human place we enter as pilgrims seeking god (alien to civilization) 
+- The wilderness is a place we enter as pilgrims seeking connection with something beyond ourselves
 
 - Its value is linked to its purity (e.g. absence of our interference)
 
