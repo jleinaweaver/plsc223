@@ -31,30 +31,15 @@ Prep for Class
 
 1. Set up Amazon Prime access for the Ken Burns documentary on the National Parks
 
-2. Plan for today (FA 27)
+2. Plan for today
 
     - 5 mins to take role, set up field trip, review paper 2, assignment for next week
-    
     - Clip 1 - Yosemite (15 mins)
+    - Clip 2 - Creation of Yellowstone (12 mins)
+    - Clip 3 - Muir vs Pinchot (12 mins)
+    - Clip 4 - Flooding the Hetch Hetchy (18 mins)
     
-    - Clip 2 - Muir vs Pinchot (12 mins)
-    
-    - Clip 3 - Flooding the Hetch Hetchy (18 mins)
-    
-
-
-
-
-<br>
-
-FA26 Plan (revise this: You never get to the Hetch Hetchy and the kids are burned out by Muir vs Pinchot time)
-
-- 5 mins to take role, set up field trip, review paper 2, assignment for next week
-- Clip 1 - Yosemite (15 mins)
-- Clip 2 - Creation of Yellowstone (12 mins)
-- Clip 3 - Muir vs Pinchot (12 mins)
-- Clip 4 - Flooding the Hetch Hetchy (18 mins)
-- THIS ONLY LEAVES 13 minutes for discussion!
+    - THIS ONLY LEAVES 13 minutes for discussion!
 
 <br>
 
@@ -248,7 +233,21 @@ And by discovery I mean by white people
 
 - **Clip 1 - Yosemite (Episode 1, 13:46 - 29:00; 15 mins)**
 
-- (*Clip ends after park ranger Shelton Johnson describing Yosemite as a cathedral*)
+<br>
+
+**Ok, talk to me about the early years of Yosemite. What stood out to you in clip?**
+
+<br>
+
+**Is Burns adopting one of the perspectives more than the others OR is he simply reflecting the history of the time as he has found it?**
+
+- **Evidence he represents the sublime?**
+
+- **Evidence he represents the utility narrative?**
+
+- **Evidence he represents the holistic narrative?**
+
+<br>
 
 - Soldier quote about the beauty of what they've found contrasted with the battalion burning indian villages
 
@@ -266,28 +265,63 @@ And by discovery I mean by white people
 
 <br>
 
-**Ok, talk to me about the early years of Yosemite. What stood out to you in clip?**
-
-<br>
-
-- **In what ways is the Edenic perspective illustrated in this clip? Who represents that view?**
-
-- **In what ways is the sublime perspective illustrated in this clip? Who represents that view?**
-
-- **In what ways is the utility perspective illustrated in this clip? Who represents that view?**
-
-- **In what ways is the holistic perspective illustrated in this clip? Who represents that view?**
-
-<br>
-
-**At this point, would you say that Burns is adopting one of the perspectives as his primary lens for telling this story? Which one?**
-
-<br>
-
-**SLIDE**: Let's jump to our two important figures: Muir vs Pinchot
+**SLIDE**: Let's jump to Yellowstone!
 
 :::
 
+
+
+## {background-image="Images/07_1-Yellowstone.jpg" .center}
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+::: {.r-fit-text}
+[Yellowstone National Park]{style="color:white;"}
+:::
+
+::: notes
+
+**Clip 2: Creation of Yellowstone (12 mins)**
+
+- **Episode 1, 1:08:28 - 1:17:23 (9 mins on founding)**
+
+- **Episode 1, 1:22:22 - 1:25:23 (3 mins on exploitation)**
+
+<br>
+
+**Ok, talk to me about the early years of Yellowstone What stood out to you in clip?**
+
+- **Is Burns adopting one of the perspectives more than the others OR is he simply reflecting the history of the time as he has found it?**
+
+<br>
+
+- Opens with native park ranger describing the insanity of discovering what had never been lost to his people
+
+-  New expedition aims to find anything of value!
+
+- "Discovery" and creation of Yellowstone (including expulsion of the natives) and the ensuing fight over who would manage/control the first national park in the world. These are the same debates we are having today.
+
+<br>
+
+**SLIDE**: Let's meet John Muir and Gifford Pinchot
+
+:::
 
 
 
@@ -309,11 +343,17 @@ And by discovery I mean by white people
 
 ::: notes
 
-**Clip 2: Muir vs Pinchot (12 mins)**
+**Clip 3: Muir vs Pinchot (12 mins)**
 
-- **Episode 2, 27:48 - 32:47 (5 mins); Clip ends with image of cliffside dwellings**
+- **Episode 2, 27:48 - 32:47 (5 mins)**
 
-- **Episode 2, 46:35 - 52:58 (6 mins); Clip ends with Mt Ranier becoming fifth national park**
+- **Episode 2, 46:35 - 52:58 (6 mins)**
+
+<br>
+
+**Ok, talk to me about this introduction to Muir and Pinchot. What stood out to you in these clips?**
+
+- **Is Burns giving both of these actors the same platform? The same level of admiration? Why or why not?**
 
 <br>
 
@@ -327,21 +367,13 @@ Muir
 
 - The "frontier line" redeeming wilderness for man vs wilderness redeems man
 
+<br>
+
 Pinchot
 
 - Pinchot: The greatest good for the greatest number. Two sides of the same coin.
 
 - Government sides with Pinchot.
-
-<br>
-
-**Ok, talk to me about this introduction to Muir and Pinchot. What stood out to you in these clips?**
-
-<br>
-
-- **Is Burns giving both of these actors the same platform? The same level of admiration? Why or why not?**
-
-- (Lord no!)
 
 <br>
 
@@ -359,7 +391,7 @@ Pinchot
 
 ::: notes
 
-**Clip 3 - Flooding the Hetch Hetchy (18 mins; Episode 2, 1:49:56 - 2:07:15)**
+**Clip 4 - Flooding the Hetch Hetchy (18 mins; Episode 2, 1:49:56 - 2:07:15)**
 
 <br>
 
@@ -368,6 +400,9 @@ IF TIME REMAINS: **Takeaways from this final story?**
 - "Nothing dollerable is safe": John Muir
 
 - The need for water in San Francisco vs a national park
+
+- 
+
 
 :::
 
